@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:20.000Z
+pubDatetime: 2026-05-31T21:27:37.000Z
 title: "Eredivisie no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,67 +13,67 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Joey Veerman (82, Eredivisie), com +52% em 24h, a 29k coins no Console (PS)."
+    a: "Tjaronn Chery (85, Eredivisie), com +46% em 24h, a 23k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Can Bozdoğan (87), -31.8% em 24h, a 30k coins."
+    a: "Can Bozdoğan (87), -44% em 24h, a 24k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Kenneth Taylor (84) — 95% de probabilidade de alta, a 19k coins."
+    a: "Pelo modelo FutQuant, Lewis Holtby (86) — 95% de probabilidade de alta, a 25k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 15 cartas em alta contra 33 em queda (média -1.8%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 12 cartas em alta contra 35 em queda (média -5.66%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **15 subiram** e **33 caíram**, com variação média de **-1.8%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **12 subiram** e **35 caíram**, com variação média de **-5.66%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
-> 🟢 **Maior alta:** Joey Veerman (82) **+52%** · 🔴 **Maior baixa:** Can Bozdoğan (87) **-31.8%**
+> 🟢 **Maior alta:** Tjaronn Chery (85) **+46%** · 🔴 **Maior baixa:** Can Bozdoğan (87) **-44%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joey Veerman | 82 | Eredivisie | 29k coins | +52% | -2.5% |
-| Ivan Perišić | 90 | Eredivisie | 32k coins | +32.6% | +12.1% |
-| Wout Weghorst | 85 | Eredivisie | 124k coins | +21.6% | +31.9% |
-| Luciano Valente | 87 | Eredivisie | 20k coins | +19.4% | -5.9% |
-| Steven Berghuis | 86 | Eredivisie | 57k coins | +14% | +41.6% |
-| Jordan Ayew | 80 | Eredivisie | 39k coins | +12.2% | +1.3% |
+| Tjaronn Chery | 85 | Eredivisie | 23k coins | +46% | +9.5% |
+| Ivan Perišić | 90 | Eredivisie | 35k coins | +42.9% | +20.7% |
+| Kenneth Taylor | 84 | Eredivisie | 24k coins | +20.2% | +17.3% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 61k coins | +9.9% | -39.6% |
+| Sergiño Dest | 86 | Eredivisie | 38k coins | +8.4% | +2% |
+| Wout Weghorst | 85 | Eredivisie | 118k coins | +8.3% | +24.9% |
 | Mika Godts | 80 | Eredivisie | 30k coins | +8.1% | 0% |
-| Couhaib Driouech | 86 | Eredivisie | 109k coins | +5.8% | +6.9% |
-| Quinten Timber | 85 | Eredivisie | 36k coins | +4.4% | +25.7% |
+| Lewis Holtby | 86 | Eredivisie | 25k coins | +3.1% | -26.7% |
 
 
 ### Análise das altas
 
-- **Joey Veerman (82)** subiu **+52%** em 24h, a **29k coins** (faixa do dia: 12k–29k). Está +26% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Tjaronn Chery (85)** subiu **+46%** em 24h, a **23k coins** (faixa do dia: 16k–23k). Está +12% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Ivan Perišić (90)** subiu **+32.6%** em 24h, a **32k coins** (faixa do dia: 20k–38k). Está +22% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Ivan Perišić (90)** subiu **+42.9%** em 24h, a **35k coins** (faixa do dia: 20k–38k). Está +31% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Wout Weghorst (85)** subiu **+21.6%** em 24h, a **124k coins** (faixa do dia: 98k–124k). Está +25% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Kenneth Taylor (84)** subiu **+20.2%** em 24h, a **24k coins** (faixa do dia: 17k–25k). Está +14% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Can Bozdoğan | 87 | Eredivisie | 30k coins | -31.8% | +46.3% |
-| Ivan Perišić | 86 | Eredivisie | 23k coins | -20.5% | -7% |
-| Patrick van Aanholt | 85 | Eredivisie | 34k coins | -8.1% | +14.3% |
-| Jaap Stam | 91 | Eredivisie | 870k coins | -7.8% | -6.6% |
-| Park Ji Sung | 91 | Eredivisie | 60k coins | -5.5% | -13.7% |
-| Ko Itakura | 88 | Eredivisie | 23k coins | -5.2% | +3.4% |
-| Sergiño Dest | 86 | Eredivisie | 36k coins | -3.4% | -6% |
+| Can Bozdoğan | 87 | Eredivisie | 24k coins | -44% | +27.3% |
+| Couhaib Driouech | 86 | Eredivisie | 80k coins | -24.1% | -20.3% |
+| Quinten Timber | 85 | Eredivisie | 29k coins | -18.3% | +2.6% |
+| Dennis Man | 86 | Eredivisie | 68k coins | -8.7% | +54.6% |
+| Jaap Stam | 91 | Eredivisie | 909k coins | -8.1% | -1.2% |
+| Park Ji Sung | 91 | Eredivisie | 58k coins | -5.7% | -15.9% |
+| Ivan Perišić | 86 | Eredivisie | 26k coins | -5.4% | +6% |
+| Patrick van Aanholt | 85 | Eredivisie | 35k coins | -4.8% | +17.6% |
 
 
 ### Análise das baixas
 
-- **Can Bozdoğan (87)** caiu **-31.8%** em 24h, a **30k coins** (faixa do dia: 29k–44k). Está -27% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Can Bozdoğan (87)** caiu **-44%** em 24h, a **24k coins** (faixa do dia: 24k–44k). Está -41% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Ivan Perišić (86)** caiu **-20.5%** em 24h, a **23k coins** (faixa do dia: 22k–30k). Está -10% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 95% de probabilidade.
+- **Couhaib Driouech (86)** caiu **-24.1%** em 24h, a **80k coins** (faixa do dia: 80k–112k). Está -24% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 80% de probabilidade.
 
-- **Patrick van Aanholt (85)** caiu **-8.1%** em 24h, a **34k coins** (faixa do dia: 30k–37k). Está em linha com a média de 7 dias (-6%). 🔮 O modelo projeta **recuperação** (reversão para alta), com 80% de probabilidade.
+- **Quinten Timber (85)** caiu **-18.3%** em 24h, a **29k coins** (faixa do dia: 29k–36k). Está em linha com a média de 7 dias (-3%). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -82,10 +82,11 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Kenneth Taylor | 84 | 19k coins | 23k coins | 95% |
-| Couhaib Driouech | 86 | 109k coins | 119k coins | 80% |
-| Ko Itakura | 88 | 23k coins | 25k coins | 80% |
-| Patrick van Aanholt | 85 | 34k coins | 37k coins | 80% |
+| Lewis Holtby | 86 | 25k coins | 31k coins | 95% |
+| Kenneth Taylor | 84 | 24k coins | 29k coins | 95% |
+| Couhaib Driouech | 86 | 80k coins | 88k coins | 80% |
+| Patrick van Aanholt | 85 | 35k coins | 38k coins | 80% |
+| Ko Itakura | 88 | 26k coins | 28k coins | 80% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -94,14 +95,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Wout Weghorst | 85 | 124k coins | -15.7% |
-| Tjaronn Chery | 85 | 22k coins | -29.1% |
-| Ivan Perišić | 90 | 32k coins | -29.1% |
-| Quinten Timber | 85 | 36k coins | -17.5% |
-| Dennis Man | 86 | 63k coins | -21.3% |
-| Josip Šutalo | 89 | 18k coins | -29.2% |
-| Givairo Read | 86 | 16k coins | -15.7% |
-| Ricardo Pepi | 87 | 15k coins | -17.5% |
+| Wout Weghorst | 85 | 118k coins | -15.7% |
+| Ivan Perišić | 90 | 35k coins | -29.1% |
+| Quinten Timber | 85 | 29k coins | -17.5% |
+| Josip Šutalo | 89 | 20k coins | -29.2% |
+| Dennis Man | 86 | 68k coins | -21.3% |
+| Tjaronn Chery | 85 | 23k coins | -29.1% |
+| Givairo Read | 86 | 17k coins | -15.7% |
+| Park Ji Sung | 91 | 58k coins | -9.7% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -112,20 +113,22 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Joey Veerman (82, Eredivisie), com +52% em 24h, a 29k coins no Console (PS).
+Tjaronn Chery (85, Eredivisie), com +46% em 24h, a 23k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Can Bozdoğan (87), -31.8% em 24h, a 30k coins.
+Can Bozdoğan (87), -44% em 24h, a 24k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Kenneth Taylor (84) — 95% de probabilidade de alta, a 19k coins.
+Pelo modelo FutQuant, Lewis Holtby (86) — 95% de probabilidade de alta, a 25k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 15 cartas em alta contra 33 em queda (média -1.8%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 12 cartas em alta contra 35 em queda (média -5.66%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 

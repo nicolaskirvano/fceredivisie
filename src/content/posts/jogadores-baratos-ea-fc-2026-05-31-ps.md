@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:20.000Z
+pubDatetime: 2026-05-31T21:27:37.000Z
 title: "Jogadores baratos de Eredivisie no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 88 | CAM | Eredivisie | 12k coins | +4.4% |
-| Mats Deijl | 88 | RB | Eredivisie | 15k coins | +5.4% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 15k coins | +7.3% |
-| Ricardo Pepi | 87 | ST | Eredivisie | 15k coins | -9.1% |
+| Dirk Kuyt | 88 | CAM | Eredivisie | 14k coins | -15.2% |
 | Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +7% |
-| Mauro Júnior | 86 | LB | Eredivisie | 12k coins | -60.8% |
+| Kees Smit | 86 | CAM | Eredivisie | 13k coins | 0% |
 | Kenny McLean | 85 | CDM | Eredivisie | 9k coins | 0% |
-| Başar Önal | 85 | LM | Eredivisie | 12k coins | -60.2% |
-| Jakob Breum | 85 | CM | Eredivisie | 12k coins | -57.3% |
-| Ismael Saibari | 84 | CAM | Eredivisie | 12k coins | -61.3% |
-| Jorthy Mokio | 84 | CDM | Eredivisie | 12k coins | -58.6% |
-| Joël Drommel | 84 | GK | Eredivisie | 12k coins | -58% |
-| Melle Meulensteen | 84 | CDM | Eredivisie | 12k coins | -58% |
-| Ayase Ueda | 84 | ST | Eredivisie | 12k coins | -66.7% |
-| Paul Wanner | 84 | CM | Eredivisie | 12k coins | -57.3% |
+| Jakob Breum | 85 | CM | Eredivisie | 11k coins | -62.2% |
+| Başar Önal | 85 | LM | Eredivisie | 11k coins | -61.5% |
+| Ismael Saibari | 84 | CAM | Eredivisie | 11k coins | -64.5% |
+| Melle Meulensteen | 84 | CDM | Eredivisie | 11k coins | -60.7% |
+| Jorthy Mokio | 84 | CDM | Eredivisie | 11k coins | -61.7% |
+| Victor Edvardsen | 84 | ST | Eredivisie | 14k coins | -29% |
+| Sam Lammers | 83 | ST | Eredivisie | 11k coins | -66.2% |
+| Richonell Margaret | 83 | LM | Eredivisie | 11k coins | -63.3% |
+| Finn Azaz | 83 | CAM | Eredivisie | 11k coins | -69.7% |
+| Guus Til | 83 | ST | Eredivisie | 11k coins | -70.3% |
 
 
 ## 📈 Destaques
 
 - **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12k coins**
 
-- **Mats Deijl (88, RB)** da Eredivisie, a apenas **15k coins**
-
-- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **15k coins**
-
-- **Ricardo Pepi (87, ST)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins**
+
+- **Kees Smit (86, CAM)** da Eredivisie, a apenas **13k coins**
+
+- **Kenny McLean (85, CDM)** da Eredivisie, a apenas **9k coins**
 
 
 ## Por que estas cartas?
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 

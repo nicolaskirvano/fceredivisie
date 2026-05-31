@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:38.000Z
+pubDatetime: 2026-05-31T22:36:02.000Z
 title: "Jogadores baratos de Eredivisie no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 88 | CAM | Eredivisie | 11k coins | 0% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 15k coins | -13% |
 | Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | 0% |
-| Mauro Júnior | 86 | LB | Eredivisie | 12k coins | -63.5% |
-| Kees Smit | 86 | CAM | Eredivisie | 12k coins | -10.7% |
-| Başar Önal | 85 | LM | Eredivisie | 11k coins | -61.9% |
-| Jakob Breum | 85 | CM | Eredivisie | 12k coins | -57.7% |
-| Youri Baas | 84 | CB | Eredivisie | 11k coins | -71% |
-| Ismael Saibari | 84 | CAM | Eredivisie | 11k coins | -63.3% |
-| Paul Wanner | 84 | CM | Eredivisie | 11k coins | -73.3% |
-| Troy Parrott | 84 | ST | Eredivisie | 11k coins | -66.7% |
-| Ayase Ueda | 84 | ST | Eredivisie | 11k coins | -61.2% |
-| Melle Meulensteen | 84 | CDM | Eredivisie | 12k coins | -78.1% |
-| Joël Drommel | 84 | GK | Eredivisie | 12k coins | -57.4% |
-| Jorthy Mokio | 84 | CDM | Eredivisie | 12k coins | -74.4% |
+| Mauro Júnior | 86 | LB | Eredivisie | 11k coins | -65.1% |
+| Givairo Read | 86 | RB | Eredivisie | 13k coins | +4% |
+| Jakob Breum | 85 | CM | Eredivisie | 11k coins | -70.7% |
+| Başar Önal | 85 | LM | Eredivisie | 11k coins | -61.2% |
+| Ayase Ueda | 84 | ST | Eredivisie | 11k coins | -62.1% |
+| Melle Meulensteen | 84 | CDM | Eredivisie | 11k coins | -79% |
+| Ismael Saibari | 84 | CAM | Eredivisie | 11k coins | -61.1% |
+| Mohamed Ihattaren | 84 | RM | Eredivisie | 11k coins | -75.3% |
+| Youri Baas | 84 | CB | Eredivisie | 11k coins | -70.1% |
+| Joël Drommel | 84 | GK | Eredivisie | 11k coins | -63.9% |
+| Jorthy Mokio | 84 | CDM | Eredivisie | 11k coins | -71.8% |
+| Troy Parrott | 84 | ST | Eredivisie | 11k coins | -62.1% |
+| Paul Wanner | 84 | CM | Eredivisie | 11k coins | -59.3% |
 
 
 ## 📈 Destaques
 
 - **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **11k coins**
 
-- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11k coins**
 
-- **Mauro Júnior (86, LB)** da Eredivisie, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mauro Júnior (86, LB)** da Eredivisie, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Givairo Read (86, RB)** da Eredivisie, a apenas **13k coins**
+
+- **Jakob Breum (85, CM)** da Eredivisie, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

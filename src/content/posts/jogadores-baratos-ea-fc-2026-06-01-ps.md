@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:36:02.000Z
+pubDatetime: 2026-06-01T13:36:02.000Z
 title: "Jogadores baratos de Eredivisie no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,7 +32,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jari Litmanen | 88 | CAM | Eredivisie | 12k coins | +4.6% |
 | Mats Deijl | 88 | RB | Eredivisie | 15k coins | +1.7% |
 | Mauro Júnior | 86 | LB | Eredivisie | 11k coins | -63.6% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | -4.4% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | +2.3% |
 | Kees Smit | 86 | CAM | Eredivisie | 14k coins | +1.9% |
 | Givairo Read | 86 | RB | Eredivisie | 14k coins | -20% |
 | Kenny McLean | 85 | CDM | Eredivisie | 9k coins | 0% |

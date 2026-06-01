@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:36:01.000Z
+pubDatetime: 2026-06-01T01:36:01.000Z
 title: "Eredivisie no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Lewis Holtby (86) — 95% de probabilidade de alta, a 25k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 12 cartas em alta contra 35 em queda (média -5.78%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 13 cartas em alta contra 35 em queda (média -5.52%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **12 subiram** e **35 caíram**, com variação média de **-5.78%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **13 subiram** e **35 caíram**, com variação média de **-5.52%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Tjaronn Chery (85) **+46%** · 🔴 **Maior baixa:** Can Bozdoğan (87) **-44%**
 
@@ -36,8 +36,8 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | --- | --- | --- | --- | --- | --- |
 | Tjaronn Chery | 85 | Eredivisie | 23k coins | +46% | +9.5% |
 | Ivan Perišić | 90 | Eredivisie | 35k coins | +42.9% | +20.7% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 68k coins | +25.9% | -16.6% |
 | Kenneth Taylor | 84 | Eredivisie | 24k coins | +20.2% | +17.3% |
-| Anis Hadj-Moussa | 86 | Eredivisie | 61k coins | +9.9% | -39.6% |
 | Sergiño Dest | 86 | Eredivisie | 38k coins | +8.4% | +2% |
 | Wout Weghorst | 85 | Eredivisie | 118k coins | +8.3% | +24.9% |
 | Mika Godts | 80 | Eredivisie | 30k coins | +8.1% | 0% |
@@ -50,7 +50,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 - **Ivan Perišić (90)** subiu **+42.9%** em 24h, a **35k coins** (faixa do dia: 20k–38k). Está +31% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Kenneth Taylor (84)** subiu **+20.2%** em 24h, a **24k coins** (faixa do dia: 17k–25k). Está +14% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
+- **Anis Hadj-Moussa (86)** subiu **+25.9%** em 24h, a **68k coins** (faixa do dia: 54k–68k). Está em linha com a média de 7 dias (+1%). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -62,6 +62,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Quinten Timber | 85 | Eredivisie | 29k coins | -18.3% | +2.6% |
 | Dennis Man | 86 | Eredivisie | 68k coins | -8.7% | +54.6% |
 | Jaap Stam | 91 | Eredivisie | 909k coins | -8.1% | -1.2% |
+| Jari Litmanen | 90 | Eredivisie | 29k coins | -7.1% | -10.7% |
 | Park Ji Sung | 91 | Eredivisie | 58k coins | -5.7% | -15.9% |
 | Ivan Perišić | 86 | Eredivisie | 26k coins | -5.4% | +6% |
 | Patrick van Aanholt | 85 | Eredivisie | 35k coins | -4.8% | +17.6% |
@@ -122,7 +123,7 @@ Can Bozdoğan (87), -44% em 24h, a 24k coins.
 Pelo modelo FutQuant, Lewis Holtby (86) — 95% de probabilidade de alta, a 25k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 12 cartas em alta contra 35 em queda (média -5.78%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 13 cartas em alta contra 35 em queda (média -5.52%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

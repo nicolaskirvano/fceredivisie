@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:36:18.000Z
+pubDatetime: 2026-06-18T22:37:22.000Z
 title: "Eredivisie no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,83 +13,75 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Givairo Read (86, Eredivisie), com +41% em 24h, a 23k coins no PC."
+    a: "Kento Shiogai (83, Eredivisie), com +31.3% em 24h, a 108k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ricardo Pepi (87), -30.8% em 24h, a 30k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 8 cartas em alta contra 18 em queda (média -4.4%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
+    a: "Dennis Man (86), -29.6% em 24h, a 36k coins."
+  - q: "Como está o mercado do EA FC hoje?"
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 9 cartas em alta contra 26 em queda (média -2.98%)."
+  - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **8 subiram** e **18 caíram**, com variação média de **-4.4%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+O mercado da Eredivisie em PC vive um dia de forte pressão de venda, com quedas predominando sobre as altas na última hora. A média do segmento recuou 2,98% em 24h, refletindo um sentimento negativo generalizado entre os traders.
 
-> 🟢 **Maior alta:** Givairo Read (86) **+41%** · 🔴 **Maior baixa:** Ricardo Pepi (87) **-30.8%**
+> 🟢 **Maior alta:** Kento Shiogai (83) **+31.3%** · 🔴 **Maior baixa:** Dennis Man (86) **-29.6%**
 
-## 🟢 Maiores altas (24h)
-
-| Jogador | OVR | Liga | Preço | 24h | 7d |
-| --- | --- | --- | --- | --- | --- |
-| Givairo Read | 86 | Eredivisie | 23k coins | +41% | +22.2% |
-| Dirk Kuyt | 88 | Eredivisie | 30k coins | +20.8% | +48.7% |
-| Can Bozdoğan | 87 | Eredivisie | 25k coins | +7.4% | +17.4% |
-| Tjaronn Chery | 85 | Eredivisie | 38k coins | +5.1% | +104.3% |
-| Mika Godts | 87 | Eredivisie | 20k coins | +4.3% | -21.7% |
-
-
-### Análise das altas
-
-- **Givairo Read (86)** subiu **+41%** em 24h, a **23k coins** (faixa do dia: 20k–29k). Está em linha com a média de 7 dias (+2%). O modelo vê **estabilização** no curto prazo.
-
-- **Dirk Kuyt (88)** subiu **+20.8%** em 24h, a **30k coins** (faixa do dia: 18k–30k). Está +35% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Can Bozdoğan (87)** subiu **+7.4%** em 24h, a **25k coins** (faixa do dia: 20k–30k). Está +9% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-
-## 🔴 Maiores baixas (24h)
+## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ricardo Pepi | 87 | Eredivisie | 30k coins | -30.8% | +10% |
-| Mohamed Ihattaren | 84 | Eredivisie | 32k coins | -28.2% | -22% |
-| Kento Shiogai | 83 | Eredivisie | 77k coins | -21.6% | +118.2% |
-| Melle Meulensteen | 84 | Eredivisie | 32k coins | -17.9% | -9.9% |
-| Park Ji Sung | 91 | Eredivisie | 84k coins | -16.5% | -14.8% |
-| Anis Hadj-Moussa | 86 | Eredivisie | 80k coins | -16.3% | +13.6% |
-| Paul Wanner | 84 | Eredivisie | 36k coins | -16.3% | -20% |
-| Troy Parrott | 84 | Eredivisie | 38k coins | -14.8% | -19.8% |
-| Youri Baas | 84 | Eredivisie | 37k coins | -13.9% | -2.6% |
-| Jordan Ayew | 80 | Eredivisie | 38k coins | -13.3% | -21.1% |
+| Kento Shiogai | 83 | Eredivisie | 108k coins | +31.3% | +198.6% |
+| Victor Edvardsen | 84 | Eredivisie | 28k coins | +20% | +21.5% |
+| Mats Deijl | 88 | Eredivisie | 25k coins | +19% | +47.1% |
+| Ricardo Pepi | 87 | Eredivisie | 45k coins | +15.4% | +95.7% |
+| Josip Šutalo | 90 | Eredivisie | 38k coins | +15.4% | 0% |
+| Jordan Ayew | 80 | Eredivisie | 40k coins | +11.3% | -11.6% |
 
 
-### Análise das baixas
-
-- **Ricardo Pepi (87)** caiu **-30.8%** em 24h, a **30k coins** (faixa do dia: 28k–40k). Está em linha com a média de 7 dias (-7%). O modelo vê **estabilização** no curto prazo.
-
-- **Mohamed Ihattaren (84)** caiu **-28.2%** em 24h, a **32k coins** (faixa do dia: 28k–42k). Está -16% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Kento Shiogai (83)** caiu **-21.6%** em 24h, a **77k coins** (faixa do dia: 70k–110k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
+Kento Shiogai liderou o movimento de compra com alta de 31,3% para 108k coins, seguido por Victor Edvardsen que subiu 20% para 28k. Mats Deijl também se destacou com 19% de alta, atingindo 25k, enquanto Ricardo Pepi e Josip Šutalo tiveram ganhos modestos de 15,4%.
 
 
-## 📐 Como o FutQuant lê o mercado
+## 🔴 Destaques de queda (24h)
 
-Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** (cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: não só o preço, mas **para onde ele tende a ir**.
+| Jogador | OVR | Liga | Preço | 24h | 7d |
+| --- | --- | --- | --- | --- | --- |
+| Dennis Man | 86 | Eredivisie | 36k coins | -29.6% | -15.2% |
+| Youri Baas | 84 | Eredivisie | 29k coins | -26.7% | -14% |
+| Paul Wanner | 84 | Eredivisie | 34k coins | -25.8% | -21.7% |
+| Kenneth Taylor | 84 | Eredivisie | 24k coins | -25.8% | +10.5% |
+| Ko Itakura | 88 | Eredivisie | 25k coins | -24.2% | -41.2% |
+| Mohamed Ihattaren | 84 | Eredivisie | 32k coins | -22.3% | -3.7% |
+| Givairo Read | 86 | Eredivisie | 22k coins | -22.1% | +6% |
+| Ayase Ueda | 84 | Eredivisie | 42k coins | -17.6% | -7.3% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 70k coins | -15.8% | +14.3% |
+| Ivan Perišić | 90 | Eredivisie | 40k coins | -13% | +8.8% |
+
+
+Dennis Man foi o grande perdedor do dia, despencando 29,6% para 36k coins, seguido de perto por Youri Baas com queda de 26,7% para 29k. Paul Wanner e Kenneth Taylor também registraram quedas acentuadas de 25,8%, caindo para 34k e 24k respectivamente.
+
+
+## 🎯 A estratégia do dia
+O cenário atual sugere cautela e foco em oportunidades de compra nas quedas acentuadas de ativos com alta probabilidade de retorno. Recomenda-se evitar vendas precipitadas e aguardar a estabilização dos preços antes de realizar novas entradas no mercado.
+
+
+## 🔍 Como apuramos os preços
+Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Givairo Read (86, Eredivisie), com +41% em 24h, a 23k coins no PC.
+Kento Shiogai (83, Eredivisie), com +31.3% em 24h, a 108k coins no PC.
 
 **E a maior queda do dia?**  
-Ricardo Pepi (87), -30.8% em 24h, a 30k coins.
+Dennis Man (86), -29.6% em 24h, a 36k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 8 cartas em alta contra 18 em queda (média -4.4%).
+**Como está o mercado do EA FC hoje?**  
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 9 cartas em alta contra 26 em queda (média -2.98%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 

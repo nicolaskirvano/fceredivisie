@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:26:09.000Z
+pubDatetime: 2026-06-18T19:36:18.000Z
 title: "Eredivisie no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true

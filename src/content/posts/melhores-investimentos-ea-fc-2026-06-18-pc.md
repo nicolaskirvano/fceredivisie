@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:26:10.000Z
+pubDatetime: 2026-06-18T19:36:19.000Z
 title: "Melhores investimentos em Eredivisie no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true

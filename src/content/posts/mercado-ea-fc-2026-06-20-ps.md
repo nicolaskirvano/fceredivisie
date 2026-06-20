@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:36:41.000Z
+pubDatetime: 2026-06-20T16:36:51.000Z
 title: "Eredivisie no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,54 +13,71 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Jorthy Mokio (84, Eredivisie), com +23.5% em 24h, a 43k coins no Console (PS)."
+    a: "Ivan Perišić (86, Eredivisie), com +30.5% em 24h, a 28k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Youri Baas (84), -35.6% em 24h, a 32k coins."
+    a: "Youri Baas (84), -32.8% em 24h, a 32k coins."
+  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
+    a: "Pelo modelo FutQuant, Kenneth Taylor (84) — 95% de probabilidade de alta, a 23k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 7 cartas em alta contra 21 em queda (média -8.9%)."
+    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 13 cartas em alta contra 20 em queda (média -4.16%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado de cards da Eredivisie em console apresenta um cenário extremamente hostil para os traders de curto prazo, com uma dominância clara das quedas de preço que reflete um sentimento de venda massiva e falta de convicção nos ativos médios. Com uma média de desvalorização de -8.9% nas últimas 24 horas, o indicador de sentimento mostra que as quedas superam as altas por uma margem ampla de 21 contra 7, sinalizando que a liquidez está sendo drenada rapidamente de carteiras que não possuem fundamentos sólidos de demanda futura. Este ambiente de pressão vendeur exige uma leitura atenta das probabilidades de alta associadas a cada movimento, pois nem toda queda representa oportunidade de compra e nem toda alta indica tendência sustentável, especialmente quando os percentuais de probabilidade de alta são baixos para os ativos em ascensão. A volatilidade observada sugere que muitos traders estão realizando lucros ou cortando perdas em posições especulativas, criando um mercado de vendedor onde apenas os ativos com alta probabilidade de retorno futuro conseguem resistir à gravidade do dump geral. É crucial manter a disciplina e evitar a FOMO em ativos que sobem sem suporte de demanda real, focando exclusivamente nos poucos sinais de reversão de tendência que os dados probabilísticos indicam como legítimos.
+O cenário do mercado da Eredivisie em consoles PlayStation para o dia 20 de junho de 2026 é caracterizado por uma pressão vendedora intensa e predominante, onde a lógica de realização de lucros e corte de perdas ditou a pauta absoluta, resultando em um balanço negativo generalizado com 20 quedas registradas contra apenas 13 altas, gerando uma média de variação de -4.16% nas últimas 24 horas. Esse ambiente hostil para os traders exige extrema cautela, pois a liquidez parece estar sendo drenada de ativos mais especulativos em favor de uma consolidação de preços em ativos fundamentais, embora a volatilidade ainda permita oportunidades pontuais para quem possui disciplina de execução. O tom do dia foi claramente defensivo, com a maioria dos jogadores sofrendo desvalorizações significativas, o que sugere que o mercado está em fase de correção após movimentos anteriores de alta ou em antecipação a eventos futuros que não foram ainda precificados, criando um terreno fértil para compras de pânico em ativos sólidos. Traders que tentaram alavancar posições longas sem proteção sofreram com a queda generalizada, enquanto aqueles que mantiveram caixa ou operaram no sentido da tendência de baixa encontraram melhor preservação de capital, demonstrando a importância de adaptar a estratégia ao sentimento macro do dia. A disparidade entre o número de altas e quedas indica que a confiança dos investidores está abalada, e qualquer movimento de alta isolado deve ser analisado com ceticismo até que haja uma reversão clara na média diária de variação, que continua negativa.
 
-> 🟢 **Maior alta:** Jorthy Mokio (84) **+23.5%** · 🔴 **Maior baixa:** Youri Baas (84) **-35.6%**
+> 🟢 **Maior alta:** Ivan Perišić (86) **+30.5%** · 🔴 **Maior baixa:** Youri Baas (84) **-32.8%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jorthy Mokio | 84 | Eredivisie | 43k coins | +23.5% | +0.6% |
-| Tjaronn Chery | 85 | Eredivisie | 28k coins | +16.5% | +8.5% |
-| Melle Meulensteen | 84 | Eredivisie | 42k coins | +14.9% | +4.3% |
+| Ivan Perišić | 86 | Eredivisie | 28k coins | +30.5% | +50.5% |
+| Lewis Holtby | 86 | Eredivisie | 29k coins | +15.7% | +49.4% |
+| Finn Azaz | 83 | Eredivisie | 30k coins | +15.3% | -1.2% |
 | Guus Til | 83 | Eredivisie | 40k coins | +13.5% | 0% |
-| Jordan Ayew | 80 | Eredivisie | 48k coins | +9.2% | +1.1% |
-| Ricardo Pepi | 87 | Eredivisie | 36k coins | +6.7% | +2.1% |
-| Joël Drommel | 84 | Eredivisie | 48k coins | +3.9% | +1.1% |
+| Jari Litmanen | 90 | Eredivisie | 60k coins | +12.5% | +146.3% |
+| Troy Parrott | 84 | Eredivisie | 30k coins | +5.9% | +0.6% |
+| Joël Drommel | 84 | Eredivisie | 48k coins | +5.5% | +4.3% |
+| Ayase Ueda | 84 | Eredivisie | 42k coins | +5% | -1.2% |
 
 
-Entre os poucos ativos que conseguiram subir, o destaque vai para Jorthy Mokio, que registrou uma alta de 23.5% em 24 horas, chegando a 43k coins, impulsionado por uma probabilidade de alta de 56% que sugere uma demanda orgânica ou escassez momentânea no livro de ordens. Tjaronn Chery também se destaca com uma valorização de 16.5%, atingindo 28k coins, embora sua probabilidade de alta de apenas 5% indique que este movimento pode ser um 'dead cat bounce' ou uma flutuação sem sustentação de longo prazo. Melle Meulensteen apresenta um perfil mais robusto entre os compradores, com alta de 14.9% para 42k coins e uma probabilidade de alta de 53%, o que combina ganho de preço com um sinal estatístico favorável para continuidade da tendência. Guus Til subiu 13.5% para 40k coins, mas, assim como Chery, sua probabilidade de alta de 5% alerta os traders para a fragilidade desta alta, possivelmente causada por uma redução temporária de oferta em vez de aumento real de procura. Jordan Ayew, com 9.2% de alta para 48k coins e 8% de probabilidade, segue o mesmo padrão de ativos de maior rating que sofrem menos volatilidade absoluta, mas ainda assim carecem de sinais fortes de reversão estrutural no mercado atual.
+Dentre as poucas luzes no mercado, Ivan Perišić (86, Eredivisie) se destaca como o ativo mais forte do dia, registrando uma alta explosiva de 30.5% em 24 horas e atingindo o preço de 28 mil coins, um movimento respaldado por uma probabilidade de alta de 95%, o que indica forte convicção do algoritmo e dos traders institucionais na continuidade da tendência de valorização desse ativo específico. Lewis Holtby (86, Eredivisie) também apresenta comportamento robusto com 15.7% de alta em 24 horas, cotado a 29 mil coins e com a mesma probabilidade de alta de 95%, sugerindo que há uma demanda consistente por peças de linha média de alto rating que estão sendo escasseadas artificialmente ou naturalmente no mercado, criando uma espiral de preços ascendente. Finn Azaz (83, Eredivisie) subiu 15.3% para 30 mil coins, embora sua probabilidade de alta seja mais modesta de 44%, o que alerta traders para a possibilidade de um topo curto ou consolidação imediata, indicando que a alta pode ser mais frágil e dependente de volume momentâneo do que de uma fundamentação sólida de longo prazo. Guus Til (83, Eredivisie) apresentou uma alta de 13.5% chegando a 40 mil coins, mas com uma probabilidade de alta alarmantemente baixa de 5%, o que caracteriza um movimento de 'dead cat bounce' ou recuperação técnica em um ativo que o modelo considera fortemente desvalorizado para altas futuras, sugerindo que qualquer compra aqui é especulativa e de alto risco. Jari Litmanen (90, Eredivisie) fechou com 12.5% de alta a 60 mil coins e probabilidade de 95%, reforçando a tese de que ativos de rating mais alto e lendários estão sendo usados como refúgio de valor em meio à turbulência, mantendo sua apreciação mesmo quando o mercado geral sangra.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Youri Baas | 84 | Eredivisie | 32k coins | -35.6% | -27.8% |
-| Jari Litmanen | 90 | Eredivisie | 38k coins | -35.2% | +45.8% |
-| Park Ji Sung | 91 | Eredivisie | 66k coins | -25% | -44.1% |
-| Josip Šutalo | 90 | Eredivisie | 31k coins | -24.4% | +11.5% |
-| Dennis Man | 86 | Eredivisie | 26k coins | -20.8% | -24.4% |
-| Başar Önal | 85 | Eredivisie | 30k coins | -14.3% | -14.3% |
-| Can Bozdoğan | 87 | Eredivisie | 20k coins | -14% | +21.2% |
-| Ahmetcan Kaplan | 88 | Eredivisie | 22k coins | -13% | -34.7% |
-| Sergiño Dest | 86 | Eredivisie | 122k coins | -9.2% | +9% |
-| Wout Weghorst | 85 | Eredivisie | 89k coins | -4.5% | -0.5% |
+| Youri Baas | 84 | Eredivisie | 32k coins | -32.8% | -29.6% |
+| Ahmetcan Kaplan | 88 | Eredivisie | 22k coins | -30.8% | -42.4% |
+| Park Ji Sung | 91 | Eredivisie | 65k coins | -25% | -41.4% |
+| Kenneth Taylor | 84 | Eredivisie | 23k coins | -21.6% | -37% |
+| Dennis Man | 86 | Eredivisie | 27k coins | -21.5% | -32% |
+| Mohamed Ihattaren | 84 | Eredivisie | 31k coins | -10.7% | -22.8% |
+| Tjaronn Chery | 85 | Eredivisie | 24k coins | -8.3% | -8.3% |
+| Ivan Perišić | 90 | Eredivisie | 20k coins | -5.5% | -1% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 100k coins | -4.5% | -11% |
+| Ricardo Pepi | 87 | Eredivisie | 30k coins | -4.5% | -8.6% |
 
 
-O lado das quedas é onde reside a maior atenção do dia, liderado por Youri Baas, que despencou 35.6% em 24 horas para 32k coins, paradoxalmente mantendo uma probabilidade de alta de 65%, o que caracteriza uma oportunidade de compra de alto risco e alto retorno baseada em sobre-reação do mercado. Jari Litmanen, um ativo de elite com rating 90, caiu 35.2% para 38k coins, mas sua probabilidade de alta de 95% o torna o ativo mais atraente para acumulação a longo prazo, sugerindo que a queda é puramente especulativa e insustentável frente à demanda futura. Park Ji Sung sofreu uma queda expressiva de 25% para 66k coins, mas sua probabilidade de alta de apenas 18% indica que o preço pode continuar caindo, tornando-o um ativo perigoso para compra no fundo devido à falta de suporte probabilístico. Josip Šutalo, com rating 90, caiu 24.4% para 31k coins, e sua probabilidade de alta de 5% confirma que este é um ativo em tendência de baixa estrutural, devendo ser evitado por traders que buscam recuperação rápida. Dennis Man completou o quadro das maiores quedas com -20.8% para 26k coins, também com probabilidade de alta de 5%, reforçando a narrativa de que ativos sem demanda de SBCs ou promoções futuras estão sendo liquidados sem piedade pelo mercado.
+A outra face da moeda revela sangramentos severos, liderados por Youri Baas (84, Eredivisie), que despencou 32.8% em 24 horas para 32 mil coins, um colapso de preço que, ironicamente, ainda mantém uma probabilidade de alta de 65%, indicando que o mercado acredita na reversão futura, mas o momento atual é de venda em pânico extremo ou liquidação forçada de inventário. Ahmetcan Kaplan (88, Eredivisie) acompanhou essa queda livre com -30.8% em 24 horas, caindo para 22 mil coins, e apesar da probabilidade de alta de 68%, a magnitude da queda sugere que há uma pressão vendedora institucional ou uma mudança fundamental na percepção de utilidade do jogador, tornando-o um ativo de risco elevado para entrada imediata. Park Ji Sung (91, Eredivisie) caiu 25% para 65 mil coins, com uma probabilidade de alta de apenas 18%, o que sinaliza que o mercado não confia na recuperação imediata deste ativo de alto custo, possivelmente devido à saturação de ofertas ou à saída de grandes detentores que decidiram realizar lucros ou cortar perdas em ativos premium. Kenneth Taylor (84, Eredivisie) sofreu uma queda de 21.6% para 23 mil coins, mas paradoxalmente possui a probabilidade de alta mais alta do grupo com 95%, caracterizando uma oportunidade clássica de 'comprar o medo', onde o preço caiu drasticamente por fluxo momentâneo, mas a probabilidade estatística sugere uma revalorização iminente e forte. Dennis Man (86, Eredivisie) fechou com -21.5% a 27 mil coins e probabilidade de alta de apenas 5%, o que confirma que a queda foi fundamentada e não apenas técnica, indicando que o ativo perdeu relevância ou que há um excesso de oferta estrutural que continuará pressionando o preço para baixo nos próximos dias.
+
+
+## 🔮 Radar de valorização (24h)
+
+As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+
+| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
+| --- | --- | --- | --- | --- |
+| Kenneth Taylor | 84 | 23k coins | 29k coins | 95% |
+| Lewis Holtby | 86 | 29k coins | 36k coins | 95% |
+| Kees Smit | 86 | 20k coins | 21k coins | 81% |
+
+
+O modelo preditivo identifica Kenneth Taylor (84, Eredivisie) como a principal aposta de alta, com probabilidade de 95% e preço atual de 23 mil coins, sugerindo que a queda recente de 21.6% foi uma correção excessiva que criou uma zona de valor atrativa para entrada, com forte expectativa de recuperação técnica e fundamental. Lewis Holtby (86, Eredivisie) também entra na lista de previsões positivas com 95% de probabilidade de alta, cotado a 29 mil coins, confirmando a tese de que a alta de 15.7% registrada hoje é apenas o início de um movimento mais amplo, incentivando a acumulação gradual enquanto o sentimento do mercado ainda está incerto. Kees Smit (86, Eredivisie) completa o trio com 81% de probabilidade de alta a 20 mil coins, representando um ativo de menor volatilidade absoluta mas com expectativa de valorização consistente, ideal para traders que buscam menor risco e estabilidade em um dia de alta turbulência no mercado da Eredivisie.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -69,18 +86,18 @@ O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Ricardo Pepi | 87 | 36k coins | -17.5% |
-| Dennis Man | 86 | 26k coins | -21.3% |
-| Tjaronn Chery | 85 | 28k coins | -29.1% |
-| Wout Weghorst | 85 | 89k coins | -15.7% |
-| Josip Šutalo | 90 | 31k coins | -29.2% |
-| Mats Deijl | 88 | 20k coins | -29.2% |
-| Victor Edvardsen | 84 | 16k coins | -24% |
+| Ivan Perišić | 90 | 20k coins | -29.1% |
+| Wout Weghorst | 85 | 98k coins | -15.7% |
+| Ricardo Pepi | 87 | 30k coins | -17.5% |
 | Guus Til | 83 | 40k coins | -15.7% |
+| Dennis Man | 86 | 27k coins | -21.3% |
+| Tjaronn Chery | 85 | 24k coins | -29.1% |
+| Givairo Read | 86 | 18k coins | -15.7% |
+| Mats Deijl | 88 | 18k coins | -29.2% |
 
 
 ## 🎯 O que fazer hoje
-A estratégia para hoje deve focar agressivamente na compra de Jari Litmanen e Youri Baas, aproveitando as quedas de 35.2% e 35.6% respectivamente, pois suas altas probabilidades de alta de 95% e 65% indicam que o preço está descontado excessivamente em relação ao valor real de mercado. Devemos evitar comprar Park Ji Sung e Josip Šutalo, pois suas quedas são acompanhadas por baixas probabilidades de alta, sugerindo que o fundo ainda não foi atingido e o risco de perda adicional é significativo. Os ativos em alta como Jorthy Mokio e Melle Meulensteen podem ser segidos para venda em resistências próximas, já que suas probabilidades de alta de 56% e 53% indicam momentum positivo, mas o volume limitado de altas no mercado sugere que a sustentação pode ser frágil. Traders conservadores devem permanecer em caixa ou reduzir posições em ativos de baixa probabilidade como Tjaronn Chery e Guus Til, que尽管 subiram, não possuem o suporte estatístico necessário para garantir lucro em um mercado predominantemente vendedor. O timing ideal para entrada é nas próximas horas, aguardando a estabilização do volume de vendas massivas, enquanto a venda de ativos de baixa probabilidade deve ser feita imediatamente para preservar capital em meio à desvalorização generalizada de -8.9%.
+A estratégia ideal para o dia é focar na compra seletiva de ativos que sofreram quedas severas mas possuem alta probabilidade de reversão, com destaque absoluto para Kenneth Taylor (84, Eredivisie) a 23 mil coins e Youri Baas (84, Eredivisie) a 32 mil coins, onde o risco de continuar caindo é compensado pela alta probabilidade de alta e pelo desconto significativo em relação às médias recentes. Deve-se evitar agressivamente a compra de ativos em alta com baixa probabilidade de continuidade, como Guus Til (83, Eredivisie) e Finn Azaz (83, Eredivisie), pois o risco de reversão imediata é elevado e o mercado está propenso a corrigir essas altas isoladas. Mantenha posições longas em Ivan Perišić (86, Eredivisie) e Jari Litmanen (90, Eredivisie) para aproveitar a inércia de alta, mas realize lucros parciais se houver sinais de exaustão de volume, já que o sentimento geral do mercado ainda é negativo e pode contaminar ativos fortes. Evite expor capital a Dennis Man (86, Eredivisie) e Park Ji Sung (91, Eredivisie) neste momento, pois a baixa probabilidade de alta combinada com quedas acentuadas indica que a tendência de baixa ainda não se esgotou, representando uma queda livre potencialmente perigosa. O timing de entrada para Kenneth Taylor e Lewis Holtby deve ser executado imediatamente após a confirmação de suporte nos níveis atuais, utilizando ordens limitadas ligeiramente abaixo do preço de mercado para garantir margem de segurança em caso de volatilidade residual no fechamento do dia.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -90,13 +107,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Jorthy Mokio (84, Eredivisie), com +23.5% em 24h, a 43k coins no Console (PS).
+Ivan Perišić (86, Eredivisie), com +30.5% em 24h, a 28k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Youri Baas (84), -35.6% em 24h, a 32k coins.
+Youri Baas (84), -32.8% em 24h, a 32k coins.
+
+**Qual carta tem mais chance de subir amanhã no EA FC?**  
+Pelo modelo FutQuant, Kenneth Taylor (84) — 95% de probabilidade de alta, a 23k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 7 cartas em alta contra 21 em queda (média -8.9%).
+Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 13 cartas em alta contra 20 em queda (média -4.16%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

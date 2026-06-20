@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:37:36.000Z
+pubDatetime: 2026-06-20T22:37:38.000Z
 title: "Eredivisie no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,60 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Kento Shiogai (83, Eredivisie), com +44.7% em 24h, a 110k coins no PC."
+    a: "Youri Baas (84, Eredivisie), com +32.3% em 24h, a 44k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jari Litmanen (90), -39% em 24h, a 36k coins."
+    a: "Patrick van Aanholt (85), -45% em 24h, a 20k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 18 cartas em alta contra 16 em queda (média 0.68%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 17 cartas em alta contra 21 em queda (média -0.88%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado da Eredivisie em PC para o dia 20 de junho de 2026 apresenta um cenário de extrema volatilidade e indecisão, caracterizado por um sentimento neutro que não favorece nenhuma tendência dominante, com uma média de variação de apenas 0.68% nas últimas 24 horas, refletindo um equilíbrio delicado entre os 18 jogadores em alta e os 16 em queda. Essa paridade numérica sugere que os traders estão cautelosos, aguardando gatilos específicos de eventos ou SBCs que ainda não se consolidaram, criando oportunidades de arbitragem rápida para quem consegue identificar dissonâncias de preço entre ativos correlacionados. A ausência de um narrative forte do mercado significa que movimentos impulsivos são perigosos, exigindo uma análise fria dos fundamentos de cada carta, onde a probabilidade de alta indicada pelo algoritmo serve como um filtro crucial para separar ruído de sinal real. O trader experiente deve focar na liquidez dos ativos, evitando carteiras com baixa rotatividade e priorizando jogadores com demanda orgânica constante, mesmo em dias de baixa atividade geral da liga. A estabilidade relativa da média é enganosa, pois esconde movimentos agressivos em pontas extremas, como seen nos saltos de dois dígitos e nas quedas profundas que podem exceder 30%, exigindo gestão de risco rigorosa.
+O mercado de Eredivisie em PC para o dia 20 de junho de 2026 apresenta um cenário de extrema volatilidade e indefinição, caracterizado por uma ausência clara de tendência dominante que obriga os traders a agirem com cautela e precisão cirúrgica. Com um balanço de 17 altas contra 21 quedas e uma média negativa de -0.88% em 24 horas, o ambiente sugere uma liquidez fragmentada onde oportunidades de arbitragem surgem rapidamente mas se dissipam com a mesma velocidade, exigindo monitoramento constante das ordens de compra e venda. A probabilidade estatística indica que a maioria dos ativos está em uma zona de incerteza, onde decisões baseadas apenas no sentimento de curto prazo podem resultar em prejuízos significativos se não forem respaldadas por análise técnica profunda dos níveis de suporte e resistência. Traders experientes devem observar que a falta de um direcionamento macroeconômico no jogo, como eventos SBCs massivos ou pacotes de recompensa de nível alto, mantém o volume de transações em um patamar moderado, favorecendo aqueles que operam com alavancagem controlada e disciplina rigorosa na gestão de risco. É fundamental entender que neste contexto de dia indefinido, a paciência é mais valiosa que a impulsividade, pois tentar forçar operações em ativos sem um catalisador claro pode levar a perdas acumuladas que corroem o capital de trading ao longo da semana.
 
-> 🟢 **Maior alta:** Kento Shiogai (83) **+44.7%** · 🔴 **Maior baixa:** Jari Litmanen (90) **-39%**
+> 🟢 **Maior alta:** Youri Baas (84) **+32.3%** · 🔴 **Maior baixa:** Patrick van Aanholt (85) **-45%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kento Shiogai | 83 | Eredivisie | 110k coins | +44.7% | +175% |
-| Ahmetcan Kaplan | 88 | Eredivisie | 43k coins | +31.5% | +6.9% |
-| Ricardo Pepi | 87 | Eredivisie | 44k coins | +30.6% | +49.6% |
-| Joël Drommel | 84 | Eredivisie | 43k coins | +27% | 0% |
-| Lewis Holtby | 86 | Eredivisie | 28k coins | +16.8% | +35.4% |
-| Ayase Ueda | 84 | Eredivisie | 42k coins | +14.9% | +17.2% |
-| Melle Meulensteen | 84 | Eredivisie | 32k coins | +13.8% | -29.6% |
-| Noah Naujoks | 83 | Eredivisie | 51k coins | +12.7% | +28.3% |
-| Youri Baas | 84 | Eredivisie | 39k coins | +12.2% | 0% |
-| Dennis Man | 86 | Eredivisie | 47k coins | +11.9% | +17.5% |
+| Youri Baas | 84 | Eredivisie | 44k coins | +32.3% | +3% |
+| Can Bozdoğan | 87 | Eredivisie | 24k coins | +25% | +25% |
+| Melle Meulensteen | 84 | Eredivisie | 55k coins | +18.6% | -29.6% |
+| Ahmetcan Kaplan | 88 | Eredivisie | 40k coins | +14.4% | -0.6% |
+| Josip Šutalo | 90 | Eredivisie | 36k coins | +10.3% | +17.2% |
+| Jordan Ayew | 80 | Eredivisie | 48k coins | +9.2% | 0% |
+| Tjaronn Chery | 85 | Eredivisie | 38k coins | +7% | +21.4% |
+| Dennis Man | 86 | Eredivisie | 39k coins | +6.7% | -33.3% |
+| Joey Veerman | 82 | Eredivisie | 30k coins | +4.3% | 0% |
 
 
-Kento Shiogai lidera as altas com um salto impressionante de 44.7% em 24 horas, atingindo a marca de 110k coins, um movimento que, apesar de ter uma probabilidade de alta de apenas 51%, indica uma compra agressiva por parte de colecionadores ou usuários de SBCs de alto nível que valorizam sua raridade e estatísticas. Ahmetcan Kaplan segue com um aumento de 31.5%, estabilizando-se em 43k coins, e sua probabilidade de alta de 66% sugere que este não é um movimento isolado, mas sim o início de uma tendência de valorização sustentada por sua utilidade em squads temáticos. Ricardo Pepi também se destaca com alta de 30.6% para 44k coins, embora sua probabilidade de alta de 42% indique que o preço pode estar sobrevalorizado a curto prazo, tornando-o um ativo de risco para flip rápido. Joël Drommel subiu 27% para 43k coins, com uma probabilidade de alta baixa de 33%, o que pode sinalizar uma correção iminente após esse pico de demanda, possivelmente impulsionado por uma necessidade pontual de goleiros de elite em esquemas específicos. Lewis Holtby apresenta uma alta mais moderada de 16.8% para 28k coins, mas sua probabilidade de alta de 56% é encorajadora, indicando que há espaço para mais valorização conforme a liquidez do mercado se ajusta ao novo preço de equilíbrio.
+Entre os ativos que registraram valorização significativa, Youri Baas se destaca com um impressionante aumento de 32.3% em 24 horas, atingindo a marca de 44k coins, impulsionado por uma probabilidade de alta de 58% que sugere forte demanda de compradores buscando ativos de ataque com bom custo-benefício. Can Bozdoğan acompanha essa tendência de valorização com alta de 25% em 24 horas, posicionando-se aos 24k coins, onde sua probabilidade de alta de 42% indica um movimento mais conservador, possivelmente atrelado a uma escassez temporária de ofertas no mercado secundário. Melle Meulensteen apresentou uma subida robusta de 18.6% em 24 horas, chegando a 55k coins, e embora sua probabilidade de alta seja de apenas 37%, o volume de negociações nessa faixa de preço pode estar sendo absorvido por investidores de longo prazo que veem valor sustentável no ativo. Ahmetcan Kaplan, com uma alta de 14.4% em 24 horas e preço de 40k coins, demonstra uma força de compra notável, reforçada por uma alta probabilidade de alta de 66%, o que o torna um dos ativos mais confiáveis para operações de swing trading neste período de incerteza geral. Josip Šutalo, com aumento de 10.3% em 24 horas para 36k coins e probabilidade de 48%, representa uma opção defensiva estável, onde a demanda por centenas de defesa de alto rating tem sustentado os preços mesmo na ausência de um hype generalizado no mercado de Eredivisie.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jari Litmanen | 90 | Eredivisie | 36k coins | -39% | -34.5% |
-| Patrick van Aanholt | 85 | Eredivisie | 25k coins | -38.8% | -29.7% |
-| Ivan Perišić | 86 | Eredivisie | 25k coins | -37.1% | -33.8% |
-| Jaap Stam | 91 | Eredivisie | 1.29M coins | -19.1% | -13.7% |
-| Couhaib Driouech | 86 | Eredivisie | 76k coins | -17.6% | +4.1% |
-| Troy Parrott | 84 | Eredivisie | 30k coins | -16.4% | -29.1% |
-| Jakob Breum | 85 | Eredivisie | 30k coins | -9.2% | -9.2% |
-| Wout Weghorst | 85 | Eredivisie | 70k coins | -6.2% | +86.3% |
-| Victor Edvardsen | 84 | Eredivisie | 24k coins | -5.3% | +22.7% |
-| Mauro Júnior | 86 | Eredivisie | 28k coins | -4.3% | -8.3% |
+| Patrick van Aanholt | 85 | Eredivisie | 20k coins | -45% | -39% |
+| Troy Parrott | 84 | Eredivisie | 30k coins | -31.8% | -29.1% |
+| Jari Litmanen | 90 | Eredivisie | 35k coins | -29.5% | -35.9% |
+| Mohamed Ihattaren | 84 | Eredivisie | 38k coins | -23.1% | -25.2% |
+| Ko Itakura | 88 | Eredivisie | 24k coins | -14.9% | -36.6% |
+| Couhaib Driouech | 86 | Eredivisie | 84k coins | -12.1% | +12.8% |
+| Wout Weghorst | 85 | Eredivisie | 70k coins | -11.9% | -9.6% |
+| Sergiño Dest | 86 | Eredivisie | 80k coins | -11.1% | +4.6% |
+| Victor Edvardsen | 84 | Eredivisie | 25k coins | -7.2% | +17% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 90k coins | -5.3% | -5.3% |
 
 
-Jari Litmanen sofreu uma queda drástica de 39% em 24 horas, caindo para 36k coins, um movimento alarmante considerando sua probabilidade de alta de 57%, o que sugere uma venda em pânico ou uma correção técnica severa que pode criar uma oportunidade de compra se o suporte for testado. Patrick van Aanholt despencou 38.8% para 25k coins, e apesar da probabilidade de alta de 56%, a magnitude da queda indica uma perda significativa de confiança do mercado ou uma saturação de oferta, tornando-o um ativo de alto risco para segurar sem proteção. Ivan Perišić também caiu 37.1% para 25k coins, com uma probabilidade de alta baixa de 32%, reforçando a ideia de que a queda pode continuar se não houver um catalisador externo imediato para reverter a narrativa negativa. Jaap Stam, um ativo de alto valor, perdeu 19.1% para 1.29M coins, e sua baixa probabilidade de alta de 18% alerta os traders para a possibilidade de uma desconstrução de preço de longo prazo, típica de cartas de legado que perdem relevância com o tempo. Couhaib Driouech caiu 17.6% para 76k coins, com probabilidade de alta de 22%, indicando que a pressão vendedora ainda domina o order book, e entrar agora seria contrair a tendência sem sinais claros de reversão.
+Na outra extremidade do espectro, Patrick van Aanholt sofreu uma queda drástica de 45% em 24 horas, caindo para 20k coins, um movimento severo que, apesar de sua probabilidade de alta de 56%, indica uma pressão de venda agressiva possivelmente causada por uma saturação de ofertas ou mudança de percepção de valor por parte da comunidade. Troy Parrott também registrou uma baixa expressiva de 31.8% em 24 horas, atingindo 30k coins, e sua probabilidade de alta de 56% sugere que pode haver uma oportunidade de compra de contra-tendência para traders arriscados dispostos a apostar na recuperação do ativo no curto prazo. Jari Litmanen, com queda de 29.5% em 24 horas para 35k coins e probabilidade de 57%, parece estar sofrendo com a rota de desvalorização típica de ícones que perdem relevância em meta de times competitivos, embora seu histórico possa ainda atrair colecionadores em momentos específicos do ciclo do jogo. Mohamed Ihattaren caiu 23.1% em 24 horas, cotado a 38k coins, e sua baixa probabilidade de alta de 36% alerta para a possibilidade de continuação da tendência de baixa, sugerindo que evitar posições longas neste ativo é a estratégia mais prudente para a maioria dos traders. Ko Itakura, com queda de 14.9% em 24 horas para 24k coins e probabilidade de 36%, reflete a instabilidade de ativos de defesa que enfrentam concorrência direta de pacotes mais baratos ou alternativas de maior rating que estão ganhando popularidade no cenário atual do Ultimate Team.
 
 
 ## 🎯 O que fazer hoje
-A estratégia para hoje deve ser altamente seletiva, focando na compra de ativos com alta probabilidade de alta e queda recente ou estabilidade, como Ahmetcan Kaplan (66% prob., 43k) e Lewis Holtby (56% prob., 28k), que oferecem um equilíbrio melhor entre risco e retorno em um mercado indeciso. É crucial evitar a perseguição a altas extremas sem suporte probabilístico, como a de Kento Shiogai, a menos que haja um conhecimento específico de SBCs que justifique o preço de 110k, e também ficar longe das quedas profundas de ativos com baixa probabilidade de recuperação, como Jaap Stam e Ivan Perišić. Traders devem monitorar de perto a liquidez de Ricardo Pepi e Joël Drommel, pois suas probabilidades de alta abaixo de 50% sugerem que podem ser vendidos rapidamente se houver uma pequena alta adicional, aproveitando a volatilidade do dia. A gestão de risco é primordial; não se deve alavancar posições em ativos como Jari Litmanen ou Patrick van Aanholt até que haja sinais claros de estabilização de preço, pois a probabilidade de alta não compensa o risco de continuidade da queda. No geral, o dia pede paciência e disciplina, comprando medo em ativos fundamentais com boa probabilidade e vendendo ganância em picos não sustentados, mantendo a carteira líquida para oportunidades de arbitragem que possam surgir nas próximas horas.
+A estratégia recomendada para hoje foca em comprar os ativos em alta com maior probabilidade estatística, como Ahmetcan Kaplan e Youri Baas, buscando lucros rápidos antes que a volatilidade normalize os preços, enquanto se evita entrar em posições longas nos ativos em queda acentuada como Patrick van Aanholt e Troy Parrott, a menos que haja uma confirmação clara de reversão de tendência. Traders devem segurar ativos de médio prazo como Josip Šutalo e Dennis Man, que mostram resiliência e probabilidades equilibradas, aguardando eventuais catalisadores de fim de semana que possam impulsionar seus valores de forma mais significativa. É crucial evitar o FOMO em ativos como Melle Meulensteen, onde a alta recente pode não ser sustentável sem um suporte fundamental mais forte, e sim focar na gestão de risco, limitando as perdas em operações que não respeitam os níveis de stop-loss definidos anteriormente. A diversificação entre ativos de ataque e defesa, utilizando os dados de probabilidade como filtro principal, é essencial para mitigar os riscos inerentes a um mercado sem tendência dominante, garantindo que o capital esteja protegido contra oscilações bruscas e imprevisíveis. No final, a disciplina na execução e a capacidade de ler os sinais de oferta e demanda em tempo real serão os diferenciais que separarão os traders lucrativos dos que sofrerão com a incerteza do mercado de Eredivisie neste dia de alta volatilidade e baixos retornos médios.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -77,13 +76,13 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Kento Shiogai (83, Eredivisie), com +44.7% em 24h, a 110k coins no PC.
+Youri Baas (84, Eredivisie), com +32.3% em 24h, a 44k coins no PC.
 
 **E a maior queda do dia?**  
-Jari Litmanen (90), -39% em 24h, a 36k coins.
+Patrick van Aanholt (85), -45% em 24h, a 20k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 18 cartas em alta contra 16 em queda (média 0.68%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 17 cartas em alta contra 21 em queda (média -0.88%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

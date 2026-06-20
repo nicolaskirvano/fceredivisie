@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:38:30.000Z
+pubDatetime: 2026-06-20T01:37:41.000Z
 title: "Eredivisie no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Anis Hadj-Moussa (86, Eredivisie), com +38.7% em 24h, a 95k coins no PC."
+    a: "Anis Hadj-Moussa (86, Eredivisie), com +36.5% em 24h, a 94k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jorthy Mokio (84), -32.2% em 24h, a 30k coins."
+    a: "Kento Shiogai (83), -33.2% em 24h, a 69k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 18 cartas em alta contra 20 em queda (média -3.15%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 18 cartas em alta contra 20 em queda (média -1.99%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do Eredivisie em PC apresenta um cenário hostil para investidores casuais, caracterizado por um sentimento predominantemente vendedor que resultou em uma média negativa de 3,15% nos preços das cartas nas últimas 24 horas, com 20 quedas superando amplamente as 18 altas registradas. Esse desequilíbrio indica uma liquidez em retração e uma preferência clara dos traders por realizar lucros ou evitar posições de risco, criando um ambiente onde apenas ativos com fundamental forte ou escassez específica conseguiram manter ou elevar sua cotação. A volatilidade observada sugere que o mercado está reagindo a fatores externos ou a uma rotação de squads que favorece cartas de menor custo ou ícones estabelecidos, enquanto jogadores de nicho sofrem com a falta de demanda orgânica. Traders experientes devem adotar uma postura defensiva, priorizando a proteção de capital e aguardando sinais claros de estabilização antes de assumir posições longas significativas em ativos de médio e alto risco. A disciplina é crucial neste momento, pois a pressão vendedora pode se autoalimentar se não houver um catalisador forte para reverter a narrativa de pessimismo que domina a plataforma hoje.
+O mercado da Eredivisie no PC apresenta hoje um cenário de extrema cautela, caracterizado por um sentimento predominantemente vendedor que pesa sobre a maioria dos ativos do segmento, com uma média de variação negativa de -1.99% nas últimas 24 horas. Entre as movimentações registradas, observamos 18 altas e 20 quedas, indicando que a pressão de venda é estrutural e não apenas pontual, exigindo uma leitura precisa dos fundamentos por trás de cada exceção ao padrão de queda. Para o trader experiente, esse ambiente de 'clima vendedor' é uma oportunidade de caçar descontos em ativos de alta probabilidade de valorização, mas requer disciplina para evitar armadilhas em cartas que estão caindo por falta de demanda real ou saturação de oferta. O foco deve estar na identificação de discrepâncias entre o preço atual e o valor intrínseco baseado nas probabilidades de alta, pois o mercado tende a corrigir essas ineficiências rapidamente quando há gatilhos de demanda específicos. Hoje, a estratégia vencedora não será comprar tudo o que está subindo, mas sim identificar os fundamentos fortes por trás das altas, como o caso do Anis Hadj-Moussa, e usar as quedas de ativos como o Kento Shiogai para reposição de inventário a preços de liquidação.
 
-> 🟢 **Maior alta:** Anis Hadj-Moussa (86) **+38.7%** · 🔴 **Maior baixa:** Jorthy Mokio (84) **-32.2%**
+> 🟢 **Maior alta:** Anis Hadj-Moussa (86) **+36.5%** · 🔴 **Maior baixa:** Kento Shiogai (83) **-33.2%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anis Hadj-Moussa | 86 | Eredivisie | 95k coins | +38.7% | +75.9% |
-| Couhaib Driouech | 86 | Eredivisie | 94k coins | +32.6% | +87% |
-| Ahmetcan Kaplan | 88 | Eredivisie | 32k coins | +30% | -33% |
-| Steven Berghuis | 86 | Eredivisie | 49k coins | +22% | +22% |
-| Troy Parrott | 84 | Eredivisie | 45k coins | +20.1% | +6.5% |
-| Mohamed Ihattaren | 84 | Eredivisie | 36k coins | +14% | -2.6% |
-| Givairo Read | 86 | Eredivisie | 25k coins | +12.1% | +27.5% |
-| Jordan Ayew | 80 | Eredivisie | 44k coins | +11.5% | +2.4% |
-| Paul Wanner | 84 | Eredivisie | 44k coins | +10.9% | -5% |
-| Youri Baas | 84 | Eredivisie | 32k coins | +8.1% | -16.9% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 94k coins | +36.5% | +33.6% |
+| Paul Wanner | 84 | Eredivisie | 43k coins | +34.9% | +10.8% |
+| Couhaib Driouech | 86 | Eredivisie | 95k coins | +31.9% | +84.5% |
+| Ivan Perišić | 86 | Eredivisie | 38k coins | +28.6% | +26.4% |
+| Steven Berghuis | 86 | Eredivisie | 47k coins | +21.3% | +14.6% |
+| Givairo Read | 86 | Eredivisie | 22k coins | +17.9% | +15% |
+| Jordan Ayew | 80 | Eredivisie | 44k coins | +13% | +2.4% |
+| Mohamed Ihattaren | 84 | Eredivisie | 39k coins | +12.4% | -4.6% |
+| Lewis Holtby | 86 | Eredivisie | 26k coins | +10.3% | +37.2% |
+| Ivan Perišić | 90 | Eredivisie | 45k coins | +8.3% | +65.3% |
 
 
-Entre as poucas luzes neste dia cinzento, Anis Hadj-Moussa se destaca como o líder de ganhos com uma impressionante alta de 38,7%, atingindo a marca de 95k coins, um movimento sustentado por uma probabilidade de alta de 57% que sugere acumulação estratégica por parte de traders que visam eventuais metas de pacotes ou SBCs de fim de temporada. Couhaib Driouech também performou excepcionalmente, subindo 32,6% para 94k coins, embora sua probabilidade de alta de apenas 22% indique que este movimento pode ser mais especulativo e menos fundamentado, exigindo cautela na entrada. Ahmetcan Kaplan, uma carta de 88 rating, registrou um aumento de 30% para 32k coins, com uma probabilidade de alta robusta de 66%, o que fortalece a tese de que cartas de rating mais alto estão sendo preferidas em momentos de incerteza do mercado. Steven Berghuis, com 22% de valorização para 49k coins e 62% de probabilidade de alta, consolida-se como um ativo de risco ajustado interessante, oferecendo uma relação risco-retorno favorável dada a sua consistência histórica. Troy Parrott completou o top 5 com 20,1% de alta para 45k coins e 56% de probabilidade, enquanto Mohamed Ihattaren e Givairo Read mostraram resiliência com 14% e 12,1% de ganhos respectivamente, sugerindo que o setor de atacantes e criativos de média baixa está absorvendo parte da demanda que foi deixada vacante por outros segmentos.
+A liderança das altas é comandada pelo Anis Hadj-Moussa, que impressiona com uma valorização de 36.5% em 24 horas, atingindo a marca de 94k coins, impulsionado por uma probabilidade de alta de 57% que sugere um suporte técnico forte e demanda sustentada. Logo atrás, Paul Wanner registra um aumento robusto de 34.9% para 43k coins, embora sua probabilidade de alta seja mais moderada em 35%, indicando que o movimento pode ser mais volátil e sensível a flutuações de curto prazo. Couhaib Driouech também se destaca com alta de 31.9% para 95k coins, mas sua probabilidade de alta de apenas 22% alerta traders para a possibilidade de reversão, caracterizando um movimento especulativo que pode ser perigoso para segurar a longo prazo sem stop-loss. Ivan Perišić sobe 28.6% para 38k coins com probabilidade de 32%, apresentando um perfil interessante de valorização em ativos de faixa média, enquanto Steven Berghuis cresce 21.3% para 47k coins, apoiado por uma probabilidade de alta elevada de 62%, o que o torna um dos ativos mais seguros para compra neste momento. Givairo Read completa o seleto grupo com alta de 17.9% para 22k coins e probabilidade de 54%, oferecendo uma entrada de baixo custo com potencial de retorno decente, enquanto Jordan Ayew e Mohamed Ihattaren mostram movimentos menores de 13% e 12.4% respectivamente, servindo como indicadores de fluxo de caixa em ativos mais baratos.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jorthy Mokio | 84 | Eredivisie | 30k coins | -32.2% | -29.4% |
-| Kento Shiogai | 83 | Eredivisie | 75k coins | -28.8% | +81.9% |
-| Ricardo Pepi | 87 | Eredivisie | 34k coins | -25.6% | +69.6% |
-| Tjaronn Chery | 85 | Eredivisie | 36k coins | -23.5% | +90.7% |
-| Park Ji Sung | 91 | Eredivisie | 78k coins | -20.5% | -12.6% |
-| Joël Drommel | 84 | Eredivisie | 34k coins | -16.6% | -15.1% |
-| Dennis Man | 86 | Eredivisie | 38k coins | -15% | -1.9% |
-| Melle Meulensteen | 84 | Eredivisie | 30k coins | -13.9% | -39.8% |
-| Can Bozdoğan | 87 | Eredivisie | 20k coins | -12.1% | 0% |
+| Kento Shiogai | 83 | Eredivisie | 69k coins | -33.2% | +73.8% |
+| Dennis Man | 86 | Eredivisie | 31k coins | -27.1% | -17.3% |
+| Ricardo Pepi | 87 | Eredivisie | 34k coins | -24.4% | +40.2% |
+| Tjaronn Chery | 85 | Eredivisie | 36k coins | -24.1% | +91.9% |
+| Joël Drommel | 84 | Eredivisie | 32k coins | -23.7% | -22.3% |
+| Ko Itakura | 88 | Eredivisie | 26k coins | -18% | -24.5% |
+| Jari Litmanen | 90 | Eredivisie | 48k coins | -17.1% | +2.1% |
+| Finn Azaz | 83 | Eredivisie | 28k coins | -13.8% | -13.8% |
+| Wout Weghorst | 85 | Eredivisie | 70k coins | -11.9% | +73.9% |
 | Noah Naujoks | 83 | Eredivisie | 45k coins | -11.3% | +6.5% |
 
 
-Do lado oposto, a pressão vendedora foi implacável, com Jorthy Mokio despencando 32,2% para 30k coins, uma queda severa que reflete tanto a falta de utilidade imediata quanto uma probabilidade de alta baixa de 18%, tornando-o um ativo perigoso para segurar sem um plano de saída definido. Kento Shiogai sofreu uma correção de 28,8% para 75k coins, um movimento preocupante dado que sua probabilidade de alta é de 51%, indicando que a queda pode ser mais técnica ou devido a uma venda em massa por traders que precisavam de liquidez rápida, em vez de uma reavaliação fundamental do jogador. Ricardo Pepi caiu 25,6% para 34k coins, e apesar de ter uma probabilidade de alta de 42%, a magnitude da queda sugere uma perda de confiança no ativo a curto prazo, possivelmente devido a notícias fora do jogo ou mudanças no meta de squads. Tjaronn Chery recuou 23,5% para 36k coins, com probabilidade de alta de 53%, o que pode representar uma oportunidade de compra para traders de longo prazo dispostos a esperar uma correção técnica, mas arriscado para operações de swing. Park Ji Sung, um ícone de 91 rating, perdeu 20,5% para 78k coins, uma queda significativa que desafia a noção de segurança dos ícones, sugerindo que até mesmo ativos premium não estão imunes à espiral de vendas generalizada, especialmente com uma probabilidade de alta de 71% que parece estar sendo ignorada pelo mercado em pânico.
+Na outra extremidade, Kento Shiogai lidera as quedas com uma drástica desvalorização de 33.2% para 69k coins, apesar de manter uma probabilidade de alta de 51%, o que sugere que o preço atual pode ser uma oportunidade de compra para quem acredita na recuperação técnica do ativo. Dennis Man recua 27.1% para 31k coins com probabilidade de 47%, refletindo uma venda de pânico ou falta de interesse em eventos específicos, criando uma zona de suporte potencialmente interessante para traders agressivos. Ricardo Pepi cai 24.4% para 34k coins, e sua probabilidade de alta de 42% indica que a queda ainda não foi totalmente absorvida pelo mercado, exigindo paciência para quem decidir entrar. Tjaronn Chery perde 24.1% para 36k coins, mas sua alta probabilidade de alta de 53% sinaliza que a venda atual pode ser exagerada e temporária, ideal para estratégias de 'buy the dip'. Joël Drommel despencou 23.7% para 32k coins com probabilidade baixa de 33%, o que alerta para riscos reais de desvalorização contínua, devendo ser evitado por conservadores. Ko Itakura, Jari Litmanen e Finn Azaz também registram quedas significativas de 18%, 17.1% e 13.8% respectivamente, com probabilidades variadas que exigem análise individual para determinar se são oportunidades de fundo ou meros ajustes de mercado em ativos sem demanda imediata.
 
 
 ## 🎯 Conclusão do dia
-A estratégia do dia deve focar em evitar novas entradas em ativos de alta volatilidade como Jorthy Mokio e Kento Shiogai, cujas quedas acentuadas e probabilidades de alta mistas indicam instabilidade contínua e risco elevado de perda de capital. Em vez disso, traders devem considerar a acumulação cautelosa de Ahmetcan Kaplan e Steven Berghuis, cujas altas robustas e probabilidades de alta superiores a 60% sugerem momentum positivo que pode se sustentar enquanto o mercado geral se recupera. É crucial manter posições em Anis Hadj-Moussa e Couhaib Driouech apenas se houver um alvo de saída definido, pois a divergência entre a alta de preço e a baixa probabilidade de Couhaib pode levar a correções rápidas se o entusiasmo esfriar. A venda parcial de Park Ji Sung é recomendada para travar lucros ou limitar perdas, dado o movimento contrarian contra a sua alta probabilidade de alta, sinalizando uma possível rotação de capitais para ativos mais baratos. O timing é fundamental: monitore a estabilização dos preços nas próximas horas, pois uma reversão do sentimento vendedor pode criar oportunidades de compra em ativos como Dennis Man e Melle Meulensteen, que já mostraram sinais de esgotamento nas vendas com quedas de 15% e 13,9% respectivamente.
+A estratégia para o dia deve focar na compra seletiva de ativos com alta probabilidade de valorização que estão sendo vendidos em pânico, como o Steven Berghuis e o Tjaronn Chery, onde a discrepância entre o preço de queda e a probabilidade de alta oferece margem de lucro atrativa. Evite persegui-lo as altas especulativas de baixa probabilidade, como a do Couhaib Driouech, a menos que você tenha uma estratégia de day trading agressiva com stops rigorosos, pois o risco de reversão é elevado. Considere acumular posições em Kento Shiogai e Dennis Man a preços atuais, pois as quedas acentuadas combinadas com probabilidades de alta acima de 50% sugerem um fundo técnico próximo, ideal para swing trades de curto prazo. Mantenha liquidez em mãos para aproveitar possíveis correções em ativos como Anis Hadj-Moussa, que, apesar da alta forte, pode sofrer lucros tomados após o pico inicial, permitindo compra em preços mais favoráveis. Em resumo, o mercado da Eredivisie hoje premia a paciência e a análise de probabilidades sobre o impulso emocional, então compre os medos dos outros em ativos fundamentais e venda as euforia em ativos sem suporte técnico claro.
 
 
 ## ⚙️ A engine por tras deste post
@@ -77,13 +77,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Anis Hadj-Moussa (86, Eredivisie), com +38.7% em 24h, a 95k coins no PC.
+Anis Hadj-Moussa (86, Eredivisie), com +36.5% em 24h, a 94k coins no PC.
 
 **E a maior queda do dia?**  
-Jorthy Mokio (84), -32.2% em 24h, a 30k coins.
+Kento Shiogai (83), -33.2% em 24h, a 69k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 18 cartas em alta contra 20 em queda (média -3.15%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 18 cartas em alta contra 20 em queda (média -1.99%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

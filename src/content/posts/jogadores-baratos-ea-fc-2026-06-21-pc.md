@@ -1,25 +1,25 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T22:36:05.000Z
-title: "Jogadores baratos de Eredivisie no EA FC (21/06/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-06-21T22:36:09.000Z
+title: "Jogadores baratos de Eredivisie no EA FC (21/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 21/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+  - pc
+description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 21/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (21/06/2026)?"
-    a: "Jari Litmanen (88, Eredivisie) aparece como melhor custo-benefício, a 11k coins no Console (PS)."
+    a: "Jari Litmanen (88, Eredivisie) aparece como melhor custo-benefício, a 11k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
 > 💰 **Melhor pechincha:** Jari Litmanen (88) por apenas 11k coins.
 
@@ -30,20 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 88 | CAM | Eredivisie | 11k coins | 0% |
-| Mika Godts | 87 | LW | Eredivisie | 12k coins | -18% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +4.4% |
-| Kees Smit | 86 | CAM | Eredivisie | 15k coins | -11.8% |
+| Dirk Kuyt | 88 | CAM | Eredivisie | 13k coins | -35.8% |
+| Mika Godts | 87 | LW | Eredivisie | 13k coins | -21.2% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | -2.3% |
 
 
 ## 📈 Destaques
 
 - **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **11k coins**
 
-- **Mika Godts (87, LW)** da Eredivisie, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins**
+- **Mika Godts (87, LW)** da Eredivisie, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -60,7 +60,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (21/06/2026)?**  
-Jari Litmanen (88, Eredivisie) aparece como melhor custo-benefício, a 11k coins no Console (PS).
+Jari Litmanen (88, Eredivisie) aparece como melhor custo-benefício, a 11k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -73,4 +73,4 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 21/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 21/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*

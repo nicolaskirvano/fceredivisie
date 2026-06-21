@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:36:43.000Z
+pubDatetime: 2026-06-21T01:36:51.000Z
 title: "Jogadores baratos de Eredivisie no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,18 +30,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 88 | CAM | Eredivisie | 12k coins | +2.2% |
-| Ko Itakura | 88 | CB | Eredivisie | 14k coins | -50.9% |
-| Mika Godts | 87 | LW | Eredivisie | 12k coins | -30.6% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | -2.2% |
+| Ko Itakura | 88 | CB | Eredivisie | 12k coins | -55.4% |
+| Mika Godts | 87 | LW | Eredivisie | 12k coins | -34.7% |
+| Luciano Valente | 87 | CAM | Eredivisie | 15k coins | -15.5% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | -4.3% |
 
 
 ## 📈 Destaques
 
 - **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12k coins**
 
-- **Ko Itakura (88, CB)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ko Itakura (88, CB)** da Eredivisie, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mika Godts (87, LW)** da Eredivisie, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11k coins**
 

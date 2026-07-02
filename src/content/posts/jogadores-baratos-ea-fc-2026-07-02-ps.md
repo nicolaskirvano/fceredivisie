@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-02T16:36:05.000Z
+pubDatetime: 2026-07-02T22:36:05.000Z
 title: "Jogadores baratos de Eredivisie no EA FC (02/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,24 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jari Litmanen | 88 | CAM | Eredivisie | 11k coins | -4.3% |
-| Mats Deijl | 88 | RB | Eredivisie | 14k coins | -19.4% |
-| Ahmetcan Kaplan | 88 | CB | Eredivisie | 15k coins | -42.5% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | 0% |
-| Kees Smit | 86 | CAM | Eredivisie | 14k coins | +9.3% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 11k coins | -6.4% |
+| Dirk Kuyt | 88 | CAM | Eredivisie | 15k coins | -18.9% |
+| Luciano Valente | 87 | CAM | Eredivisie | 14k coins | -18.2% |
+| Can Bozdoğan | 87 | CM | Eredivisie | 14k coins | -37.5% |
+| Mika Godts | 87 | LW | Eredivisie | 14k coins | -18.3% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | -4.3% |
 
 
 ## 📈 Destaques
 
 - **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **11k coins**
 
-- **Mats Deijl (88, RB)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ahmetcan Kaplan (88, CB)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins**
+- **Can Bozdoğan (87, CM)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **14k coins**
+- **Mika Godts (87, LW)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

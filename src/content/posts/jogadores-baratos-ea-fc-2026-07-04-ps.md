@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T13:36:05.000Z
+pubDatetime: 2026-07-04T16:36:05.000Z
 title: "Jogadores baratos de Eredivisie no EA FC (04/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,19 +29,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jari Litmanen | 88 | CAM | Eredivisie | 12k coins | +6.8% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 12k coins | +4.5% |
+| Ko Itakura | 88 | CB | Eredivisie | 13k coins | -17.6% |
 | Ahmetcan Kaplan | 88 | CB | Eredivisie | 14k coins | -44.7% |
-| Can Bozdoğan | 87 | CM | Eredivisie | 12k coins | -32.4% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +2.2% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12k coins**
 
-- **Ahmetcan Kaplan (88, CB)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ko Itakura (88, CB)** da Eredivisie, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Can Bozdoğan (87, CM)** da Eredivisie, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ahmetcan Kaplan (88, CB)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins**
 

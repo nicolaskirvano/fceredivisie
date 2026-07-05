@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T19:36:05.000Z
+pubDatetime: 2026-07-05T22:36:05.000Z
 title: "Jogadores baratos de Eredivisie no EA FC (05/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,24 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jari Litmanen | 88 | CAM | Eredivisie | 12k coins | 0% |
-| Can Bozdoğan | 87 | CM | Eredivisie | 14k coins | -8.2% |
-| Luciano Valente | 87 | CAM | Eredivisie | 15k coins | +28.6% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +4.4% |
-| Kees Smit | 86 | CAM | Eredivisie | 15k coins | +3.6% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 12k coins | +2.1% |
+| Ahmetcan Kaplan | 88 | CB | Eredivisie | 12k coins | -25.7% |
+| Can Bozdoğan | 87 | CM | Eredivisie | 14k coins | -4.9% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | +2.2% |
 
 
 ## 📈 Destaques
 
 - **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12k coins**
 
-- **Can Bozdoğan (87, CM)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ahmetcan Kaplan (88, CB)** da Eredivisie, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Can Bozdoğan (87, CM)** da Eredivisie, a apenas **14k coins**
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins**
-
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **15k coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11k coins**
 
 
 ## Por que estas cartas?

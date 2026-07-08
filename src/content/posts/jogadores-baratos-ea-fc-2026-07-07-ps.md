@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T19:36:05.000Z
+pubDatetime: 2026-07-08T01:36:05.000Z
 title: "Jogadores baratos de Eredivisie no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,24 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ahmetcan Kaplan | 88 | CB | Eredivisie | 14k coins | -43.8% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 14k coins | 0% |
-| Ko Itakura | 88 | CB | Eredivisie | 14k coins | -36.4% |
-| Luciano Valente | 87 | CAM | Eredivisie | 14k coins | -5.2% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 14k coins | +20% |
+| Ahmetcan Kaplan | 88 | CB | Eredivisie | 14k coins | -42.6% |
+| Mats Deijl | 88 | RB | Eredivisie | 14k coins | -14.7% |
+| Luciano Valente | 87 | CAM | Eredivisie | 13k coins | -7.1% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 14k coins | +19.1% |
+| Kees Smit | 86 | CAM | Eredivisie | 14k coins | +7.5% |
+| Lewis Holtby | 86 | CAM | Eredivisie | 14k coins | -33.3% |
+| Givairo Read | 86 | RB | Eredivisie | 15k coins | -18.9% |
 
 
 ## 📈 Destaques
 
 - **Ahmetcan Kaplan (88, CB)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **14k coins**
+- **Mats Deijl (88, RB)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ko Itakura (88, CB)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **14k coins**
+- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **13k coins**
 
 - **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Kees Smit (86, CAM)** da Eredivisie, a apenas **14k coins**
 
 
 ## Por que estas cartas?

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T22:36:06.000Z
+pubDatetime: 2026-07-11T01:36:06.000Z
 title: "Jogadores baratos de Eredivisie no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,20 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 88 | CAM | Eredivisie | 13k coins | +13.3% |
-| Ahmetcan Kaplan | 88 | CB | Eredivisie | 15k coins | 0% |
-| Can Bozdoğan | 87 | CM | Eredivisie | 14k coins | -7.1% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 13k coins | +15.6% |
+| Ahmetcan Kaplan | 88 | CB | Eredivisie | 14k coins | -3.4% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 13k coins | +13.3% |
+| Kees Smit | 86 | CAM | Eredivisie | 14k coins | -6.8% |
 
 
 ## 📈 Destaques
 
 - **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **13k coins**
 
-- **Ahmetcan Kaplan (88, CB)** da Eredivisie, a apenas **15k coins**
+- **Ahmetcan Kaplan (88, CB)** da Eredivisie, a apenas **14k coins**
 
-- **Can Bozdoğan (87, CM)** da Eredivisie, a apenas **14k coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **13k coins**
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Kees Smit (86, CAM)** da Eredivisie, a apenas **14k coins**
 
 
 ## Por que estas cartas?

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T10:36:05.000Z
+pubDatetime: 2026-07-12T13:36:05.000Z
 title: "Jogadores baratos de Eredivisie no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jari Litmanen | 88 | CAM | Eredivisie | 12k coins | 0% |
-| Mika Godts | 87 | LW | Eredivisie | 14k coins | -30% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | -5.8% |
-| Kees Smit | 86 | CAM | Eredivisie | 14k coins | -9.2% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 12k coins | +2.1% |
+| Mats Deijl | 88 | RB | Eredivisie | 15k coins | -19.7% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | -9.6% |
+| Kees Smit | 86 | CAM | Eredivisie | 13k coins | -11.7% |
 
 
 ## 📈 Destaques
 
 - **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12k coins**
 
-- **Mika Godts (87, LW)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mats Deijl (88, RB)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kees Smit (86, CAM)** da Eredivisie, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

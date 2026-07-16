@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fceredivisie.pages.dev/",
     title: "Eredivisie FUT",
     description:
-      "Precos e mercado da Eredivisie no EA FC Ultimate Team, atualizados todos os dias.",
+      "preços e mercado da Eredivisie no EA FC Ultimate Team, atualizados todos os dias.",
     author: "Eredivisie FUT",
-    profile: "https://fceredivisie.pages.dev/",
+    profile: "https://fceredivisie.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Eredivisie FUT",

@@ -1,66 +1,76 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:36:09.000Z
-title: "Melhores investimentos em Eredivisie no EA FC (16/07/2026): análise e previsões — Console (PS)"
+pubDatetime: 2026-07-16T23:58:01.000Z
+title: "Investimentos EA FC: Eredivisie em 16/07 — Console (PS)"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Victor Edvardsen (84, Eredivisie) lidera, com +71.2% em 7 dias a 25k coins no Console (PS)."
+    a: "Jorthy Mokio (84, Eredivisie) lidera, com +30.3% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **Console (PS)**:
+Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Victor Edvardsen (84) acumula **+71.2% em 7 dias** a 25k coins.
+> 🔝 **Destaque:** Jorthy Mokio (84) acumula **+30.3% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 16/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+14.7% em 24h** e **+13.5% em 7 dias**.
+- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Victor Edvardsen | 84 | Eredivisie | 25k coins | +26.2% | +71.2% | 0% |
-| Park Ji Sung | 91 | Eredivisie | 84k coins | +31% | +45.7% | 17% |
-| Jorthy Mokio | 84 | Eredivisie | 50k coins | +11% | +44.3% | 32% |
-| Jari Litmanen | 90 | Eredivisie | 106k coins | +1.8% | +25.1% | 0% |
-| Ivan Perišić | 86 | Eredivisie | 28k coins | +18.7% | +22.1% | 82% |
-| Ko Itakura | 88 | Eredivisie | 19k coins | +6.9% | +16.7% | 30% |
-| Mohamed Ihattaren | 84 | Eredivisie | 43k coins | +1.2% | +13.8% | 19% |
-| Mika Godts | 87 | Eredivisie | 21k coins | +1.1% | +11.4% | 37% |
-| Givairo Read | 86 | Eredivisie | 24k coins | +21.5% | +9.1% | 19% |
+| Jorthy Mokio | 84 | Eredivisie | 50k coins | +12.2% | +30.3% | Momentum moderado |
+| Ahmetcan Kaplan | 88 | Eredivisie | 21k coins | +25.4% | +23.3% | Esticada |
+| Givairo Read | 86 | Eredivisie | 26k coins | +23.1% | +20% | Esticada |
+| Ricardo Pepi | 87 | Eredivisie | 20k coins | +14.7% | +13.5% | Momentum moderado |
+| Paul Wanner | 84 | Eredivisie | 43k coins | +18.6% | +13.2% | Momentum moderado |
+| Ko Itakura | 88 | Eredivisie | 16k coins | +11.9% | +10.3% | Momentum moderado |
+| Ivan Perišić | 86 | Eredivisie | 28k coins | +5.6% | +8.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Victor Edvardsen (84)** — 25k coins, **+71.2% em 7 dias** (+26.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jorthy Mokio (84)** — 50k coins, **+30.3% em 7 dias** (+12.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Park Ji Sung (91)** — 84k coins, **+45.7% em 7 dias** (+31% em 24h). Preço +49% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Ahmetcan Kaplan (88)** — 21k coins, **+23.3% em 7 dias** (+25.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jorthy Mokio (84)** — 50k coins, **+44.3% em 7 dias** (+11% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Givairo Read (86)** — 26k coins, **+20% em 7 dias** (+23.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jari Litmanen (90)** — 106k coins, **+25.1% em 7 dias** (+1.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ricardo Pepi (87)** — 20k coins, **+13.5% em 7 dias** (+14.7% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ivan Perišić (86)** — 28k coins, **+22.1% em 7 dias** (+18.7% em 24h). Preço em linha com a média de 7 dias (+8%). 🔮 O modelo reforça a tese: **82% de chance de seguir subindo**.
+- **Paul Wanner (84)** — 43k coins, **+13.2% em 7 dias** (+18.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
 
 ## 🧪 De onde vêm estes números
@@ -70,7 +80,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Victor Edvardsen (84, Eredivisie) lidera, com +71.2% em 7 dias a 25k coins no Console (PS).
+Jorthy Mokio (84, Eredivisie) lidera, com +30.3% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -84,3 +94,10 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Mercado EA FC em 16/07: Eredivisie — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)

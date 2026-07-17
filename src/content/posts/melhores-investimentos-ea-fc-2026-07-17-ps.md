@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:36:09.000Z
+pubDatetime: 2026-07-17T17:19:04.000Z
 title: "Investimentos EA FC: Eredivisie em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Luciano Valente (87, Eredivisie) lidera, com +71.4% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Luciano Valente (87, Eredivisie) lidera, com +67.9% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Luciano Valente (87) acumula **+71.4% em 7 dias** a 24k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Luciano Valente (87) acumula **+67.9% em 7 dias** a 20k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.1% em 24h** e **+22.9% em 7 dias**.
-- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.1% em 24h** e **+22.6% em 7 dias**.
+- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Luciano Valente | 87 | Eredivisie | 24k coins | +29.7% | +71.4% | Esticada |
-| Park Ji Sung | 91 | Eredivisie | 91k coins | +25.5% | +61.2% | Esticada |
-| Ivan Perišić | 86 | Eredivisie | 36k coins | +37.4% | +44.4% | Esticada |
-| Mauro Júnior | 86 | Eredivisie | 44k coins | +11.6% | +23.1% | Momentum moderado |
-| Givairo Read | 86 | Eredivisie | 19.750 coins | +3.4% | +22.7% | Entrada a observar |
-| Jorthy Mokio | 86 | Eredivisie | 32k coins | +18.2% | +22.6% | Momentum moderado |
-| Lewis Holtby | 86 | Eredivisie | 29k coins | +11.5% | +19.6% | Momentum moderado |
-| Mohamed Ihattaren | 84 | Eredivisie | 42k coins | +12% | +5% | Momentum moderado |
+| Luciano Valente | 87 | Eredivisie | 20k coins | +27% | +67.9% | Esticada |
+| Park Ji Sung | 91 | Eredivisie | 90k coins | +22.1% | +56.9% | Esticada |
+| Ivan Perišić | 86 | Eredivisie | 42k coins | +36.6% | +41.2% | Esticada |
+| Jorthy Mokio | 86 | Eredivisie | 32k coins | +17.1% | +22.6% | Momentum moderado |
+| Lewis Holtby | 86 | Eredivisie | 28k coins | +13.7% | +19.6% | Momentum moderado |
+| Dirk Kuyt | 88 | Eredivisie | 28k coins | +8.9% | +6.2% | Momentum moderado |
+| Kees Smit | 86 | Eredivisie | 15.750 coins | +5% | +5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Luciano Valente (87)** — 24k coins, **+71.4% em 7 dias** (+29.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luciano Valente (87)** — 20k coins, **+67.9% em 7 dias** (+27% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Park Ji Sung (91)** — 91k coins, **+61.2% em 7 dias** (+25.5% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Park Ji Sung (91)** — 90k coins, **+56.9% em 7 dias** (+22.1% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ivan Perišić (86)** — 36k coins, **+44.4% em 7 dias** (+37.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Perišić (86)** — 42k coins, **+41.2% em 7 dias** (+36.6% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mauro Júnior (86)** — 44k coins, **+23.1% em 7 dias** (+11.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jorthy Mokio (86)** — 32k coins, **+22.6% em 7 dias** (+17.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Givairo Read (86)** — 19.750 coins, **+22.7% em 7 dias** (+3.4% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lewis Holtby (86)** — 28k coins, **+19.6% em 7 dias** (+13.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +89,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Luciano Valente (87, Eredivisie) lidera, com +71.4% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Luciano Valente (87, Eredivisie) lidera, com +67.9% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -99,7 +98,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
+> **Link patrocinado:** 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 

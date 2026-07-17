@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **-16,0%**: 6 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📈 O mercado hoje, em resumo
+## Dados preservados do snapshot
 
-O mercado do Eredivisie em consoles PS apresenta um cenário de extrema volatilidade e predomínio de fluxo de vendas, com a maioria das cartas sofrendo recuos significativos nas últimas 24 horas, refletindo um sentimento claramente vendedor entre os traders. Com uma média negativa de -11.52% e apenas 10 altas contra 21 quedas, o ambiente sugere cautela extrema, onde a liquidez parece estar sendo drenada por vendas em massa de ativos que não conseguem sustentar seus preços históricos. O trader deve estar atento à divergência entre a probabilidade de alta indicada pelo modelo e a realidade do mercado, pois muitos ativos com alta probabilidade teórica estão sendo pressionados por ofertas agressivas. Neste dia 19 de junho de 2026, a estratégia vencedora não será a de acumular carteiras, mas sim a de identificar oportunidades de compra seletiva em ativos que estão sendo vendidos por pânico ou erro de avaliação. A dinâmica atual exige uma leitura fina dos fundamentos de cada jogador, separando o ruído das vendas generalizadas dos movimentos orgânicos de valorização.
+As 4 tabelas abaixo preservam **28 registros** de **21 jogadores** observados em 19/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Can Bozdoğan (87) **+11.1%** · 🔴 **Maior baixa:** Givairo Read (86) **-50%**
-
-## 🟢 Destaques de alta (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -44,11 +42,7 @@ O mercado do Eredivisie em consoles PS apresenta um cenário de extrema volatili
 | Jordan Ayew | 80 | Eredivisie | 47k coins | +4.4% | +1.1% |
 | Ayase Ueda | 80 | Eredivisie | 48k coins | +3.3% | 0% |
 
-
-Entre as poucas luzes no mercado, Lewis Holtby se destaca com uma alta de 8.8% para 28k coins, impulsionado por uma probabilidade de alta de 95% que indica forte demanda institucional ou de squads específicos. Can Bozdoğan também registra ganhos de 11.1%, atingindo 25k coins, embora sua probabilidade de alta de 50% sugira que este movimento pode ser mais volátil e menos sustentável a longo prazo sem novos catalisadores. Troy Parrott sobe 7% para 40k coins, um movimento interessante dado que sua probabilidade de alta é de apenas 43%, indicando que a alta pode estar sendo conduzida por uma redução temporária de oferta no mercado aberto. Jorthy Mokio apresenta uma alta de 6.1% para 44k coins com 56% de probabilidade, o que o torna um ativo com potencial de continuidade, especialmente considerando a presença de uma versão de 86 que está em queda, sugerindo arbitragem entre as diferentes ratings. Jordan Ayew, apesar de ser uma carta de 80, sobe 4.4% para 47k coins, mas com apenas 8% de probabilidade de alta, o que alerta para um possível topo de curto prazo e risco de reversão imediata.
-
-
-## 🔴 Maiores baixas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -63,13 +57,7 @@ Entre as poucas luzes no mercado, Lewis Holtby se destaca com uma alta de 8.8% p
 | Melle Meulensteen | 84 | Eredivisie | 34k coins | -15.3% | -8.6% |
 | Tjaronn Chery | 85 | Eredivisie | 29k coins | -14.5% | -8.3% |
 
-
-As quedas dominam o cenário, com Givairo Read sofrendo um colapso de 50% para 39k coins, um movimento drástico que, combinado com apenas 5% de probabilidade de alta, sinaliza uma perda fundamental de valor ou falta de utilidade em metas atuais. Couhaib Driouech cai 36.1% para 66k coins, mas a probabilidade de alta de 80% sugere fortemente que esta é uma oportunidade de compra, pois o mercado pode estar superdimensionando o pânico de venda. Josip Šutalo recua 33.5% para 27k coins, e com apenas 5% de chance de alta, parece estar em uma tendência descendente estrutural que deve ser evitada por traders de swing. Jaap Stam, uma carta de alto valor, cai 29.7% para 865k coins, mas com 38% de probabilidade de alta, indica uma instabilidade típica de ativos de luxo onde grandes traders estão ajustando posições, criando suporte potencial em níveis mais baixos. Park Ji Sung desce 26.1% para 68k coins com 18% de probabilidade de alta, reforçando a ideia de que cartas de lendas ou ícones sem uso competitivo atual estão sendo liquidadas sem contrapartida de demanda.
-
-
-## 🔮 Projeções do modelo para 24h
-
-Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -78,13 +66,7 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Couhaib Driouech | 86 | 66k coins | 71k coins | 80% |
 | Patrick van Aanholt | 85 | 20k coins | 22k coins | 80% |
 
-
-Naquele snapshot, o modelo projetava alta probabilidade de valorização para Lewis Holtby com 95% de chance, Kees Smit com 81%, Couhaib Driouech com 80% e Patrick van Aanholt com 80%, sugerindo que estes ativos estão subvalorizados em relação à sua utilidade futura ou escassez iminente.
-
-
-## ⚠️ Cartas em risco nas próximas 24h
-
-Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite comprar agora:
+### Tabela preservada 4
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -97,38 +79,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 | Jakob Breum | 85 | 30k coins | -10.2% |
 | Park Ji Sung | 91 | 68k coins | -9.7% |
 
+## Como interpretar este arquivo
 
-## 🎯 Conclusão do dia
-A estratégia para hoje deve focar em comprar as quedas de ativos com alta probabilidade de recuperação, especificamente Couhaib Driouech e Lewis Holtby, que combinam preços baixados com fortes indicadores de demanda futura. Traders devem evitar comprar ativos em alta sem fundamentos, como Jordan Ayew, e liquidar posições em ativos de baixa probabilidade como Givairo Read e Josip Šutalo, que parecem estar em tendência de baixa estrutural. A divergência entre a versão de 84 e 86 de Jorthy Mokio oferece uma oportunidade de arbitragem, comprando a versão em alta e vendendo a versão em queda se a convergência de preços ocorrer. Segurar Jaap Stam pode ser uma jogada de longo prazo, mas o timing de compra deve aguardar estabilização do volume de vendas para confirmar suporte. Em resumo, o mercado está em modo de venda, então a liquidez deve ser preservada, entrando apenas nos ativos que o modelo identifica como descontos claros com alta probabilidade de reversão.
-
-
-## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
-Can Bozdoğan (87, Eredivisie), com +11.1% em 24h, a 25k coins no Console (PS).
-
-**E a maior queda do dia?**
-Givairo Read (86), -50% em 24h, a 39k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Lewis Holtby (86) — 95% de probabilidade de alta, a 28k coins.
-
-**O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 10 cartas em alta contra 21 em queda (média -11.52%).
-
-**Os dados de preço do FutQuant são confiáveis?**
-Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
-
-
-> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
-
----
-
-*Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **23k coins** a **865k coins**, com mediana de **40k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **-16,0%**.
+- A mediana das variações de 7d presentes nas tabelas foi **-3,1%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -138,3 +96,7 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 - [Momentum de Eredivisie no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

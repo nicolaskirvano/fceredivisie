@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:36:09.000Z
+pubDatetime: 2026-07-17T13:36:09.000Z
 title: "Investimentos EA FC: Eredivisie em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Josip Šutalo (90, Eredivisie) lidera, com +83.8% em 7 dias a 68k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ivan Perišić (90, Eredivisie) lidera, com +71.4% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Josip Šutalo (90) acumula **+83.8% em 7 dias** a 68k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ivan Perišić (90) acumula **+71.4% em 7 dias** a 48k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.4% em 24h** e **+28.9% em 7 dias**.
-- **3 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 14 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.9% em 24h** e **+21.9% em 7 dias**.
+- **1 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,33 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Josip Šutalo | 90 | Eredivisie | 68k coins | +26.7% | +83.8% | Esticada |
-| Ko Itakura | 88 | Eredivisie | 29k coins | +6.2% | +66.7% | Esticada |
-| Ivan Perišić | 90 | Eredivisie | 57k coins | +9.6% | +62.9% | Esticada |
-| Jari Litmanen | 90 | Eredivisie | 140k coins | +8.5% | +56.4% | Momentum moderado |
-| Park Ji Sung | 91 | Eredivisie | 89k coins | +12.5% | +55.2% | Momentum moderado |
-| Anis Hadj-Moussa | 86 | Eredivisie | 115k coins | +9.3% | +37.2% | Momentum moderado |
-| Tjaronn Chery | 85 | Eredivisie | 38k coins | +16.3% | +31.6% | Momentum moderado |
-| Dennis Man | 86 | Eredivisie | 34k coins | +2.7% | +26.1% | Momentum moderado |
-| Jorthy Mokio | 86 | Eredivisie | 32k coins | +16.1% | +18.2% | Momentum moderado |
-| Lewis Holtby | 86 | Eredivisie | 27k coins | +10% | +13.4% | Momentum moderado |
-| Mika Godts | 87 | Eredivisie | 20k coins | +3.6% | +11.5% | Entrada a observar |
-| Ivan Perišić | 86 | Eredivisie | 30k coins | +15.9% | +6.9% | Momentum moderado |
-| Youri Baas | 84 | Eredivisie | 34k coins | +8.8% | +6.1% | Momentum moderado |
-| Başar Önal | 85 | Eredivisie | 34k coins | +7.7% | +6.1% | Momentum moderado |
+| Ivan Perišić | 90 | Eredivisie | 48k coins | +4.3% | +71.4% | Esticada |
+| Jari Litmanen | 90 | Eredivisie | 60k coins | +7.8% | +55.3% | Momentum moderado |
+| Ahmetcan Kaplan | 88 | Eredivisie | 26k coins | +13.2% | +38.7% | Momentum moderado |
+| Jorthy Mokio | 86 | Eredivisie | 32k coins | +18.2% | +22.6% | Momentum moderado |
+| Jorthy Mokio | 84 | Eredivisie | 55k coins | +11.1% | +21.2% | Momentum moderado |
+| Anis Hadj-Moussa | 86 | Eredivisie | 100k coins | +6.4% | +19.9% | Momentum moderado |
+| Tjaronn Chery | 85 | Eredivisie | 30k coins | +8.5% | +19.7% | Momentum moderado |
+| Dennis Man | 86 | Eredivisie | 35k coins | +9.4% | +15.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Josip Šutalo (90)** — 68k coins, **+83.8% em 7 dias** (+26.7% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Perišić (90)** — 48k coins, **+71.4% em 7 dias** (+4.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ko Itakura (88)** — 29k coins, **+66.7% em 7 dias** (+6.2% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jari Litmanen (90)** — 60k coins, **+55.3% em 7 dias** (+7.8% em 24h). Preço -39% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ivan Perišić (90)** — 57k coins, **+62.9% em 7 dias** (+9.6% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ahmetcan Kaplan (88)** — 26k coins, **+38.7% em 7 dias** (+13.2% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jari Litmanen (90)** — 140k coins, **+56.4% em 7 dias** (+8.5% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jorthy Mokio (86)** — 32k coins, **+22.6% em 7 dias** (+18.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Park Ji Sung (91)** — 89k coins, **+55.2% em 7 dias** (+12.5% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jorthy Mokio (84)** — 55k coins, **+21.2% em 7 dias** (+11.1% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -96,7 +90,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Josip Šutalo (90, Eredivisie) lidera, com +83.8% em 7 dias a 68k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ivan Perišić (90, Eredivisie) lidera, com +71.4% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

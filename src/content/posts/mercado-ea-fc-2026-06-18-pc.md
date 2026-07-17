@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Eredivisie FUT"
 pubDatetime: 2026-06-19T01:38:03.000Z
-title: "Eredivisie no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Eredivisie no EA FC em 18/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Kento Shiogai (83, Eredivisie), com +50% em 24h, a 105k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Ahmetcan Kaplan (88), -34.2% em 24h, a 27k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 12 cartas em alta contra 26 em queda (média -0.94%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PC: Kento Shiogai liderou as altas e Ahmetcan Kaplan as baixas em Eredivisie. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 19 cartas destacadas nas tabelas, **Kento Shiogai** registrou o maior movimento de 24h (+50,0%), enquanto **Ahmetcan Kaplan** marcou o menor (-34,2%). A distância entre os extremos foi de **84,2 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-8,9%**: 9 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Eredivisie no EA FC em 18/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-18-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado do EA FC Ultimate Team na plataforma PC apresenta um cenário de extrema cautela e volatilidade negativa para o segmento Eredivisie nesta segunda-feira, 18 de junho de 2026, onde a psicologia do trader deve estar alinhada à realidade dos números que indicam uma forte tendência de desvalorização de ativos. Com um balanço desequilibrado de 12 altas contra 26 quedas registradas nas últimas 24 horas, a média de variação de preço fechou em -0,94%, sinalizando que a liquidez está sendo drenada do mercado e que a maioria dos investidores está optando por realizar lucros ou cortar perdas diante da incerteza das próximas atualizações de conteúdo. Este ambiente hostil exige que os traders de PC mantenham uma disciplina férrea, evitando compras impulsivas de cards que parecem baratos apenas porque estão em queda livre, pois sem um catalisador forte, a inércia do mercado tende a empurrar os preços para novos patamares inferiores. A análise fundamentalista do dia revela que apenas os cards com maior probabilidade estatística de alta ou aqueles atrelados a eventos específicos conseguiram resistir à pressão vendedora, enquanto a grande massa de jogadores de média e baixa demanda sucumbiu à falta de compradores. Portanto, a estratégia para hoje deve ser focada em observação atenta das poucas oportunidades de compra em ativos de alta probabilidade que foram descontados excessivamente, aguardando confirmação de suporte antes de entrar em posições longas significativas.
 
@@ -75,16 +80,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Kento Shiogai (83, Eredivisie), com +50% em 24h, a 105k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Ahmetcan Kaplan (88), -34.2% em 24h, a 27k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 12 cartas em alta contra 26 em queda (média -0.94%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 12 cartas em alta contra 26 em queda (média -0.94%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -93,3 +98,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Eredivisie no EA FC em 18/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-18-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de Eredivisie no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

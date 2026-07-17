@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Eredivisie FUT"
 pubDatetime: 2026-06-21T01:37:42.000Z
-title: "Eredivisie no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Eredivisie no EA FC em 20/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,17 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Jorthy Mokio (84, Eredivisie), com +43% em 24h, a 50k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Jari Litmanen (90), -29.3% em 24h, a 33k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 13 cartas em alta contra 22 em queda (média -1.69%)."
-  - q: "Posso confiar nos preços e previsões do FutQuant?"
-    a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
+description: "Snapshot histórico de 20/06/2026 no PC: Jorthy Mokio liderou as altas e Jari Litmanen as baixas em Eredivisie. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 16 cartas destacadas nas tabelas, **Jorthy Mokio** registrou o maior movimento de 24h (+43,0%), enquanto **Jari Litmanen** marcou o menor (-29,3%). A distância entre os extremos foi de **72,3 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-8,5%**: 6 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Eredivisie no EA FC em 20/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📊 Como está o mercado agora
 
@@ -72,16 +77,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Jorthy Mokio (84, Eredivisie), com +43% em 24h, a 50k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Jari Litmanen (90), -29.3% em 24h, a 33k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 13 cartas em alta contra 22 em queda (média -1.69%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava pressionado — as quedas dominam o dia, com 13 cartas em alta contra 22 em queda (média -1.69%).
 
-**Posso confiar nos preços e previsões do FutQuant?**  
+**Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
@@ -90,3 +95,12 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Eredivisie no EA FC em 20/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-20-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de Eredivisie no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

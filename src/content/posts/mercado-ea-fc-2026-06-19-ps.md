@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Eredivisie FUT"
 pubDatetime: 2026-06-20T01:36:35.000Z
-title: "Eredivisie no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Eredivisie no EA FC em 19/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Can Bozdoğan (87, Eredivisie), com +11.1% em 24h, a 25k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Givairo Read (86), -50% em 24h, a 39k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Lewis Holtby (86) — 95% de probabilidade de alta, a 28k coins."
-  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 10 cartas em alta contra 21 em queda (média -11.52%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PS: Can Bozdoğan liderou as altas e Givairo Read as baixas em Eredivisie. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 16 cartas destacadas nas tabelas, **Can Bozdoğan** registrou o maior movimento de 24h (+11,1%), enquanto **Givairo Read** marcou o menor (-50,0%). A distância entre os extremos foi de **61,1 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-16,0%**: 6 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Eredivisie no EA FC em 19/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-19-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📈 O mercado hoje, em resumo
 
@@ -76,7 +79,7 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Patrick van Aanholt | 85 | 20k coins | 22k coins | 80% |
 
 
-O modelo projeta alta probabilidade de valorização para Lewis Holtby com 95% de chance, Kees Smit com 81%, Couhaib Driouech com 80% e Patrick van Aanholt com 80%, sugerindo que estes ativos estão subvalorizados em relação à sua utilidade futura ou escassez iminente.
+Naquele snapshot, o modelo projetava alta probabilidade de valorização para Lewis Holtby com 95% de chance, Kees Smit com 81%, Couhaib Driouech com 80% e Patrick van Aanholt com 80%, sugerindo que estes ativos estão subvalorizados em relação à sua utilidade futura ou escassez iminente.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -105,19 +108,19 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Can Bozdoğan (87, Eredivisie), com +11.1% em 24h, a 25k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Givairo Read (86), -50% em 24h, a 39k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Lewis Holtby (86) — 95% de probabilidade de alta, a 28k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Lewis Holtby (86) — 95% de probabilidade de alta, a 28k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
+**O mercado do Ultimate Team subiu ou caiu hoje?**
 Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 10 cartas em alta contra 21 em queda (média -11.52%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
@@ -126,3 +129,12 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Eredivisie no EA FC em 19/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-19-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Momentum de Eredivisie no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

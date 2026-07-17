@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Eredivisie FUT"
 pubDatetime: 2026-06-02T01:36:02.000Z
-title: "Eredivisie no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Eredivisie no EA FC em 01/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Ayase Ueda (80, Eredivisie), com +56.2% em 24h, a 47k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Joey Veerman (82), -23.3% em 24h, a 23k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 10 cartas em alta contra 26 em queda (média 1.43%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 01/06/2026 no PC: Ayase Ueda liderou as altas e Joey Veerman as baixas em Eredivisie. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 01/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **10 subiram** e **26 caíram**, com variação média de **1.43%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 9 cartas destacadas nas tabelas, **Ayase Ueda** registrou o maior movimento de 24h (+56,2%), enquanto **Joey Veerman** marcou o menor (-23,3%). A distância entre os extremos foi de **79,5 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-5,6%**: 4 destaques subiam e 5 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Eredivisie no EA FC em 01/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-01-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** estava em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **10 subiram** e **26 caíram**, com variação média de **1.43%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Ayase Ueda (80) **+56.2%** · 🔴 **Maior baixa:** Joey Veerman (82) **-23.3%**
 
@@ -40,11 +45,11 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Ayase Ueda (80)** subiu **+56.2%** em 24h, a **47k coins** (faixa do dia: 47k–47k). Está em linha com a média de 7 dias (+3%). O modelo vê **estabilização** no curto prazo.
+- **Ayase Ueda (80)** subiu **+56.2%** em 24h, a **47k coins** (faixa do dia: 47k–47k). Está em linha com a média de 7 dias (+3%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Ahmetcan Kaplan (88)** subiu **+33.8%** em 24h, a **23k coins** (faixa do dia: 15k–24k). Está em linha com a média de 7 dias (+3%). O modelo vê **estabilização** no curto prazo.
+- **Ahmetcan Kaplan (88)** subiu **+33.8%** em 24h, a **23k coins** (faixa do dia: 15k–24k). Está em linha com a média de 7 dias (+3%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Quinten Timber (85)** subiu **+33.3%** em 24h, a **29k coins** (faixa do dia: 22k–42k). Está em linha com a média de 7 dias (+0%). O modelo vê **estabilização** no curto prazo.
+- **Quinten Timber (85)** subiu **+33.3%** em 24h, a **29k coins** (faixa do dia: 22k–42k). Está em linha com a média de 7 dias (+0%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -60,11 +65,11 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Joey Veerman (82)** caiu **-23.3%** em 24h, a **23k coins** (faixa do dia: 23k–23k). Está -16% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Joey Veerman (82)** caiu **-23.3%** em 24h, a **23k coins** (faixa do dia: 23k–23k). Está -16% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Anis Hadj-Moussa (86)** caiu **-15.6%** em 24h, a **68k coins** (faixa do dia: 68k–80k). Está -20% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Anis Hadj-Moussa (86)** caiu **-15.6%** em 24h, a **68k coins** (faixa do dia: 68k–80k). Está -20% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Patrick van Aanholt (85)** caiu **-13.6%** em 24h, a **43k coins** (faixa do dia: 39k–49k). Está +52% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Patrick van Aanholt (85)** caiu **-13.6%** em 24h, a **43k coins** (faixa do dia: 39k–49k). Está +52% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -74,16 +79,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (01/06/2026)?**
 Ayase Ueda (80, Eredivisie), com +56.2% em 24h, a 47k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Joey Veerman (82), -23.3% em 24h, a 23k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 10 cartas em alta contra 26 em queda (média 1.43%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 10 cartas em alta contra 26 em queda (média 1.43%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -92,3 +97,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 01/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Eredivisie baratos no EA FC em 01/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-01-pc/)
+- [Momentum de Eredivisie no EA FC em 01/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-01-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

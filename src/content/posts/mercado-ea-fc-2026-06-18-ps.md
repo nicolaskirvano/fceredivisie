@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Eredivisie FUT"
 pubDatetime: 2026-06-19T01:36:46.000Z
-title: "Eredivisie no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Eredivisie no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Jari Litmanen (90, Eredivisie), com +42.7% em 24h, a 74k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Jorthy Mokio (86), -24.6% em 24h, a 21k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Lewis Holtby (86) — 95% de probabilidade de alta, a 18k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 18 cartas em alta contra 21 em queda (média -0.8%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PS: Jari Litmanen liderou as altas e Jorthy Mokio as baixas em Eredivisie. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Jari Litmanen** registrou o maior movimento de 24h (+42,7%), enquanto **Jorthy Mokio** marcou o menor (-24,6%). A distância entre os extremos foi de **67,3 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+0,3%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Eredivisie no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado da Eredivisie em consoles PlayStation apresenta uma dinâmica extremamente lateral neste dia 18 de junho de 2026, caracterizada por uma ausência de direção clara que exige cautela e seletividade extrema dos traders experientes. Com uma média de variação negativa de apenas 0.8% nas últimas 24 horas, distribuída entre 18 altas e 21 quedas significativas, o cenário reflete um equilíbrio delicado onde os volumes de compra e venda se neutralizam, evitando grandes movimentos de tendência. Este ambiente de consolidação sugere que o mercado está digerindo informações recentes ou aguardando novos ganchos de conteúdo para definir um novo patamar de preços, criando oportunidades de arbtragem em ativos específicos. A volatilidade pontual em nomes icônicos e modernos indica que o foco dos traders está concentrado em few picks com alta probabilidade de retorno, enquanto a maioria dos ativos permanece estagnada ou com flutuações mínimas. Para navegar neste contexto, é fundamental ignorar o ruído das pequenas variações e focar estritamente nos ativos que apresentam divergência clara entre sentimento de mercado e probabilidade estatística de alta.
 
@@ -68,7 +71,7 @@ Jari Litmanen lidera as altas com um impressionante salto de 42.7% em 24 horas, 
 Jorthy Mokio sofreu a maior queda do dia com uma desvalorização de 24.6% para 21 mil coins, um movimento agressivo que reflete a baixa probabilidade de alta de apenas 27%, sinalizando perda de confiança dos traders neste ativo específico. Ahmetcan Kaplan também recuou 24% para 28 mil coins, mas sua alta probabilidade de alta de 68% sugere que esta queda pode ser uma oportunidade de compra de contra-tendência, desde que o suporte seja respeitado. Mats Deijl caiu 20.5% para 28 mil coins com uma probabilidade de alta crítica de apenas 5%, indicando que a pressão vendedora pode continuar a dominar este ativo no curto prazo sem sinais claros de reversão. Youri Baas e Jorthy Mokio (versão 84) registraram quedas de 17% e 16.4% respectivamente, onde o primeiro mantém uma probabilidade de alta saudável de 65%, enquanto o segundo apresenta 56%, criando cenários distintos de risco e recompensa para cada versão do jogador. Patrick van Aanholt e Park Ji Sung completam as baixas com quedas de 15.2% e 13.3%, onde Van Aanholt destaca-se pela probabilidade de alta de 80% a 34 mil coins, tornando-se um candidato forte para compra em fundo, ao contrário de Park, cuja baixa probabilidade de 18% sugere cautela total.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -111,19 +114,19 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Jari Litmanen (90, Eredivisie), com +42.7% em 24h, a 74k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Jorthy Mokio (86), -24.6% em 24h, a 21k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Lewis Holtby (86) — 95% de probabilidade de alta, a 18k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Lewis Holtby (86) — 95% de probabilidade de alta, a 18k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 18 cartas em alta contra 21 em queda (média -0.8%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 18 cartas em alta contra 21 em queda (média -0.8%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -132,3 +135,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Eredivisie no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Momentum de Eredivisie no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

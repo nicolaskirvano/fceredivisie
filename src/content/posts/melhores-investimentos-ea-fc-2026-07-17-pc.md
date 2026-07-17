@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T19:36:19.000Z
+pubDatetime: 2026-07-17T22:36:18.000Z
 title: "Investimentos EA FC: Eredivisie em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Park Ji Sung (91, Eredivisie) lidera, com +22% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Luciano Valente (87, Eredivisie) lidera, com +51.6% em 7 dias a 24k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Park Ji Sung (91) acumula **+22% em 7 dias** a 100k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Luciano Valente (87) acumula **+51.6% em 7 dias** a 24k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.2% em 24h** e **+10.4% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.4% em 24h** e **+21.6% em 7 dias**.
+- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
+| Luciano Valente | 87 | Eredivisie | 24k coins | +7.8% | +51.6% | Momentum moderado |
+| Steven Berghuis | 86 | Eredivisie | 47k coins | +32% | +51.6% | Esticada |
+| Anis Hadj-Moussa | 86 | Eredivisie | 128k coins | +7.6% | +39.1% | Momentum moderado |
 | Park Ji Sung | 91 | Eredivisie | 100k coins | +20.5% | +22% | Esticada |
-| Jorthy Mokio | 84 | Eredivisie | 55k coins | +2.8% | +21.5% | Entrada a observar |
-| Sergiño Dest | 86 | Eredivisie | 138k coins | +35.3% | +10.4% | Esticada |
-| Ahmetcan Kaplan | 88 | Eredivisie | 19.000 coins | +2.5% | +9.5% | Entrada a observar |
+| Mohamed Ihattaren | 84 | Eredivisie | 43k coins | +15.4% | +21.1% | Momentum moderado |
+| Sergiño Dest | 86 | Eredivisie | 104k coins | +31.4% | +17.5% | Esticada |
+| Mika Godts | 87 | Eredivisie | 25k coins | +30.3% | +13.8% | Esticada |
 | Patrick van Aanholt | 85 | Eredivisie | 36k coins | +18.2% | +7.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
+- **Luciano Valente (87)** — 24k coins, **+51.6% em 7 dias** (+7.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Steven Berghuis (86)** — 47k coins, **+51.6% em 7 dias** (+32% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Anis Hadj-Moussa (86)** — 128k coins, **+39.1% em 7 dias** (+7.6% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Park Ji Sung (91)** — 100k coins, **+22% em 7 dias** (+20.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jorthy Mokio (84)** — 55k coins, **+21.5% em 7 dias** (+2.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Sergiño Dest (86)** — 138k coins, **+10.4% em 7 dias** (+35.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Ahmetcan Kaplan (88)** — 19.000 coins, **+9.5% em 7 dias** (+2.5% em 24h). Preço -16% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Patrick van Aanholt (85)** — 36k coins, **+7.5% em 7 dias** (+18.2% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mohamed Ihattaren (84)** — 43k coins, **+21.1% em 7 dias** (+15.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -87,7 +90,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Park Ji Sung (91, Eredivisie) lidera, com +22% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Luciano Valente (87, Eredivisie) lidera, com +51.6% em 7 dias a 24k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

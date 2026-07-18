@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T16:36:08.000Z
+pubDatetime: 2026-07-18T19:36:08.000Z
 title: "Mercado EA FC em 18/07: Eredivisie — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Couhaib Driouech (86, Eredivisie), com +45.8% em 24h, a 128k coins no Console (PS)."
+    a: "Kenneth Taylor (84, Eredivisie), com +55.5% em 24h, a 28k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Anis Hadj-Moussa (86), -21.6% em 24h, a 72k coins."
+    a: "Jorthy Mokio (86), -30% em 24h, a 21k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 13 cartas em alta contra 18 em queda (média 0.45%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 15 cartas em alta contra 16 em queda (média 3.16%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **18/07/2026** no Console (PS): mercado **lateral** — sem direção clara. **13 valorizações** contra **18 quedas** entre as cartas relevantes, com média de **0.45%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **18/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **15 valorizações** contra **16 quedas** entre as cartas relevantes, com média de **3.16%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Couhaib Driouech (86) **+45.8%** · 🔴 **Maior baixa:** Anis Hadj-Moussa (86) **-21.6%**
+> 🟢 **Maior alta:** Kenneth Taylor (84) **+55.5%** · 🔴 **Maior baixa:** Jorthy Mokio (86) **-30%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Eredivisie — Console (PS)](/charts/mercado-ea-fc-2026-07-18-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **18/07/2026** no Console (PS): mercado **lateral** — sem direção 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 67.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 41.9% entre as cartas que se moveram; o universo observado reúne 44 cartas.
-- **Concentração:** Eredivisie aparece em 19 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 85.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.4% entre as cartas que se moveram; o universo observado reúne 39 cartas.
+- **Concentração:** Eredivisie aparece em 17 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Couhaib Driouech | 86 | Eredivisie | 128k coins | +45.8% | +260.8% |
-| Mats Deijl | 88 | Eredivisie | 21k coins | +44.1% | +49.1% |
-| Youri Baas | 84 | Eredivisie | 42k coins | +31.1% | +28.3% |
-| Troy Parrott | 84 | Eredivisie | 42k coins | +30.8% | +25% |
-| Quinten Timber | 85 | Eredivisie | 38k coins | +22% | +47.1% |
-| Jordan Ayew | 80 | Eredivisie | 48k coins | +14.6% | -1.1% |
-| Guus Til | 83 | Eredivisie | 40k coins | +12.7% | +11.1% |
-| Jorthy Mokio | 84 | Eredivisie | 55k coins | +7.8% | +44.7% |
-| Ayase Ueda | 84 | Eredivisie | 40k coins | +5.2% | +15% |
-| Ivan Perišić | 90 | Eredivisie | 46k coins | +3% | +83.9% |
+| Kenneth Taylor | 84 | Eredivisie | 28k coins | +55.5% | +58.3% |
+| Ko Itakura | 88 | Eredivisie | 21k coins | +44.1% | -3.4% |
+| Paul Wanner | 84 | Eredivisie | 45k coins | +20.7% | +19.1% |
+| Troy Parrott | 84 | Eredivisie | 54k coins | +19.7% | +25% |
+| Joël Drommel | 84 | Eredivisie | 40k coins | +13.2% | +8.2% |
+| Guus Til | 83 | Eredivisie | 40k coins | +12.7% | +8.1% |
+| Mauro Júnior | 86 | Eredivisie | 36k coins | +5.7% | +2.8% |
+| Melle Meulensteen | 84 | Eredivisie | 40k coins | +4.6% | +15.9% |
+| Dennis Man | 86 | Eredivisie | 29k coins | +4.5% | +15.8% |
+| Ivan Perišić | 90 | Eredivisie | 60k coins | +3.5% | +82.8% |
 
 
 ### Análise das altas
@@ -61,42 +61,40 @@ Resumo de **18/07/2026** no Console (PS): mercado **lateral** — sem direção 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Couhaib Driouech (86)** subiu **+45.8%** em 24h, a **128k coins** (faixa do dia: 33k–163k). Está +160% acima da média de 7 dias (aquecida).
+- **Kenneth Taylor (84)** subiu **+55.5%** em 24h, a **28k coins** (faixa do dia: 19.750–50k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Mats Deijl (88)** subiu **+44.1%** em 24h, a **21k coins** (faixa do dia: 14.750–23k). Está +24% acima da média de 7 dias (aquecida).
+- **Ko Itakura (88)** subiu **+44.1%** em 24h, a **21k coins** (faixa do dia: 13.250–30k). Está em linha com a média de 7 dias (+5%).
 
-- **Youri Baas (84)** subiu **+31.1%** em 24h, a **42k coins** (faixa do dia: 32k–53k). Está em linha com a média de 7 dias (+5%).
+- **Paul Wanner (84)** subiu **+20.7%** em 24h, a **45k coins** (faixa do dia: 34k–46k). Está +18% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anis Hadj-Moussa | 86 | Eredivisie | 72k coins | -21.6% | +5.1% |
-| Finn Azaz | 83 | Eredivisie | 32k coins | -20.5% | -9.9% |
-| Jaap Stam | 91 | Eredivisie | 800k coins | -10.1% | -0.2% |
-| Park Ji Sung | 91 | Eredivisie | 82k coins | -8.5% | +55.9% |
-| Ivan Perišić | 86 | Eredivisie | 38k coins | -8.3% | +38.7% |
-| Joël Drommel | 84 | Eredivisie | 37k coins | -8.1% | -7.5% |
-| Dirk Kuyt | 88 | Eredivisie | 24k coins | -7% | +21.2% |
-| Ismael Saibari | 84 | Eredivisie | 37k coins | -5.6% | 0% |
-| Wout Weghorst | 85 | Eredivisie | 91k coins | -3.7% | +1.1% |
+| Jorthy Mokio | 86 | Eredivisie | 21k coins | -30% | -12.5% |
+| Jordan Ayew | 80 | Eredivisie | 46k coins | -10.4% | -6.8% |
+| Jaap Stam | 91 | Eredivisie | 892k coins | -6.7% | +0.4% |
+| Finn Azaz | 83 | Eredivisie | 40k coins | -5.9% | +1.4% |
+| Ayase Ueda | 80 | Eredivisie | 48k coins | -5.3% | +10.4% |
+| Ayase Ueda | 84 | Eredivisie | 43k coins | -3.9% | +5% |
+| Lewis Holtby | 86 | Eredivisie | 28k coins | -3.5% | +39.2% |
 
 
 ### Análise das baixas
 
-- **Anis Hadj-Moussa (86)** caiu **-21.6%** em 24h, a **72k coins** (faixa do dia: 72k–128k). Está -26% abaixo da média de 7 dias (descontada).
+- **Jorthy Mokio (86)** caiu **-30%** em 24h, a **21k coins** (faixa do dia: 15.000–32k). Está -20% abaixo da média de 7 dias (descontada).
 
-- **Finn Azaz (83)** caiu **-20.5%** em 24h, a **32k coins** (faixa do dia: 32k–42k). Está -17% abaixo da média de 7 dias (descontada).
+- **Jordan Ayew (80)** caiu **-10.4%** em 24h, a **46k coins** (faixa do dia: 38k–48k). Está em linha com a média de 7 dias (+4%).
 
-- **Jaap Stam (91)** caiu **-10.1%** em 24h, a **800k coins** (faixa do dia: 800k–1.10M). Está -22% abaixo da média de 7 dias (descontada).
+- **Jaap Stam (91)** caiu **-6.7%** em 24h, a **892k coins** (faixa do dia: 788k–1.10M). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Couhaib Driouech já avançou 45.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Kenneth Taylor já avançou 55.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Anis Hadj-Moussa recuou -21.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jorthy Mokio recuou -30%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -108,13 +106,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Couhaib Driouech (86, Eredivisie), com +45.8% em 24h, a 128k coins no Console (PS).
+Kenneth Taylor (84, Eredivisie), com +55.5% em 24h, a 28k coins no Console (PS).
 
 **E a maior queda do dia?**
-Anis Hadj-Moussa (86), -21.6% em 24h, a 72k coins.
+Jorthy Mokio (86), -30% em 24h, a 21k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 13 cartas em alta contra 18 em queda (média 0.45%).
+Hoje o mercado está em alta — predominam as valorizações, com 15 cartas em alta contra 16 em queda (média 3.16%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -129,7 +127,6 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Eredivisie em 18/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-18-ps/)
 - [Investimentos EA FC: Eredivisie em 18/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-18-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

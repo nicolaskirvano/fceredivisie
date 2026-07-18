@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ivan Perišić</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.9%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quinten Timber</text>
-<rect x="285" y="153" width="269" height="28" rx="7" fill="#22c55e"/>
-<text x="564" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jorthy Mokio</text>
-<rect x="285" y="211" width="256" height="28" rx="7" fill="#22c55e"/>
-<text x="551" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Youri Baas</text>
-<rect x="285" y="269" width="162" height="28" rx="7" fill="#22c55e"/>
-<text x="457" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.3%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+82.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Park Ji Sung</text>
+<rect x="285" y="153" width="314" height="28" rx="7" fill="#22c55e"/>
+<text x="609" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quinten Timber</text>
+<rect x="285" y="211" width="273" height="28" rx="7" fill="#22c55e"/>
+<text x="568" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.1%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jorthy Mokio</text>
+<rect x="285" y="269" width="259" height="28" rx="7" fill="#22c55e"/>
+<text x="554" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.7%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Troy Parrott</text>
-<rect x="285" y="327" width="143" height="28" rx="7" fill="#22c55e"/>
-<text x="438" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ayase Ueda</text>
-<rect x="285" y="385" width="86" height="28" rx="7" fill="#22c55e"/>
-<text x="381" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.0%</text>
+<rect x="285" y="327" width="145" height="28" rx="7" fill="#22c55e"/>
+<text x="440" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paul Wanner</text>
+<rect x="285" y="385" width="111" height="28" rx="7" fill="#22c55e"/>
+<text x="406" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.1%</text>
 </svg>

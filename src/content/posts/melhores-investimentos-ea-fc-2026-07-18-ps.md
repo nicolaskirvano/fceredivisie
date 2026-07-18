@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:36:09.000Z
+pubDatetime: 2026-07-18T16:36:09.000Z
 title: "Investimentos EA FC: Eredivisie em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Givairo Read (86, Eredivisie) lidera, com +76.6% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ivan Perišić (90, Eredivisie) lidera, com +83.9% em 7 dias a 46k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Givairo Read (86) acumula **+76.6% em 7 dias** a 25k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ivan Perišić (90) acumula **+83.9% em 7 dias** a 46k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,7 +33,7 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.5% em 24h** e **+37.2% em 7 dias**.
+- A mediana é de **+14.9% em 24h** e **+36.5% em 7 dias**.
 - **4 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Eredivisie** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,25 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Givairo Read | 86 | Eredivisie | 25k coins | +10.8% | +76.6% | Esticada |
-| Park Ji Sung | 91 | Eredivisie | 89k coins | +1.1% | +60.7% | Esticada |
-| Ivan Perišić | 86 | Eredivisie | 40k coins | +31.1% | +40.4% | Esticada |
-| Youri Baas | 84 | Eredivisie | 44k coins | +14.2% | +34.1% | Momentum moderado |
-| Mats Deijl | 88 | Eredivisie | 21k coins | +21.5% | +33.9% | Esticada |
-| Dirk Kuyt | 88 | Eredivisie | 21k coins | +3.9% | +17.6% | Entrada a observar |
+| Ivan Perišić | 90 | Eredivisie | 46k coins | +3% | +83.9% | Esticada |
+| Quinten Timber | 85 | Eredivisie | 38k coins | +22% | +47.1% | Esticada |
+| Jorthy Mokio | 84 | Eredivisie | 55k coins | +7.8% | +44.7% | Momentum moderado |
+| Youri Baas | 84 | Eredivisie | 42k coins | +31.1% | +28.3% | Esticada |
+| Troy Parrott | 84 | Eredivisie | 42k coins | +30.8% | +25% | Esticada |
+| Ayase Ueda | 84 | Eredivisie | 40k coins | +5.2% | +15% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Givairo Read (86)** — 25k coins, **+76.6% em 7 dias** (+10.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Perišić (90)** — 46k coins, **+83.9% em 7 dias** (+3% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Park Ji Sung (91)** — 89k coins, **+60.7% em 7 dias** (+1.1% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quinten Timber (85)** — 38k coins, **+47.1% em 7 dias** (+22% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ivan Perišić (86)** — 40k coins, **+40.4% em 7 dias** (+31.1% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jorthy Mokio (84)** — 55k coins, **+44.7% em 7 dias** (+7.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Youri Baas (84)** — 44k coins, **+34.1% em 7 dias** (+14.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Youri Baas (84)** — 42k coins, **+28.3% em 7 dias** (+31.1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mats Deijl (88)** — 21k coins, **+33.9% em 7 dias** (+21.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Troy Parrott (84)** — 42k coins, **+25% em 7 dias** (+30.8% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Givairo Read (86, Eredivisie) lidera, com +76.6% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ivan Perišić (90, Eredivisie) lidera, com +83.9% em 7 dias a 46k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -97,6 +97,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Eredivisie em 18/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-18-ps/)
 - [Mercado EA FC em 18/07: Eredivisie — Console (PS)](/posts/mercado-ea-fc-2026-07-18-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

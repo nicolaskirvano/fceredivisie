@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:32:37.000Z
+pubDatetime: 2026-07-18T10:36:08.000Z
 title: "Mercado EA FC em 18/07: Eredivisie — Console (PS)"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Jorthy Mokio (86), -39.2% em 24h, a 30k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 18 cartas em alta contra 16 em queda (média 4.32%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 18 cartas em alta contra 16 em queda (média 4.25%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **18/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **18 valorizações** contra **16 quedas** entre as cartas relevantes, com média de **4.32%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **18/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **18 valorizações** contra **16 quedas** entre as cartas relevantes, com média de **4.25%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Ivan Perišić (86) **+47.5%** · 🔴 **Maior baixa:** Jorthy Mokio (86) **-39.2%**
 
@@ -50,9 +50,9 @@ Resumo de **18/07/2026** no Console (PS): mercado **em alta** — predominam as 
 | Youri Baas | 84 | Eredivisie | 45k coins | +19.4% | +44.7% |
 | Victor Edvardsen | 84 | Eredivisie | 36k coins | +19% | +53.2% |
 | Troy Parrott | 84 | Eredivisie | 40k coins | +17.6% | +19.4% |
-| Givairo Read | 86 | Eredivisie | 34k coins | +13% | +71.2% |
+| Givairo Read | 86 | Eredivisie | 34k coins | +13% | +76.6% |
 | Joël Drommel | 84 | Eredivisie | 40k coins | +12.6% | +14% |
-| Dirk Kuyt | 88 | Eredivisie | 21k coins | +7.5% | +32.3% |
+| Dirk Kuyt | 88 | Eredivisie | 22k coins | +7.5% | +32.3% |
 
 
 ### Análise das altas
@@ -77,7 +77,7 @@ Resumo de **18/07/2026** no Console (PS): mercado **em alta** — predominam as 
 | Jari Litmanen | 90 | Eredivisie | 104k coins | -18.6% | +51% |
 | Ivan Perišić | 90 | Eredivisie | 50k coins | -16.7% | +75.4% |
 | Anis Hadj-Moussa | 86 | Eredivisie | 91k coins | -15.6% | +33.3% |
-| Dennis Man | 86 | Eredivisie | 30k coins | -15% | +2.6% |
+| Dennis Man | 86 | Eredivisie | 28k coins | -15% | +2.6% |
 | Park Ji Sung | 91 | Eredivisie | 91k coins | -6.7% | +46.9% |
 | Ayase Ueda | 84 | Eredivisie | 36k coins | -5.8% | +2.1% |
 | Wout Weghorst | 85 | Eredivisie | 84k coins | -3.8% | -4.9% |
@@ -114,7 +114,7 @@ Ivan Perišić (86, Eredivisie), com +47.5% em 24h, a 43k coins no Console (PS).
 Jorthy Mokio (86), -39.2% em 24h, a 30k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 18 cartas em alta contra 16 em queda (média 4.32%).
+Hoje o mercado está em alta — predominam as valorizações, com 18 cartas em alta contra 16 em queda (média 4.25%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

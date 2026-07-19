@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:36:10.000Z
+pubDatetime: 2026-07-19T13:36:10.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 12.812 coins.
+- **Preço médio das 5 opções:** 12.900 coins.
 - **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 11.500 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 12.250 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,28 +40,31 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jari Litmanen | 88 | CAM | Eredivisie | 12.250 coins | +4.3% |
-| Ricardo Pepi | 87 | ST | Eredivisie | 14.250 coins | -14.7% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11.500 coins | -2.1% |
-| Kees Smit | 86 | CAM | Eredivisie | 13.250 coins | +1.9% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 12.250 coins | +8.5% |
+| Can Bozdoğan | 87 | CM | Eredivisie | 13.000 coins | -8.8% |
+| Ricardo Pepi | 87 | ST | Eredivisie | 13.750 coins | -1.8% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12.500 coins | +4.4% |
+| Kees Smit | 86 | CAM | Eredivisie | 13.000 coins | -3.9% |
 
 
 ## 📈 Destaques
 
 - **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12.250 coins**
 
-- **Ricardo Pepi (87, ST)** da Eredivisie, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Can Bozdoğan (87, CM)** da Eredivisie, a apenas **13.000 coins**
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11.500 coins**
+- **Ricardo Pepi (87, ST)** da Eredivisie, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.500 coins**
+
+- **Kees Smit (86, CAM)** da Eredivisie, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Meio:** Jari Litmanen (88, CAM) por 12.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Ricardo Pepi (87, ST) por 14.250 coins é a referência de rating deste recorte.
+- **Ataque:** Ricardo Pepi (87, ST) por 13.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

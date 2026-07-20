@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T19:36:09.000Z
+pubDatetime: 2026-07-20T22:36:09.000Z
 title: "Investimentos EA FC: Eredivisie em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Couhaib Driouech (86, Eredivisie) lidera, com +64.5% em 7 dias a 56k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Quinten Timber (85, Eredivisie) lidera, com +32.1% em 7 dias a 35k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Couhaib Driouech (86) acumula **+64.5% em 7 dias** a 56k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Quinten Timber (85) acumula **+32.1% em 7 dias** a 35k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.3% em 24h** e **+39.5% em 7 dias**.
-- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.6% em 24h** e **+25.4% em 7 dias**.
+- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Eredivisie** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,21 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Couhaib Driouech | 86 | Eredivisie | 56k coins | +4.5% | +64.5% | Esticada |
-| Jari Litmanen | 90 | Eredivisie | 118k coins | +25% | +45.3% | Esticada |
-| Paul Wanner | 84 | Eredivisie | 41k coins | +6.2% | +33.6% | Momentum moderado |
-| Jorthy Mokio | 86 | Eredivisie | 30k coins | +4.3% | +30.4% | Momentum moderado |
+| Quinten Timber | 85 | Eredivisie | 35k coins | +10.2% | +32.1% | Momentum moderado |
+| Paul Wanner | 84 | Eredivisie | 50k coins | +2.3% | +28.6% | Momentum moderado |
+| Jari Litmanen | 90 | Eredivisie | 107k coins | +11.1% | +22.2% | Momentum moderado |
+| Melle Meulensteen | 84 | Eredivisie | 47k coins | +23.7% | +19% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Couhaib Driouech (86)** — 56k coins, **+64.5% em 7 dias** (+4.5% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quinten Timber (85)** — 35k coins, **+32.1% em 7 dias** (+10.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jari Litmanen (90)** — 118k coins, **+45.3% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paul Wanner (84)** — 50k coins, **+28.6% em 7 dias** (+2.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paul Wanner (84)** — 41k coins, **+33.6% em 7 dias** (+6.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jari Litmanen (90)** — 107k coins, **+22.2% em 7 dias** (+11.1% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jorthy Mokio (86)** — 30k coins, **+30.4% em 7 dias** (+4.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Melle Meulensteen (84)** — 47k coins, **+19% em 7 dias** (+23.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +75,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Couhaib Driouech (86, Eredivisie) lidera, com +64.5% em 7 dias a 56k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Quinten Timber (85, Eredivisie) lidera, com +32.1% em 7 dias a 35k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -93,6 +93,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Eredivisie em 20/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-20-ps/)
 - [Mercado EA FC em 20/07: Eredivisie — Console (PS)](/posts/mercado-ea-fc-2026-07-20-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

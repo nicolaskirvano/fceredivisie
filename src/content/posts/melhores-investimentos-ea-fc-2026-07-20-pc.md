@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T19:36:18.000Z
+pubDatetime: 2026-07-20T22:36:19.000Z
 title: "Investimentos EA FC: Eredivisie em 20/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Lewis Holtby (86, Eredivisie) lidera, com +43.5% em 7 dias a 24k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Josip Šutalo (90, Eredivisie) lidera, com +27.4% em 7 dias a 56k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Lewis Holtby (86) acumula **+43.5% em 7 dias** a 24k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Josip Šutalo (90) acumula **+27.4% em 7 dias** a 56k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 20/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-20-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.6% em 24h** e **+15.3% em 7 dias**.
-- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.5% em 24h** e **+19.1% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lewis Holtby | 86 | Eredivisie | 24k coins | +20.7% | +43.5% | Esticada |
-| Ko Itakura | 88 | Eredivisie | 26k coins | +38.5% | +31.7% | Esticada |
-| Quinten Timber | 85 | Eredivisie | 42k coins | +10.6% | +31.1% | Momentum moderado |
-| Park Ji Sung | 91 | Eredivisie | 100k coins | +20.6% | +15.7% | Esticada |
-| Mauro Júnior | 86 | Eredivisie | 50k coins | +4.7% | +14.9% | Entrada a observar |
-| Troy Parrott | 84 | Eredivisie | 47k coins | +27.2% | +14.7% | Esticada |
-| Mohamed Ihattaren | 84 | Eredivisie | 30k coins | +9.2% | +12.4% | Momentum moderado |
-| Mika Godts | 87 | Eredivisie | 26k coins | +5.8% | +11.1% | Momentum moderado |
+| Josip Šutalo | 90 | Eredivisie | 56k coins | +7% | +27.4% | Momentum moderado |
+| Mauro Júnior | 86 | Eredivisie | 44k coins | +18.3% | +22.7% | Momentum moderado |
+| Troy Parrott | 84 | Eredivisie | 37k coins | +24.7% | +19.1% | Esticada |
+| Jorthy Mokio | 86 | Eredivisie | 37k coins | +9.5% | +16.9% | Momentum moderado |
+| Mohamed Ihattaren | 84 | Eredivisie | 46k coins | +5.7% | +8.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Lewis Holtby (86)** — 24k coins, **+43.5% em 7 dias** (+20.7% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Josip Šutalo (90)** — 56k coins, **+27.4% em 7 dias** (+7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ko Itakura (88)** — 26k coins, **+31.7% em 7 dias** (+38.5% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mauro Júnior (86)** — 44k coins, **+22.7% em 7 dias** (+18.3% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Quinten Timber (85)** — 42k coins, **+31.1% em 7 dias** (+10.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Troy Parrott (84)** — 37k coins, **+19.1% em 7 dias** (+24.7% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Park Ji Sung (91)** — 100k coins, **+15.7% em 7 dias** (+20.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jorthy Mokio (86)** — 37k coins, **+16.9% em 7 dias** (+9.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mauro Júnior (86)** — 50k coins, **+14.9% em 7 dias** (+4.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mohamed Ihattaren (84)** — 46k coins, **+8.9% em 7 dias** (+5.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Lewis Holtby (86, Eredivisie) lidera, com +43.5% em 7 dias a 24k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Josip Šutalo (90, Eredivisie) lidera, com +27.4% em 7 dias a 56k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

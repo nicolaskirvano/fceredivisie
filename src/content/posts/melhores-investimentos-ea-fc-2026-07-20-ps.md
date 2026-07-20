@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T16:36:09.000Z
+pubDatetime: 2026-07-20T19:36:09.000Z
 title: "Investimentos EA FC: Eredivisie em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Kenneth Taylor (84, Eredivisie) lidera, com +53% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Couhaib Driouech (86, Eredivisie) lidera, com +64.5% em 7 dias a 56k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Kenneth Taylor (84) acumula **+53% em 7 dias** a 42k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Couhaib Driouech (86) acumula **+64.5% em 7 dias** a 56k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.0% em 24h** e **+13.7% em 7 dias**.
-- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+5.3% em 24h** e **+39.5% em 7 dias**.
+- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Kenneth Taylor | 84 | Eredivisie | 42k coins | +9.3% | +53% | Momentum moderado |
-| Jorthy Mokio | 86 | Eredivisie | 32k coins | +13% | +41.3% | Momentum moderado |
-| Troy Parrott | 84 | Eredivisie | 48k coins | +23.7% | +17% | Esticada |
-| Mauro Júnior | 86 | Eredivisie | 40k coins | +1.8% | +10.3% | Entrada a observar |
-| Jari Litmanen | 90 | Eredivisie | 105k coins | +34.5% | +8.2% | Esticada |
-| Youri Baas | 84 | Eredivisie | 38k coins | +23% | +7.8% | Esticada |
+| Couhaib Driouech | 86 | Eredivisie | 56k coins | +4.5% | +64.5% | Esticada |
+| Jari Litmanen | 90 | Eredivisie | 118k coins | +25% | +45.3% | Esticada |
+| Paul Wanner | 84 | Eredivisie | 41k coins | +6.2% | +33.6% | Momentum moderado |
+| Jorthy Mokio | 86 | Eredivisie | 30k coins | +4.3% | +30.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Kenneth Taylor (84)** — 42k coins, **+53% em 7 dias** (+9.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Couhaib Driouech (86)** — 56k coins, **+64.5% em 7 dias** (+4.5% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jorthy Mokio (86)** — 32k coins, **+41.3% em 7 dias** (+13% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jari Litmanen (90)** — 118k coins, **+45.3% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Troy Parrott (84)** — 48k coins, **+17% em 7 dias** (+23.7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paul Wanner (84)** — 41k coins, **+33.6% em 7 dias** (+6.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mauro Júnior (86)** — 40k coins, **+10.3% em 7 dias** (+1.8% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Jari Litmanen (90)** — 105k coins, **+8.2% em 7 dias** (+34.5% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jorthy Mokio (86)** — 30k coins, **+30.4% em 7 dias** (+4.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +75,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Kenneth Taylor (84, Eredivisie) lidera, com +53% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Couhaib Driouech (86, Eredivisie) lidera, com +64.5% em 7 dias a 56k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -97,7 +93,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Eredivisie em 20/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-20-ps/)
 - [Mercado EA FC em 20/07: Eredivisie — Console (PS)](/posts/mercado-ea-fc-2026-07-20-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:36:19.000Z
+pubDatetime: 2026-07-20T13:36:18.000Z
 title: "Investimentos EA FC: Eredivisie em 20/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.2% em 24h** e **+31.0% em 7 dias**.
-- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+7.0% em 24h** e **+32.2% em 7 dias**.
+- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Eredivisie** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,26 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Josip Šutalo | 90 | Eredivisie | 54k coins | +9.2% | +71.2% | Esticada |
-| Lewis Holtby | 86 | Eredivisie | 26k coins | +16.5% | +45.2% | Momentum moderado |
-| Wout Weghorst | 85 | Eredivisie | 85k coins | +4.9% | +31.8% | Momentum moderado |
-| Jorthy Mokio | 84 | Eredivisie | 55k coins | +37.5% | +31% | Esticada |
-| Quinten Timber | 85 | Eredivisie | 49k coins | +18% | +26.3% | Momentum moderado |
-| Ivan Perišić | 86 | Eredivisie | 16.750 coins | +2.9% | +19.3% | Entrada a observar |
-| Mohamed Ihattaren | 84 | Eredivisie | 34k coins | +9.2% | +9.8% | Momentum moderado |
+| Josip Šutalo | 90 | Eredivisie | 54k coins | +7% | +71.2% | Esticada |
+| Lewis Holtby | 86 | Eredivisie | 28k coins | +19.2% | +61.6% | Esticada |
+| Ko Itakura | 88 | Eredivisie | 26k coins | +3.9% | +33.8% | Momentum moderado |
+| Quinten Timber | 85 | Eredivisie | 48k coins | +7.7% | +32.2% | Momentum moderado |
+| Wout Weghorst | 85 | Eredivisie | 85k coins | +6.2% | +31.8% | Momentum moderado |
+| Mika Godts | 87 | Eredivisie | 32k coins | +6.6% | +31.3% | Momentum moderado |
+| Jorthy Mokio | 84 | Eredivisie | 54k coins | +37.5% | +31% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Josip Šutalo (90)** — 54k coins, **+71.2% em 7 dias** (+9.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Josip Šutalo (90)** — 54k coins, **+71.2% em 7 dias** (+7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lewis Holtby (86)** — 26k coins, **+45.2% em 7 dias** (+16.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lewis Holtby (86)** — 28k coins, **+61.6% em 7 dias** (+19.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wout Weghorst (85)** — 85k coins, **+31.8% em 7 dias** (+4.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ko Itakura (88)** — 26k coins, **+33.8% em 7 dias** (+3.9% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jorthy Mokio (84)** — 55k coins, **+31% em 7 dias** (+37.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quinten Timber (85)** — 48k coins, **+32.2% em 7 dias** (+7.7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Quinten Timber (85)** — 49k coins, **+26.3% em 7 dias** (+18% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wout Weghorst (85)** — 85k coins, **+31.8% em 7 dias** (+6.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

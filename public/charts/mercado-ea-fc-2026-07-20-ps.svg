@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ahmetcan Kaplan</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Josip Šutalo</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Josip Šutalo</text>
-<rect x="285" y="153" width="271" height="28" rx="7" fill="#22c55e"/>
-<text x="566" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Troy Parrott</text>
+<rect x="285" y="153" width="338" height="28" rx="7" fill="#22c55e"/>
+<text x="633" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.1%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Melle Meulensteen</text>
-<rect x="285" y="211" width="265" height="28" rx="7" fill="#22c55e"/>
-<text x="560" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jari Litmanen</text>
-<rect x="285" y="269" width="124" height="28" rx="7" fill="#22c55e"/>
-<text x="419" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quinten Timber</text>
-<rect x="285" y="327" width="114" height="28" rx="7" fill="#22c55e"/>
-<text x="409" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Guus Til</text>
-<rect x="285" y="385" width="59" height="28" rx="7" fill="#22c55e"/>
-<text x="354" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+5.3%</text>
+<rect x="285" y="211" width="322" height="28" rx="7" fill="#22c55e"/>
+<text x="617" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ismael Saibari</text>
+<rect x="285" y="269" width="227" height="28" rx="7" fill="#22c55e"/>
+<text x="522" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jorthy Mokio</text>
+<rect x="285" y="327" width="182" height="28" rx="7" fill="#22c55e"/>
+<text x="477" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jordan Ayew</text>
+<rect x="285" y="385" width="142" height="28" rx="7" fill="#22c55e"/>
+<text x="437" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+8.0%</text>
 </svg>

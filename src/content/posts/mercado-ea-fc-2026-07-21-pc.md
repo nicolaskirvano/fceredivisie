@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T22:36:17.000Z
+pubDatetime: 2026-07-22T01:36:17.000Z
 title: "Mercado EA FC em 21/07: Eredivisie — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Patrick van Aanholt (85, Eredivisie), com +45.4% em 24h, a 47k coins no PC."
+    a: "Dennis Man (86, Eredivisie), com +47.9% em 24h, a 44k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Tjaronn Chery (85), -32.4% em 24h, a 23k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 13 cartas em alta contra 17 em queda (média 2.36%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 16 cartas em alta contra 16 em queda (média 3.04%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **21/07/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **13 em alta** e **17 em queda**, média de **2.36%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **21/07/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **16 em alta** e **16 em queda**, média de **3.04%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Patrick van Aanholt (85) **+45.4%** · 🔴 **Maior baixa:** Tjaronn Chery (85) **-32.4%**
+> 🟢 **Maior alta:** Dennis Man (86) **+47.9%** · 🔴 **Maior baixa:** Tjaronn Chery (85) **-32.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Eredivisie — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,22 +35,24 @@ Panorama de **21/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 77.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.3% entre as cartas que se moveram; o universo observado reúne 43 cartas.
-- **Concentração:** Eredivisie aparece em 18 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 80.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 46 cartas.
+- **Concentração:** Eredivisie aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patrick van Aanholt | 85 | Eredivisie | 47k coins | +45.4% | +26% |
-| Anis Hadj-Moussa | 86 | Eredivisie | 114k coins | +42.5% | -16.2% |
-| Melle Meulensteen | 84 | Eredivisie | 54k coins | +32.9% | -0.9% |
-| Couhaib Driouech | 86 | Eredivisie | 82k coins | +25.6% | -26.8% |
-| Youri Baas | 84 | Eredivisie | 45k coins | +22.5% | +14.2% |
-| Park Ji Sung | 91 | Eredivisie | 120k coins | +20.6% | +30.4% |
-| Josip Šutalo | 90 | Eredivisie | 64k coins | +18.7% | +62.8% |
-| Steven Berghuis | 86 | Eredivisie | 42k coins | +9.7% | +28% |
+| Dennis Man | 86 | Eredivisie | 44k coins | +47.9% | -26.1% |
+| Quinten Timber | 85 | Eredivisie | 51k coins | +44.7% | +100% |
+| Patrick van Aanholt | 85 | Eredivisie | 47k coins | +38% | +26% |
+| Kenneth Taylor | 84 | Eredivisie | 20k coins | +35.6% | -4.8% |
+| Melle Meulensteen | 84 | Eredivisie | 54k coins | +33.7% | -0.9% |
+| Givairo Read | 86 | Eredivisie | 23k coins | +27.4% | -3.1% |
+| Josip Šutalo | 90 | Eredivisie | 70k coins | +24.1% | +74% |
+| Park Ji Sung | 91 | Eredivisie | 120k coins | +20.6% | +27% |
+| Youri Baas | 84 | Eredivisie | 45k coins | +20.1% | +10.5% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 115k coins | +18.6% | -15.4% |
 
 
 ### Análise das altas
@@ -59,11 +61,11 @@ Panorama de **21/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Patrick van Aanholt (85)** subiu **+45.4%** em 24h, a **47k coins** (faixa do dia: 29k–47k). Está +37% acima da média de 7 dias (aquecida).
+- **Dennis Man (86)** subiu **+47.9%** em 24h, a **44k coins** (faixa do dia: 30k–75k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Anis Hadj-Moussa (86)** subiu **+42.5%** em 24h, a **114k coins** (faixa do dia: 86k–118k). Está em linha com a média de 7 dias (+4%).
+- **Quinten Timber (85)** subiu **+44.7%** em 24h, a **51k coins** (faixa do dia: 10.750–55k). Está +25% acima da média de 7 dias (aquecida).
 
-- **Melle Meulensteen (84)** subiu **+32.9%** em 24h, a **54k coins** (faixa do dia: 32k–55k). Está +18% acima da média de 7 dias (aquecida).
+- **Patrick van Aanholt (85)** subiu **+38%** em 24h, a **47k coins** (faixa do dia: 29k–47k). Está +37% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
@@ -71,29 +73,29 @@ Panorama de **21/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Tjaronn Chery | 85 | Eredivisie | 23k coins | -32.4% | -33.8% |
-| Jaap Stam | 91 | Eredivisie | 1.14M coins | -24% | -24% |
-| Troy Parrott | 84 | Eredivisie | 38k coins | -16.1% | -4.6% |
-| Jorthy Mokio | 84 | Eredivisie | 44k coins | -15.4% | +2.9% |
-| Givairo Read | 86 | Eredivisie | 23k coins | -13.2% | -32% |
-| Ivan Perišić | 90 | Eredivisie | 56k coins | -13% | +3.4% |
-| Mauro Júnior | 86 | Eredivisie | 37k coins | -12.6% | -5% |
+| Jaap Stam | 91 | Eredivisie | 1.11M coins | -25.3% | -25.3% |
+| Jorthy Mokio | 84 | Eredivisie | 43k coins | -17.9% | +4.2% |
+| Troy Parrott | 84 | Eredivisie | 36k coins | -17.8% | -6.5% |
+| Ko Itakura | 88 | Eredivisie | 35k coins | -12.5% | +10.2% |
+| Mohamed Ihattaren | 84 | Eredivisie | 44k coins | -11.6% | +7% |
+| Mauro Júnior | 86 | Eredivisie | 36k coins | -10.6% | -10% |
 | Noah Naujoks | 83 | Eredivisie | 47k coins | -7.8% | -7.8% |
-| Joël Drommel | 84 | Eredivisie | 45k coins | -4.7% | -4.2% |
-| Ismael Saibari | 84 | Eredivisie | 36k coins | -3.3% | +5.1% |
+| Steven Berghuis | 86 | Eredivisie | 36k coins | -6.5% | +12.5% |
+| Joël Drommel | 84 | Eredivisie | 46k coins | -5.3% | -4.8% |
 
 
 ### Análise das baixas
 
-- **Tjaronn Chery (85)** caiu **-32.4%** em 24h, a **23k coins** (faixa do dia: 23k–34k). Está -26% abaixo da média de 7 dias (descontada).
+- **Tjaronn Chery (85)** caiu **-32.4%** em 24h, a **23k coins** (faixa do dia: 23k–23k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Jaap Stam (91)** caiu **-24%** em 24h, a **1.14M coins** (faixa do dia: 1.14M–1.50M). Está -19% abaixo da média de 7 dias (descontada).
+- **Jaap Stam (91)** caiu **-25.3%** em 24h, a **1.11M coins** (faixa do dia: 1.11M–1.50M). Está -20% abaixo da média de 7 dias (descontada).
 
-- **Troy Parrott (84)** caiu **-16.1%** em 24h, a **38k coins** (faixa do dia: 36k–47k). Está -9% abaixo da média de 7 dias (descontada).
+- **Jorthy Mokio (84)** caiu **-17.9%** em 24h, a **43k coins** (faixa do dia: 38k–54k). Está -9% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Patrick van Aanholt já avançou 45.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Dennis Man já avançou 47.9% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Tjaronn Chery recuou -32.4%; confirme estabilização e liquidez.
 
@@ -107,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Patrick van Aanholt (85, Eredivisie), com +45.4% em 24h, a 47k coins no PC.
+Dennis Man (86, Eredivisie), com +47.9% em 24h, a 44k coins no PC.
 
 **E a maior queda do dia?**
 Tjaronn Chery (85), -32.4% em 24h, a 23k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 13 cartas em alta contra 17 em queda (média 2.36%).
+Hoje o mercado está em alta — predominam as valorizações, com 16 cartas em alta contra 16 em queda (média 3.04%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

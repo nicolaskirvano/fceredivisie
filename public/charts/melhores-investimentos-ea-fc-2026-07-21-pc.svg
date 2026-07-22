@@ -6,17 +6,17 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Josip Šutalo</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+62.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+74.0%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Park Ji Sung</text>
-<rect x="285" y="153" width="232" height="28" rx="7" fill="#22c55e"/>
-<text x="527" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Steven Berghuis</text>
-<rect x="285" y="211" width="214" height="28" rx="7" fill="#22c55e"/>
-<text x="509" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mohamed Ihattaren</text>
-<rect x="285" y="269" width="139" height="28" rx="7" fill="#22c55e"/>
-<text x="434" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Youri Baas</text>
-<rect x="285" y="327" width="109" height="28" rx="7" fill="#22c55e"/>
-<text x="404" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.2%</text>
+<rect x="285" y="153" width="175" height="28" rx="7" fill="#22c55e"/>
+<text x="470" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patrick van Aanholt</text>
+<rect x="285" y="211" width="169" height="28" rx="7" fill="#22c55e"/>
+<text x="464" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Youri Baas</text>
+<rect x="285" y="269" width="68" height="28" rx="7" fill="#22c55e"/>
+<text x="363" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ismael Saibari</text>
+<rect x="285" y="327" width="33" height="28" rx="7" fill="#22c55e"/>
+<text x="328" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+5.1%</text>
 </svg>

@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Josip Šutalo</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jari Litmanen</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.6%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Anis Hadj-Moussa</text>
-<rect x="285" y="153" width="292" height="28" rx="7" fill="#22c55e"/>
-<text x="587" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.3%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ahmetcan Kaplan</text>
-<rect x="285" y="211" width="222" height="28" rx="7" fill="#22c55e"/>
-<text x="517" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ivan Perišić</text>
-<rect x="285" y="269" width="155" height="28" rx="7" fill="#22c55e"/>
-<text x="450" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ricardo Pepi</text>
-<rect x="285" y="327" width="136" height="28" rx="7" fill="#22c55e"/>
-<text x="431" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lewis Holtby</text>
-<rect x="285" y="385" width="126" height="28" rx="7" fill="#22c55e"/>
-<text x="421" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Givairo Read</text>
+<rect x="285" y="153" width="391" height="28" rx="7" fill="#22c55e"/>
+<text x="686" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Josip Šutalo</text>
+<rect x="285" y="211" width="304" height="28" rx="7" fill="#22c55e"/>
+<text x="599" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kento Shiogai</text>
+<rect x="285" y="269" width="301" height="28" rx="7" fill="#22c55e"/>
+<text x="596" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Steven Berghuis</text>
+<rect x="285" y="327" width="234" height="28" rx="7" fill="#22c55e"/>
+<text x="529" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mauro Júnior</text>
+<rect x="285" y="385" width="194" height="28" rx="7" fill="#22c55e"/>
+<text x="489" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.9%</text>
 </svg>

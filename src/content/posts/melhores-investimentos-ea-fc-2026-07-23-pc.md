@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:33:38.000Z
+pubDatetime: 2026-07-23T10:36:19.000Z
 title: "Investimentos EA FC: Eredivisie em 23/07 — PC"
 draft: false
 featured: true

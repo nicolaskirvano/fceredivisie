@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:33:37.000Z
+pubDatetime: 2026-07-23T10:36:17.000Z
 title: "Mercado EA FC em 23/07: Eredivisie — PC"
 draft: false
 featured: true

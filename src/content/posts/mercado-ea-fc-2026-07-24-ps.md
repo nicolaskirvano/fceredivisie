@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:36:09.000Z
+pubDatetime: 2026-07-24T19:36:08.000Z
 title: "Mercado EA FC em 24/07: Eredivisie — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Steven Berghuis (86, Eredivisie), com +58.4% em 24h, a 59k coins no Console (PS)."
+    a: "Park Ji Sung (91, Eredivisie), com +37.1% em 24h, a 86k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Troy Parrott (84), -36.7% em 24h, a 31k coins."
+    a: "Can Bozdoğan (87), -34.7% em 24h, a 35k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 17 cartas em alta contra 18 em queda (média 5.11%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 19 cartas em alta contra 10 em queda (média 3.91%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**24/07/2026**, Console (PS)) o Ultimate Team está **em alta** — predominam as valorizações — **17 subiram**, **18 caíram** (80+ e 5k+ coins), média de **5.11%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**24/07/2026**, Console (PS)) o Ultimate Team está **em alta** — predominam as valorizações — **19 subiram**, **10 caíram** (80+ e 5k+ coins), média de **3.91%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Steven Berghuis (86) **+58.4%** · 🔴 **Maior baixa:** Troy Parrott (84) **-36.7%**
+> 🟢 **Maior alta:** Park Ji Sung (91) **+37.1%** · 🔴 **Maior baixa:** Can Bozdoğan (87) **-34.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Eredivisie — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**24/07/2026**, Console (PS)) o Ultimate Team está **em alta** — predom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 95.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.6% entre as cartas que se moveram; o universo observado reúne 45 cartas.
-- **Concentração:** Eredivisie aparece em 20 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 71.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 65.5% entre as cartas que se moveram; o universo observado reúne 37 cartas.
+- **Concentração:** Eredivisie aparece em 13 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Steven Berghuis | 86 | Eredivisie | 59k coins | +58.4% | +87.7% |
-| Victor Edvardsen | 84 | Eredivisie | 23k coins | +37.3% | -24% |
-| Park Ji Sung | 91 | Eredivisie | 119k coins | +31.6% | +19.5% |
-| Wout Weghorst | 85 | Eredivisie | 84k coins | +26.2% | +0.5% |
-| Ivan Perišić | 86 | Eredivisie | 26k coins | +20.5% | -17.2% |
-| Mauro Júnior | 86 | Eredivisie | 50k coins | +19.8% | +29.3% |
-| Mika Godts | 87 | Eredivisie | 20k coins | +15.9% | -11.1% |
-| Finn Azaz | 83 | Eredivisie | 42k coins | +15.6% | +14.9% |
-| Kenneth Taylor | 84 | Eredivisie | 24k coins | +13.3% | -14.5% |
-| Mohamed Ihattaren | 84 | Eredivisie | 38k coins | +10.1% | -3.8% |
+| Park Ji Sung | 91 | Eredivisie | 86k coins | +37.1% | +12% |
+| Steven Berghuis | 86 | Eredivisie | 48k coins | +34.1% | +66.7% |
+| Jorthy Mokio | 84 | Eredivisie | 54k coins | +31.3% | -0.9% |
+| Youri Baas | 84 | Eredivisie | 46k coins | +23.2% | +14.8% |
+| Victor Edvardsen | 84 | Eredivisie | 22k coins | +22.7% | -29.2% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 55k coins | +20.9% | -31.4% |
+| Kenneth Taylor | 84 | Eredivisie | 24k coins | +20.5% | -14.5% |
+| Joël Drommel | 84 | Eredivisie | 50k coins | +19.1% | +13.8% |
+| Finn Azaz | 83 | Eredivisie | 42k coins | +15.6% | +11.8% |
+| Melle Meulensteen | 84 | Eredivisie | 41k coins | +14.8% | +6.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,36 @@ Hoje (**24/07/2026**, Console (PS)) o Ultimate Team está **em alta** — predom
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Steven Berghuis (86)** subiu **+58.4%** em 24h, a **59k coins** (faixa do dia: 37k–62k). Está +52% acima da média de 7 dias (aquecida).
+- **Park Ji Sung (91)** subiu **+37.1%** em 24h, a **86k coins** (faixa do dia: 70k–125k). Está em linha com a média de 7 dias (+0%).
 
-- **Victor Edvardsen (84)** subiu **+37.3%** em 24h, a **23k coins** (faixa do dia: 16.250–25k). Está -13% abaixo da média de 7 dias (descontada).
+- **Steven Berghuis (86)** subiu **+34.1%** em 24h, a **48k coins** (faixa do dia: 37k–62k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Park Ji Sung (91)** subiu **+31.6%** em 24h, a **119k coins** (faixa do dia: 70k–125k). Está +38% acima da média de 7 dias (aquecida).
+- **Jorthy Mokio (84)** subiu **+31.3%** em 24h, a **54k coins** (faixa do dia: 32k–55k). Está +11% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Troy Parrott | 84 | Eredivisie | 31k coins | -36.7% | -11.4% |
-| Josip Šutalo | 90 | Eredivisie | 60k coins | -29.4% | -13.7% |
-| Dennis Man | 86 | Eredivisie | 22k coins | -27% | -31.3% |
-| Kento Shiogai | 83 | Eredivisie | 45k coins | -20.1% | -22.2% |
-| Jordan Ayew | 80 | Eredivisie | 37k coins | -17% | -19.7% |
-| Jorthy Mokio | 84 | Eredivisie | 35k coins | -13% | -36.4% |
-| Paul Wanner | 84 | Eredivisie | 34k coins | -12.8% | -5.6% |
-| Ayase Ueda | 80 | Eredivisie | 45k coins | -5.3% | -5.3% |
-| Ismael Saibari | 84 | Eredivisie | 35k coins | -4.8% | -6.7% |
-| Jari Litmanen | 90 | Eredivisie | 138k coins | -3.4% | +2.9% |
+| Can Bozdoğan | 87 | Eredivisie | 35k coins | -34.7% | +88.5% |
+| Paul Wanner | 84 | Eredivisie | 42k coins | -10.5% | +18.1% |
+| Ayase Ueda | 80 | Eredivisie | 46k coins | -5.3% | -5.3% |
 
 
 ### Análise das baixas
 
-- **Troy Parrott (84)** caiu **-36.7%** em 24h, a **31k coins** (faixa do dia: 31k–49k). Está -23% abaixo da média de 7 dias (descontada).
+- **Can Bozdoğan (87)** caiu **-34.7%** em 24h, a **35k coins** (faixa do dia: 24k–42k). Está +75% acima da média de 7 dias (aquecida).
 
-- **Josip Šutalo (90)** caiu **-29.4%** em 24h, a **60k coins** (faixa do dia: 55k–85k). Está -12% abaixo da média de 7 dias (descontada).
+- **Paul Wanner (84)** caiu **-10.5%** em 24h, a **42k coins** (faixa do dia: 34k–60k). Está em linha com a média de 7 dias (+2%).
 
-- **Dennis Man (86)** caiu **-27%** em 24h, a **22k coins** (faixa do dia: 18.250–35k). Está -34% abaixo da média de 7 dias (descontada).
+- **Ayase Ueda (80)** caiu **-5.3%** em 24h, a **46k coins** (faixa do dia: 45k–48k). Está em linha com a média de 7 dias (+1%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Steven Berghuis já avançou 58.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Park Ji Sung já avançou 37.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Troy Parrott recuou -36.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Can Bozdoğan recuou -34.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +102,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Steven Berghuis (86, Eredivisie), com +58.4% em 24h, a 59k coins no Console (PS).
+Park Ji Sung (91, Eredivisie), com +37.1% em 24h, a 86k coins no Console (PS).
 
 **E a maior queda do dia?**
-Troy Parrott (84), -36.7% em 24h, a 31k coins.
+Can Bozdoğan (87), -34.7% em 24h, a 35k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 17 cartas em alta contra 18 em queda (média 5.11%).
+Hoje o mercado está em alta — predominam as valorizações, com 19 cartas em alta contra 10 em queda (média 3.91%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -131,5 +124,6 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Eredivisie em 24/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-24-ps/)
+- [Investimentos EA FC: Eredivisie em 24/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-24-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

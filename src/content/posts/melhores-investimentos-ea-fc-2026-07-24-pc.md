@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:34:56.000Z
+pubDatetime: 2026-07-24T13:36:18.000Z
 title: "Investimentos EA FC: Eredivisie em 24/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Steven Berghuis (86, Eredivisie) lidera, com +71.4% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ahmetcan Kaplan (88, Eredivisie) lidera, com +43.7% em 7 dias a 30k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Steven Berghuis (86) acumula **+71.4% em 7 dias** a 65k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ahmetcan Kaplan (88) acumula **+43.7% em 7 dias** a 30k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 24/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+23.5% em 24h** e **+17.2% em 7 dias**.
-- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.8% em 24h** e **+12.2% em 7 dias**.
+- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Steven Berghuis | 86 | Eredivisie | 65k coins | +23.5% | +71.4% | Esticada |
-| Mika Godts | 87 | Eredivisie | 23k coins | +4.5% | +38.8% | Momentum moderado |
-| Ivan Perišić | 86 | Eredivisie | 36k coins | +30.4% | +17.2% | Esticada |
-| Mohamed Ihattaren | 84 | Eredivisie | 41k coins | +17.9% | +13.8% | Momentum moderado |
-| Wout Weghorst | 85 | Eredivisie | 80k coins | +27% | +8.8% | Esticada |
+| Ahmetcan Kaplan | 88 | Eredivisie | 30k coins | +4.2% | +43.7% | Momentum moderado |
+| Ko Itakura | 88 | Eredivisie | 30k coins | +5.8% | +15.5% | Momentum moderado |
+| Wout Weghorst | 85 | Eredivisie | 80k coins | +30.1% | +8.8% | Esticada |
+| Park Ji Sung | 91 | Eredivisie | 100k coins | +11.7% | +5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Steven Berghuis (86)** — 65k coins, **+71.4% em 7 dias** (+23.5% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ahmetcan Kaplan (88)** — 30k coins, **+43.7% em 7 dias** (+4.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mika Godts (87)** — 23k coins, **+38.8% em 7 dias** (+4.5% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ko Itakura (88)** — 30k coins, **+15.5% em 7 dias** (+5.8% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ivan Perišić (86)** — 36k coins, **+17.2% em 7 dias** (+30.4% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wout Weghorst (85)** — 80k coins, **+8.8% em 7 dias** (+30.1% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohamed Ihattaren (84)** — 41k coins, **+13.8% em 7 dias** (+17.9% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Wout Weghorst (85)** — 80k coins, **+8.8% em 7 dias** (+27% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Park Ji Sung (91)** — 100k coins, **+5% em 7 dias** (+11.7% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +75,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Steven Berghuis (86, Eredivisie) lidera, com +71.4% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ahmetcan Kaplan (88, Eredivisie) lidera, com +43.7% em 7 dias a 30k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

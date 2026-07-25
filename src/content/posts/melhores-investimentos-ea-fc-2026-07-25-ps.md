@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:36:09.000Z
+pubDatetime: 2026-07-25T22:36:10.000Z
 title: "Investimentos EA FC: Eredivisie em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Youri Baas (84, Eredivisie) lidera, com +17.8% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lewis Holtby (86, Eredivisie) lidera, com +35% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Youri Baas (84) acumula **+17.8% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Lewis Holtby (86) acumula **+35% em 7 dias** a 30k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 25/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-25-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.1% em 24h** e **+12.1% em 7 dias**.
-- **0 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+4.3% em 24h** e **+11.6% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Youri Baas | 84 | Eredivisie | 50k coins | +7% | +17.8% | Momentum moderado |
-| Ayase Ueda | 84 | Eredivisie | 45k coins | +2.9% | +12.5% | Entrada a observar |
-| Mohamed Ihattaren | 84 | Eredivisie | 41k coins | +7.2% | +11.6% | Momentum moderado |
-| Melle Meulensteen | 84 | Eredivisie | 42k coins | +7.5% | +6.8% | Momentum moderado |
+| Lewis Holtby | 86 | Eredivisie | 30k coins | +22.7% | +35% | Esticada |
+| Youri Baas | 84 | Eredivisie | 40k coins | +1.5% | +32.7% | Momentum moderado |
+| Mohamed Ihattaren | 84 | Eredivisie | 41k coins | +5.1% | +11.6% | Momentum moderado |
+| Troy Parrott | 84 | Eredivisie | 40k coins | +1.1% | +11.2% | Entrada a observar |
+| Melle Meulensteen | 84 | Eredivisie | 43k coins | +4.3% | +6.2% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Youri Baas (84)** — 50k coins, **+17.8% em 7 dias** (+7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lewis Holtby (86)** — 30k coins, **+35% em 7 dias** (+22.7% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ayase Ueda (84)** — 45k coins, **+12.5% em 7 dias** (+2.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Youri Baas (84)** — 40k coins, **+32.7% em 7 dias** (+1.5% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohamed Ihattaren (84)** — 41k coins, **+11.6% em 7 dias** (+7.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mohamed Ihattaren (84)** — 41k coins, **+11.6% em 7 dias** (+5.1% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Melle Meulensteen (84)** — 42k coins, **+6.8% em 7 dias** (+7.5% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Troy Parrott (84)** — 40k coins, **+11.2% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Melle Meulensteen (84)** — 43k coins, **+6.2% em 7 dias** (+4.3% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Youri Baas (84, Eredivisie) lidera, com +17.8% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lewis Holtby (86, Eredivisie) lidera, com +35% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

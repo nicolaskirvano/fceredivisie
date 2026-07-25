@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:36:11.000Z
+pubDatetime: 2026-07-25T22:36:11.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 13.000 coins.
+- **Preço médio das 5 opções:** 12.700 coins.
 - **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 11.250 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.250 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,10 +42,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Jari Litmanen | 90 | CAM | Eredivisie | 12.750 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 13.250 coins | 0% |
-| Ko Itakura | 88 | CB | Eredivisie | 14.000 coins | -12.1% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.250 coins | -5.8% |
-| Givairo Read | 86 | RB | Eredivisie | 14.500 coins | -3.2% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 13.000 coins | -3.6% |
+| Ahmetcan Kaplan | 88 | CB | Eredivisie | 14.750 coins | -8.3% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11.750 coins | -9.6% |
 
 
 ## 📈 Destaques
@@ -54,16 +53,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Jari Litmanen (90, CAM)** da Eredivisie, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **13.250 coins**
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **13.000 coins**
 
-- **Ko Itakura (88, CB)** da Eredivisie, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ahmetcan Kaplan (88, CB)** da Eredivisie, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.250 coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11.750 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Ko Itakura (88, CB) por 14.000 coins é a referência de rating deste recorte.
+- **Defesa:** Ahmetcan Kaplan (88, CB) por 14.750 coins é a referência de rating deste recorte.
 
 - **Meio:** Jari Litmanen (90, CAM) por 12.750 coins é a referência de rating deste recorte.
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:36:08.000Z
+pubDatetime: 2026-07-25T22:36:08.000Z
 title: "Mercado EA FC em 25/07: Eredivisie — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Melle Meulensteen (84, Eredivisie), com +7.5% em 24h, a 42k coins no Console (PS)."
+    a: "Tjaronn Chery (85, Eredivisie), com +58.9% em 24h, a 38k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Couhaib Driouech (86), -30.4% em 24h, a 43k coins."
+    a: "Josip Šutalo (90), -42.7% em 24h, a 45k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 9 cartas em alta contra 24 em queda (média -8.54%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 11 cartas em alta contra 19 em queda (média -3.75%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **9 subiram** e **24 caíram**, com variação média de **-8.54%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **11 subiram** e **19 caíram**, com variação média de **-3.75%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Melle Meulensteen (84) **+7.5%** · 🔴 **Maior baixa:** Couhaib Driouech (86) **-30.4%**
+> 🟢 **Maior alta:** Tjaronn Chery (85) **+58.9%** · 🔴 **Maior baixa:** Josip Šutalo (90) **-42.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Eredivisie — Console (PS)](/charts/mercado-ea-fc-2026-07-25-ps.svg)
 
@@ -35,20 +35,21 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 37.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 27.3% entre as cartas que se moveram; o universo observado reúne 45 cartas.
-- **Concentração:** Eredivisie aparece em 15 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.7% entre as cartas que se moveram; o universo observado reúne 42 cartas.
+- **Concentração:** Eredivisie aparece em 12 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Melle Meulensteen | 84 | Eredivisie | 42k coins | +7.5% | +6.8% |
-| Mohamed Ihattaren | 84 | Eredivisie | 41k coins | +7.2% | +11.6% |
-| Youri Baas | 84 | Eredivisie | 50k coins | +7% | +17.8% |
-| Dennis Man | 86 | Eredivisie | 22k coins | +6% | -22.6% |
-| Jorthy Mokio | 84 | Eredivisie | 43k coins | +5.3% | -9.1% |
-| Ismael Saibari | 84 | Eredivisie | 38k coins | +4.2% | +1.4% |
+| Tjaronn Chery | 85 | Eredivisie | 38k coins | +58.9% | -40.7% |
+| Jaap Stam | 91 | Eredivisie | 736k coins | +34.5% | -20.3% |
+| Lewis Holtby | 86 | Eredivisie | 30k coins | +22.7% | +35% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 28k coins | +18.8% | -36.9% |
+| Mohamed Ihattaren | 84 | Eredivisie | 41k coins | +5.1% | +11.6% |
+| Melle Meulensteen | 84 | Eredivisie | 43k coins | +4.3% | +6.2% |
+| Mauro Júnior | 86 | Eredivisie | 41k coins | +3.1% | -2.4% |
 
 
 ### Análise das altas
@@ -57,42 +58,38 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Melle Meulensteen (84)** subiu **+7.5%** em 24h, a **42k coins** (faixa do dia: 38k–48k). Está em linha com a média de 7 dias (+4%).
+- **Tjaronn Chery (85)** subiu **+58.9%** em 24h, a **38k coins** (faixa do dia: 19.750–38k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Mohamed Ihattaren (84)** subiu **+7.2%** em 24h, a **41k coins** (faixa do dia: 37k–41k). Está em linha com a média de 7 dias (+3%).
+- **Jaap Stam (91)** subiu **+34.5%** em 24h, a **736k coins** (faixa do dia: 506k–1.06M). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Youri Baas (84)** subiu **+7%** em 24h, a **50k coins** (faixa do dia: 44k–65k). Está +11% acima da média de 7 dias (aquecida).
+- **Lewis Holtby (86)** subiu **+22.7%** em 24h, a **30k coins** (faixa do dia: 27k–55k). Está em linha com a média de 7 dias (-6%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Couhaib Driouech | 86 | Eredivisie | 43k coins | -30.4% | -56.5% |
-| Lewis Holtby | 86 | Eredivisie | 35k coins | -28.2% | +81.6% |
-| Steven Berghuis | 86 | Eredivisie | 36k coins | -22.5% | +2.8% |
-| Josip Šutalo | 90 | Eredivisie | 53k coins | -9.2% | -19.3% |
-| Jordan Ayew | 80 | Eredivisie | 40k coins | -9.1% | -14.9% |
-| Joël Drommel | 84 | Eredivisie | 52k coins | -6.1% | +6.2% |
-| Finn Azaz | 83 | Eredivisie | 40k coins | -5.9% | +0.6% |
-| Ayase Ueda | 80 | Eredivisie | 42k coins | -5.6% | -10.5% |
-| Kento Shiogai | 83 | Eredivisie | 54k coins | -4.5% | -3.6% |
+| Josip Šutalo | 90 | Eredivisie | 45k coins | -42.7% | -34.9% |
+| Can Bozdoğan | 87 | Eredivisie | 22k coins | -31.1% | +24.7% |
+| Jordan Ayew | 80 | Eredivisie | 40k coins | -15.8% | -14.9% |
+| Ayase Ueda | 84 | Eredivisie | 38k coins | -14.3% | -6.2% |
+| Steven Berghuis | 86 | Eredivisie | 34k coins | -12.5% | -2.8% |
 
 
 ### Análise das baixas
 
-- **Couhaib Driouech (86)** caiu **-30.4%** em 24h, a **43k coins** (faixa do dia: 36k–69k). Está -23% abaixo da média de 7 dias (descontada).
+- **Josip Šutalo (90)** caiu **-42.7%** em 24h, a **45k coins** (faixa do dia: 45k–79k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Lewis Holtby (86)** caiu **-28.2%** em 24h, a **35k coins** (faixa do dia: 27k–55k). Está +11% acima da média de 7 dias (aquecida).
+- **Can Bozdoğan (87)** caiu **-31.1%** em 24h, a **22k coins** (faixa do dia: 17.750–35k). Está em linha com a média de 7 dias (+0%).
 
-- **Steven Berghuis (86)** caiu **-22.5%** em 24h, a **36k coins** (faixa do dia: 18.250–43k). Está -8% abaixo da média de 7 dias (descontada).
+- **Jordan Ayew (80)** caiu **-15.8%** em 24h, a **40k coins** (faixa do dia: 38k–48k). Está -8% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Melle Meulensteen já avançou 7.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Tjaronn Chery já avançou 58.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Couhaib Driouech recuou -30.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Josip Šutalo recuou -42.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -104,13 +101,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Melle Meulensteen (84, Eredivisie), com +7.5% em 24h, a 42k coins no Console (PS).
+Tjaronn Chery (85, Eredivisie), com +58.9% em 24h, a 38k coins no Console (PS).
 
 **E a maior queda do dia?**
-Couhaib Driouech (86), -30.4% em 24h, a 43k coins.
+Josip Šutalo (90), -42.7% em 24h, a 45k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 9 cartas em alta contra 24 em queda (média -8.54%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 11 cartas em alta contra 19 em queda (média -3.75%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

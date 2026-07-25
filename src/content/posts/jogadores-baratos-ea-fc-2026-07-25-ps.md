@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:34:20.000Z
+pubDatetime: 2026-07-25T13:36:12.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 25/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (25/07/2026)?"
-    a: "Jari Litmanen (88, Eredivisie) aparece como melhor custo-benefício, a 12.750 coins no Console (PS)."
+    a: "Jari Litmanen (88, Eredivisie) aparece como melhor custo-benefício, a 13.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jari Litmanen (88) por apenas 12.750 coins.
+> 💰 **Melhor pechincha:** Jari Litmanen (88) por apenas 13.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Eredivisie em 25/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-25-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 10.275 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 1.600 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 12.875 coins.
+- **Posição mais frequente:** CAM, com 4 cartas.
+- **Faixa real:** 12.250 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,28 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jari Litmanen | 88 | CAM | Eredivisie | 12.750 coins | +10.9% |
-| Luciano Valente | 87 | CAM | Eredivisie | 14.750 coins | -3.3% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.000 coins | +2.1% |
-| Dávid Hancko | 83 | CB | Eredivisie | 1.600 coins | +60% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 13.750 coins | +10.9% |
+| Luciano Valente | 87 | CAM | Eredivisie | 12.500 coins | -11.7% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12.250 coins | +6.4% |
+| Kees Smit | 86 | CAM | Eredivisie | 13.000 coins | +15.1% |
 
 
 ## 📈 Destaques
 
-- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12.750 coins**
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **13.750 coins**
 
-- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.000 coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.250 coins**
 
-- **Dávid Hancko (83, CB)** da Eredivisie, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Kees Smit (86, CAM)** da Eredivisie, a apenas **13.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Dávid Hancko (83, CB) por 1.600 coins é a referência de rating deste recorte.
-
-- **Meio:** Jari Litmanen (88, CAM) por 12.750 coins é a referência de rating deste recorte.
+- **Meio:** Jari Litmanen (88, CAM) por 13.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -80,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (25/07/2026)?**  
-Jari Litmanen (88, Eredivisie) aparece como melhor custo-benefício, a 12.750 coins no Console (PS).
+Jari Litmanen (88, Eredivisie) aparece como melhor custo-benefício, a 13.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

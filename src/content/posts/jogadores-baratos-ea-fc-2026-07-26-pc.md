@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:36:20.000Z
+pubDatetime: 2026-07-26T19:36:20.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 26/07 — PC"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 12.375 coins.
+- **Preço médio das 5 opções:** 12.100 coins.
 - **Posição mais frequente:** CAM, com 4 cartas.
 - **Faixa real:** 11.250 a 14.250 coins; nenhuma carta custa 15 mil.
 
@@ -42,10 +42,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 12.500 coins | +6.4% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.000 coins | +11.6% |
-| Ivan Perišić | 86 | RW | Eredivisie | 13.000 coins | +6.1% |
-| Kees Smit | 86 | CAM | Eredivisie | 14.250 coins | +1.8% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 12.250 coins | +6.2% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11.500 coins | 0% |
+| Kees Smit | 86 | CAM | Eredivisie | 14.250 coins | +32.6% |
 
 
 ## 📈 Destaques
@@ -54,11 +53,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12.500 coins**
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.000 coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11.500 coins**
 
-- **Ivan Perišić (86, RW)** da Eredivisie, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kees Smit (86, CAM)** da Eredivisie, a apenas **14.250 coins** A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca

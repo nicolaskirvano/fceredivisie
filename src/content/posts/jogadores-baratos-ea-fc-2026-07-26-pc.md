@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:36:20.000Z
+pubDatetime: 2026-07-26T16:36:20.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 26/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 11.750 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 11.250 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 12.375 coins.
+- **Posição mais frequente:** CAM, com 4 cartas.
+- **Faixa real:** 11.250 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,8 +42,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11.250 coins | +4.7% |
-| Kees Smit | 86 | CAM | Eredivisie | 13.250 coins | -6.7% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 12.500 coins | +6.4% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12.000 coins | +11.6% |
+| Ivan Perišić | 86 | RW | Eredivisie | 13.000 coins | +6.1% |
+| Kees Smit | 86 | CAM | Eredivisie | 14.250 coins | +1.8% |
 
 
 ## 📈 Destaques
@@ -52,9 +54,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11.250 coins**
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12.500 coins**
 
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.000 coins**
+
+- **Ivan Perišić (86, RW)** da Eredivisie, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -98,6 +102,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Eredivisie em 26/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-26-pc/)
 - [Mercado EA FC em 26/07: Eredivisie — PC](/posts/mercado-ea-fc-2026-07-26-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

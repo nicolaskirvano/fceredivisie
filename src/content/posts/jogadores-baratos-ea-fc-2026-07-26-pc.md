@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:36:20.000Z
+pubDatetime: 2026-07-26T22:36:20.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 26/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 12.100 coins.
+- **Preço médio das 6 opções:** 11.417 coins.
 - **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 11.250 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 10.750 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,9 +42,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 12.250 coins | +6.2% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11.500 coins | 0% |
-| Kees Smit | 86 | CAM | Eredivisie | 14.250 coins | +32.6% |
+| Dirk Kuyt | 88 | CAM | Eredivisie | 11.000 coins | 0% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 13.500 coins | -3.9% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 10.750 coins | -10.4% |
+| Ivan Perišić | 86 | RW | Eredivisie | 10.750 coins | +16.3% |
 
 
 ## 📈 Destaques
@@ -53,11 +54,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11.500 coins**
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **14.250 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **10.750 coins**
 
 
 ## Como distribuir a banca

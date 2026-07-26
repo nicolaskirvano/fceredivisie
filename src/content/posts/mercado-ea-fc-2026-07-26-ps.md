@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:35:36.000Z
+pubDatetime: 2026-07-26T13:36:08.000Z
 title: "Mercado EA FC em 26/07: Eredivisie — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Anis Hadj-Moussa (86, Eredivisie), com +53.6% em 24h, a 43k coins no Console (PS)."
+    a: "Anis Hadj-Moussa (86, Eredivisie), com +47.3% em 24h, a 30k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Lewis Holtby (86), -50% em 24h, a 27k coins."
+    a: "Jaap Stam (91), -29% em 24h, a 585k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 18 cartas em alta contra 24 em queda (média -2.83%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 13 cartas em alta contra 12 em queda (média 0.72%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **26/07/2026** (Console (PS)): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **18 em alta** e **24 em queda**, média de **-2.83%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **26/07/2026** (Console (PS)): dia **indefinido** — sem tendência dominante. Entre as cartas relevantes (80+ e acima de 5k coins), foram **13 em alta** e **12 em queda**, média de **0.72%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Anis Hadj-Moussa (86) **+53.6%** · 🔴 **Maior baixa:** Lewis Holtby (86) **-50%**
+> 🟢 **Maior alta:** Anis Hadj-Moussa (86) **+47.3%** · 🔴 **Maior baixa:** Jaap Stam (91) **-29%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Eredivisie — Console (PS)](/charts/mercado-ea-fc-2026-07-26-ps.svg)
 
@@ -35,24 +35,22 @@ Panorama de **26/07/2026** (Console (PS)): mercado **pressionado** — as quedas
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.9% entre as cartas que se moveram; o universo observado reúne 54 cartas.
-- **Concentração:** Eredivisie aparece em 20 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 76.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.0% entre as cartas que se moveram; o universo observado reúne 35 cartas.
+- **Concentração:** Eredivisie aparece em 10 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anis Hadj-Moussa | 86 | Eredivisie | 43k coins | +53.6% | -56.8% |
-| Victor Edvardsen | 84 | Eredivisie | 23k coins | +24% | -7% |
-| Jordan Ayew | 80 | Eredivisie | 48k coins | +23.4% | 0% |
-| Steven Berghuis | 86 | Eredivisie | 46k coins | +23.2% | +43.1% |
-| Ko Itakura | 88 | Eredivisie | 22k coins | +20.5% | +25.7% |
-| Can Bozdoğan | 87 | Eredivisie | 30k coins | +17.6% | +100% |
-| Troy Parrott | 84 | Eredivisie | 55k coins | +15.8% | +37.5% |
-| Kenneth Taylor | 84 | Eredivisie | 25k coins | +12.5% | -21.4% |
-| Tjaronn Chery | 85 | Eredivisie | 38k coins | +10.3% | 0% |
-| Quinten Timber | 85 | Eredivisie | 22k coins | +7.5% | -32.3% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 30k coins | +47.3% | -57.6% |
+| Ko Itakura | 88 | Eredivisie | 21k coins | +33.3% | +25.7% |
+| Victor Edvardsen | 84 | Eredivisie | 22k coins | +23% | -9% |
+| Kento Shiogai | 83 | Eredivisie | 60k coins | +22.2% | -0.9% |
+| Jordan Ayew | 80 | Eredivisie | 48k coins | +8% | 0% |
+| Finn Azaz | 83 | Eredivisie | 42k coins | +6.3% | +5.7% |
+| Jakob Breum | 85 | Eredivisie | 30k coins | +6.2% | 0% |
+| Tjaronn Chery | 85 | Eredivisie | 35k coins | +3.7% | -4.1% |
 
 
 ### Análise das altas
@@ -61,43 +59,33 @@ Panorama de **26/07/2026** (Console (PS)): mercado **pressionado** — as quedas
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Anis Hadj-Moussa (86)** subiu **+53.6%** em 24h, a **43k coins** (faixa do dia: 27k–154k). Está -39% abaixo da média de 7 dias (descontada).
+- **Anis Hadj-Moussa (86)** subiu **+47.3%** em 24h, a **30k coins** (faixa do dia: 27k–154k). Está -57% abaixo da média de 7 dias (descontada).
 
-- **Victor Edvardsen (84)** subiu **+24%** em 24h, a **23k coins** (faixa do dia: 17.000–26k). Está em linha com a média de 7 dias (+0%).
+- **Ko Itakura (88)** subiu **+33.3%** em 24h, a **21k coins** (faixa do dia: 11.000–22k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Jordan Ayew (80)** subiu **+23.4%** em 24h, a **48k coins** (faixa do dia: 38k–48k). Está +9% acima da média de 7 dias (aquecida).
+- **Victor Edvardsen (84)** subiu **+23%** em 24h, a **22k coins** (faixa do dia: 17.000–26k). Está em linha com a média de 7 dias (-3%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lewis Holtby | 86 | Eredivisie | 27k coins | -50% | +8% |
-| Josip Šutalo | 90 | Eredivisie | 35k coins | -45.8% | -46.2% |
-| Couhaib Driouech | 86 | Eredivisie | 33k coins | -40.6% | -47.2% |
-| Sergiño Dest | 86 | Eredivisie | 23k coins | -24.6% | -8.9% |
-| Wout Weghorst | 85 | Eredivisie | 76k coins | -24.3% | -4.4% |
-| Youri Baas | 84 | Eredivisie | 40k coins | -23.6% | +6% |
-| Ayase Ueda | 84 | Eredivisie | 35k coins | -17.6% | -12.5% |
-| Jaap Stam | 91 | Eredivisie | 661k coins | -13.9% | -27.8% |
-| Melle Meulensteen | 84 | Eredivisie | 45k coins | -5.8% | +11.9% |
-| Jorthy Mokio | 86 | Eredivisie | 31k coins | -4.6% | +6.9% |
+| Jaap Stam | 91 | Eredivisie | 585k coins | -29% | -35% |
+| Youri Baas | 84 | Eredivisie | 44k coins | -3.3% | +10% |
 
 
 ### Análise das baixas
 
-- **Lewis Holtby (86)** caiu **-50%** em 24h, a **27k coins** (faixa do dia: 20k–54k). Está -15% abaixo da média de 7 dias (descontada).
+- **Jaap Stam (91)** caiu **-29%** em 24h, a **585k coins** (faixa do dia: 544k–1.23M). Está -28% abaixo da média de 7 dias (descontada).
 
-- **Josip Šutalo (90)** caiu **-45.8%** em 24h, a **35k coins** (faixa do dia: 35k–65k). Está -46% abaixo da média de 7 dias (descontada).
-
-- **Couhaib Driouech (86)** caiu **-40.6%** em 24h, a **33k coins** (faixa do dia: 33k–56k). Está -34% abaixo da média de 7 dias (descontada).
+- **Youri Baas (84)** caiu **-3.3%** em 24h, a **44k coins** (faixa do dia: 40k–65k). Está em linha com a média de 7 dias (-3%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Anis Hadj-Moussa já avançou 53.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Anis Hadj-Moussa já avançou 47.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lewis Holtby recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jaap Stam recuou -29%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +97,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Anis Hadj-Moussa (86, Eredivisie), com +53.6% em 24h, a 43k coins no Console (PS).
+Anis Hadj-Moussa (86, Eredivisie), com +47.3% em 24h, a 30k coins no Console (PS).
 
 **E a maior queda do dia?**
-Lewis Holtby (86), -50% em 24h, a 27k coins.
+Jaap Stam (91), -29% em 24h, a 585k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 18 cartas em alta contra 24 em queda (média -2.83%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 13 cartas em alta contra 12 em queda (média 0.72%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -131,6 +119,5 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Eredivisie em 26/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-26-ps/)
-- [Investimentos EA FC: Eredivisie em 26/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-26-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

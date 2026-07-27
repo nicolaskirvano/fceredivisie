@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:36:09.000Z
+pubDatetime: 2026-07-27T19:36:09.000Z
 title: "Mercado EA FC em 27/07: Eredivisie — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Youri Baas (84, Eredivisie), com +44.4% em 24h, a 62k coins no Console (PS)."
+    a: "Can Bozdoğan (87, Eredivisie), com +50% em 24h, a 20k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Wout Weghorst (85), -25.1% em 24h, a 58k coins."
+    a: "Wout Weghorst (85), -35.8% em 24h, a 52k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 18 cartas em alta contra 11 em queda (média 7.26%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 12 cartas em alta contra 21 em queda (média 0.88%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **27/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **18 cartas subiram** e **11 caíram** (80+ acima de 5k coins), variação média de **7.26%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **27/07/2026** no Console (PS) com mercado **em baixa** — predominam as quedas: **12 cartas subiram** e **21 caíram** (80+ acima de 5k coins), variação média de **0.88%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Youri Baas (84) **+44.4%** · 🔴 **Maior baixa:** Wout Weghorst (85) **-25.1%**
+> 🟢 **Maior alta:** Can Bozdoğan (87) **+50%** · 🔴 **Maior baixa:** Wout Weghorst (85) **-35.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Eredivisie — Console (PS)](/charts/mercado-ea-fc-2026-07-27-ps.svg)
 
@@ -35,23 +35,21 @@ O mercado do **EA FC** abre **27/07/2026** no Console (PS) com mercado **em alta
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 69.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 62.1% entre as cartas que se moveram; o universo observado reúne 42 cartas.
-- **Concentração:** Eredivisie aparece em 12 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 85.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.4% entre as cartas que se moveram; o universo observado reúne 44 cartas.
+- **Concentração:** Eredivisie aparece em 17 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Youri Baas | 84 | Eredivisie | 62k coins | +44.4% | +47.7% |
-| Mohamed Ihattaren | 84 | Eredivisie | 42k coins | +30.7% | +30.7% |
-| Mika Godts | 87 | Eredivisie | 20k coins | +26.2% | -1.2% |
-| Jorthy Mokio | 86 | Eredivisie | 28k coins | +25.5% | +6% |
-| Dennis Man | 86 | Eredivisie | 30k coins | +21.4% | -22.2% |
+| Can Bozdoğan | 87 | Eredivisie | 20k coins | +50% | +77% |
+| Kento Shiogai | 83 | Eredivisie | 45k coins | +27.9% | +17.7% |
+| Mika Godts | 87 | Eredivisie | 21k coins | +21.9% | -4.9% |
 | Jordan Ayew | 80 | Eredivisie | 43k coins | +13.2% | -9.5% |
-| Lewis Holtby | 86 | Eredivisie | 38k coins | +11.4% | +75.3% |
-| Troy Parrott | 84 | Eredivisie | 48k coins | +8.9% | +1.6% |
-| Givairo Read | 86 | Eredivisie | 48k coins | +5.3% | +128.6% |
+| Youri Baas | 84 | Eredivisie | 65k coins | +10% | +17% |
+| Troy Parrott | 84 | Eredivisie | 48k coins | +6.1% | -1% |
+| Melle Meulensteen | 84 | Eredivisie | 45k coins | +5% | -10.6% |
 
 
 ### Análise das altas
@@ -60,36 +58,43 @@ O mercado do **EA FC** abre **27/07/2026** no Console (PS) com mercado **em alta
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Youri Baas (84)** subiu **+44.4%** em 24h, a **62k coins** (faixa do dia: 45k–65k). Está +32% acima da média de 7 dias (aquecida).
+- **Can Bozdoğan (87)** subiu **+50%** em 24h, a **20k coins** (faixa do dia: 17.250–38k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Mohamed Ihattaren (84)** subiu **+30.7%** em 24h, a **42k coins** (faixa do dia: 38k–50k). Está em linha com a média de 7 dias (+8%).
+- **Kento Shiogai (83)** subiu **+27.9%** em 24h, a **45k coins** (faixa do dia: 37k–69k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Mika Godts (87)** subiu **+26.2%** em 24h, a **20k coins** (faixa do dia: 11.000–35k). Está em linha com a média de 7 dias (+4%).
+- **Mika Godts (87)** subiu **+21.9%** em 24h, a **21k coins** (faixa do dia: 12.000–35k). Está em linha com a média de 7 dias (+5%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wout Weghorst | 85 | Eredivisie | 58k coins | -25.1% | +35.4% |
-| Kenneth Taylor | 84 | Eredivisie | 20k coins | -8.6% | -60.5% |
-| Mauro Júnior | 86 | Eredivisie | 42k coins | -5.6% | -0.6% |
+| Wout Weghorst | 85 | Eredivisie | 52k coins | -35.8% | +3% |
+| Tjaronn Chery | 85 | Eredivisie | 27k coins | -16.9% | -16.9% |
+| Paul Wanner | 84 | Eredivisie | 51k coins | -10.6% | -0.6% |
+| Jorthy Mokio | 86 | Eredivisie | 30k coins | -7.7% | 0% |
+| Lewis Holtby | 86 | Eredivisie | 36k coins | -7.5% | +63.3% |
+| Steven Berghuis | 86 | Eredivisie | 37k coins | -6.2% | -15.3% |
+| Josip Šutalo | 90 | Eredivisie | 54k coins | -5.9% | -24.8% |
+| Victor Edvardsen | 84 | Eredivisie | 20k coins | -5% | -38% |
+| Ayase Ueda | 84 | Eredivisie | 43k coins | -5% | +4.3% |
+| Jaap Stam | 91 | Eredivisie | 500k coins | -4.2% | -31.5% |
 
 
 ### Análise das baixas
 
-- **Wout Weghorst (85)** caiu **-25.1%** em 24h, a **58k coins** (faixa do dia: 55k–92k). Está -20% abaixo da média de 7 dias (descontada).
+- **Wout Weghorst (85)** caiu **-35.8%** em 24h, a **52k coins** (faixa do dia: 52k–90k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Kenneth Taylor (84)** caiu **-8.6%** em 24h, a **20k coins** (faixa do dia: 15.000–30k). Está -14% abaixo da média de 7 dias (descontada).
+- **Tjaronn Chery (85)** caiu **-16.9%** em 24h, a **27k coins** (faixa do dia: 20k–32k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Mauro Júnior (86)** caiu **-5.6%** em 24h, a **42k coins** (faixa do dia: 40k–55k). Está em linha com a média de 7 dias (-1%).
+- **Paul Wanner (84)** caiu **-10.6%** em 24h, a **51k coins** (faixa do dia: 40k–58k). Está +18% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Youri Baas já avançou 44.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Can Bozdoğan já avançou 50% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Wout Weghorst recuou -25.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Wout Weghorst recuou -35.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -110,13 +115,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Youri Baas (84, Eredivisie), com +44.4% em 24h, a 62k coins no Console (PS).
+Can Bozdoğan (87, Eredivisie), com +50% em 24h, a 20k coins no Console (PS).
 
 **E a maior queda do dia?**
-Wout Weghorst (85), -25.1% em 24h, a 58k coins.
+Wout Weghorst (85), -35.8% em 24h, a 52k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 18 cartas em alta contra 11 em queda (média 7.26%).
+Hoje o mercado está em baixa — predominam as quedas, com 12 cartas em alta contra 21 em queda (média 0.88%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

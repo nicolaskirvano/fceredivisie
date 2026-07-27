@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:36:22.000Z
+pubDatetime: 2026-07-27T19:36:21.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 27/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 12.500 coins.
+- **Preço médio das 7 opções:** 12.179 coins.
 - **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 10.750 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 10.750 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,9 +43,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Jari Litmanen | 88 | CAM | Eredivisie | 13.500 coins | +10.2% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 10.750 coins | 0% |
-| Ivan Perišić | 86 | RW | Eredivisie | 14.000 coins | -6.7% |
-| Kees Smit | 86 | CAM | Eredivisie | 14.250 coins | 0% |
+| Ko Itakura | 88 | CB | Eredivisie | 13.750 coins | -1.8% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 10.750 coins | -6.5% |
+| Kees Smit | 86 | CAM | Eredivisie | 10.750 coins | 0% |
+| Ivan Perišić | 86 | RW | Eredivisie | 14.000 coins | +1.8% |
 
 
 ## 📈 Destaques
@@ -56,12 +57,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **13.500 coins**
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **10.750 coins**
+- **Ko Itakura (88, CB)** da Eredivisie, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ivan Perišić (86, RW)** da Eredivisie, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **10.750 coins**
 
 
 ## Como distribuir a banca
+
+- **Defesa:** Ko Itakura (88, CB) por 13.750 coins é a referência de rating deste recorte.
 
 - **Meio:** Jari Litmanen (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 

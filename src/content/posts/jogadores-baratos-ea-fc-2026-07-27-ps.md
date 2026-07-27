@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:36:11.000Z
+pubDatetime: 2026-07-27T22:36:12.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 12.550 coins.
-- **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 11.250 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 9.150 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 1.600 a 12.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,9 +42,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | -11.8% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 13.000 coins | +3.8% |
-| Kees Smit | 86 | CAM | Eredivisie | 12.500 coins | -4.2% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 14.750 coins | +3.5% |
+| Kees Smit | 86 | CAM | Eredivisie | 12.500 coins | +4.2% |
+| Dávid Hancko | 83 | CB | Eredivisie | 1.600 coins | +14.3% |
 
 
 ## 📈 Destaques
@@ -53,14 +52,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Kees Smit (86, CAM)** da Eredivisie, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **14.750 coins**
+- **Dávid Hancko (83, CB)** da Eredivisie, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
+
+- **Defesa:** Dávid Hancko (83, CB) por 1.600 coins é a referência de rating deste recorte.
 
 - **Meio:** Jari Litmanen (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 

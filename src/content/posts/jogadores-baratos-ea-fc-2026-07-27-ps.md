@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T13:36:10.000Z
+pubDatetime: 2026-07-27T16:36:12.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 9.520 coins.
+- **Preço médio das 5 opções:** 12.400 coins.
 - **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 1.600 a 12.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.250 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,9 +42,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | -11.8% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 11.000 coins | -3.7% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.500 coins | -3.8% |
-| Dávid Hancko | 83 | CB | Eredivisie | 1.600 coins | 0% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 13.750 coins | +1.8% |
+| Mats Deijl | 88 | RB | Eredivisie | 13.750 coins | +7.8% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12.000 coins | -12.7% |
 
 
 ## 📈 Destaques
@@ -53,16 +53,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **11.000 coins**
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **13.750 coins**
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.500 coins**
+- **Mats Deijl (88, RB)** da Eredivisie, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dávid Hancko (83, CB)** da Eredivisie, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Dávid Hancko (83, CB) por 1.600 coins é a referência de rating deste recorte.
+- **Defesa:** Mats Deijl (88, RB) por 13.750 coins é a referência de rating deste recorte.
 
 - **Meio:** Jari Litmanen (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 
@@ -83,7 +83,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Eredivisie em 27/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-27-ps/)
 - [Mercado EA FC em 27/07: Eredivisie — Console (PS)](/posts/mercado-ea-fc-2026-07-27-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

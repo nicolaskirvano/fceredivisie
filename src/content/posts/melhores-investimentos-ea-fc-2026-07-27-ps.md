@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:34:41.000Z
+pubDatetime: 2026-07-27T13:36:09.000Z
 title: "Investimentos EA FC: Eredivisie em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Wout Weghorst (85, Eredivisie) lidera, com +63.6% em 7 dias a 86k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Joël Drommel (84, Eredivisie) lidera, com +32.9% em 7 dias a 54k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Wout Weghorst (85) acumula **+63.6% em 7 dias** a 86k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Joël Drommel (84) acumula **+32.9% em 7 dias** a 54k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.2% em 24h** e **+12.1% em 7 dias**.
-- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.3% em 24h** e **+14.9% em 7 dias**.
+- **0 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Wout Weghorst | 85 | Eredivisie | 86k coins | +14.4% | +63.6% | Esticada |
-| Ahmetcan Kaplan | 88 | Eredivisie | 19.500 coins | +9.9% | +34.5% | Momentum moderado |
-| Dirk Kuyt | 86 | Eredivisie | 15.000 coins | +27.9% | +12.2% | Esticada |
-| Jorthy Mokio | 86 | Eredivisie | 32k coins | +4.8% | +12.1% | Entrada a observar |
-| Youri Baas | 84 | Eredivisie | 50k coins | +25.2% | +10.6% | Esticada |
-| Mohamed Ihattaren | 84 | Eredivisie | 38k coins | +1.9% | +5.8% | Entrada a observar |
+| Joël Drommel | 84 | Eredivisie | 54k coins | +11.5% | +32.9% | Momentum moderado |
+| Mohamed Ihattaren | 84 | Eredivisie | 50k coins | +13.2% | +17.6% | Momentum moderado |
+| Jorthy Mokio | 86 | Eredivisie | 31k coins | +4.8% | +12.1% | Entrada a observar |
+| Paul Wanner | 84 | Eredivisie | 47k coins | +18.8% | +6.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Wout Weghorst (85)** — 86k coins, **+63.6% em 7 dias** (+14.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joël Drommel (84)** — 54k coins, **+32.9% em 7 dias** (+11.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ahmetcan Kaplan (88)** — 19.500 coins, **+34.5% em 7 dias** (+9.9% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mohamed Ihattaren (84)** — 50k coins, **+17.6% em 7 dias** (+13.2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dirk Kuyt (86)** — 15.000 coins, **+12.2% em 7 dias** (+27.9% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jorthy Mokio (86)** — 31k coins, **+12.1% em 7 dias** (+4.8% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jorthy Mokio (86)** — 32k coins, **+12.1% em 7 dias** (+4.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Youri Baas (84)** — 50k coins, **+10.6% em 7 dias** (+25.2% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paul Wanner (84)** — 47k coins, **+6.1% em 7 dias** (+18.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -89,7 +85,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Wout Weghorst (85, Eredivisie) lidera, com +63.6% em 7 dias a 86k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Joël Drommel (84, Eredivisie) lidera, com +32.9% em 7 dias a 54k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

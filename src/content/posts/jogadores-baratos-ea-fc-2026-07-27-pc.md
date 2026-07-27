@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:34:52.000Z
+pubDatetime: 2026-07-27T13:36:20.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 27/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 12.300 coins.
+- **Preço médio das 7 opções:** 12.429 coins.
 - **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 11.250 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.250 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,9 +42,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 13.000 coins | +22.7% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11.750 coins | 0% |
-| Kees Smit | 86 | CAM | Eredivisie | 14.250 coins | +1.8% |
+| Ko Itakura | 88 | CB | Eredivisie | 12.250 coins | -12.1% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 12.500 coins | +10.2% |
+| Luciano Valente | 87 | CAM | Eredivisie | 14.500 coins | -14.3% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11.500 coins | +2.2% |
+| Ivan Perišić | 86 | RW | Eredivisie | 13.750 coins | -14.1% |
 
 
 ## 📈 Destaques
@@ -53,14 +55,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **13.000 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Ko Itakura (88, CB)** da Eredivisie, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11.750 coins**
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12.500 coins**
 
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **14.250 coins**
+- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
+
+- **Defesa:** Ko Itakura (88, CB) por 12.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Jari Litmanen (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 

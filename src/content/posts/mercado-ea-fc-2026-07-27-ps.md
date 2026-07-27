@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:34:40.000Z
+pubDatetime: 2026-07-27T13:36:08.000Z
 title: "Mercado EA FC em 27/07: Eredivisie — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Josip Šutalo (90, Eredivisie), com +41.8% em 24h, a 50k coins no Console (PS)."
+    a: "Givairo Read (86, Eredivisie), com +51.5% em 24h, a 49k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Tjaronn Chery (85), -22% em 24h, a 29k coins."
+    a: "Steven Berghuis (86), -48.5% em 24h, a 34k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 21 cartas em alta contra 9 em queda (média 17.87%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 16 cartas em alta contra 12 em queda (média 2.38%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **27/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **21 cartas subiram** e **9 caíram** (80+ acima de 5k coins), variação média de **17.87%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **27/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **16 cartas subiram** e **12 caíram** (80+ acima de 5k coins), variação média de **2.38%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Josip Šutalo (90) **+41.8%** · 🔴 **Maior baixa:** Tjaronn Chery (85) **-22%**
+> 🟢 **Maior alta:** Givairo Read (86) **+51.5%** · 🔴 **Maior baixa:** Steven Berghuis (86) **-48.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Eredivisie — Console (PS)](/charts/mercado-ea-fc-2026-07-27-ps.svg)
 
@@ -35,21 +35,24 @@ O mercado do **EA FC** abre **27/07/2026** no Console (PS) com mercado **em alta
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 63.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 70.0% entre as cartas que se moveram; o universo observado reúne 44 cartas.
-- **Concentração:** Eredivisie aparece em 10 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 100.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 57.1% entre as cartas que se moveram; o universo observado reúne 40 cartas.
+- **Concentração:** Eredivisie aparece em 13 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Josip Šutalo | 90 | Eredivisie | 50k coins | +41.8% | -29.6% |
-| Dennis Man | 86 | Eredivisie | 29k coins | +36.9% | -17.9% |
-| Youri Baas | 84 | Eredivisie | 50k coins | +25.2% | +10.6% |
-| Kenneth Taylor | 84 | Eredivisie | 29k coins | +17.2% | -31% |
-| Wout Weghorst | 85 | Eredivisie | 86k coins | +14.4% | +63.6% |
-| Jorthy Mokio | 84 | Eredivisie | 46k coins | +9.4% | -7.9% |
-| Jorthy Mokio | 86 | Eredivisie | 32k coins | +4.8% | +12.1% |
+| Givairo Read | 86 | Eredivisie | 49k coins | +51.5% | +99% |
+| Lewis Holtby | 86 | Eredivisie | 40k coins | +48.1% | +100% |
+| Jorthy Mokio | 84 | Eredivisie | 55k coins | +29.4% | +0.9% |
+| Kenneth Taylor | 84 | Eredivisie | 25k coins | +25% | -37.5% |
+| Quinten Timber | 85 | Eredivisie | 31k coins | +24.8% | -10% |
+| Paul Wanner | 84 | Eredivisie | 47k coins | +18.8% | +6.1% |
+| Dennis Man | 86 | Eredivisie | 29k coins | +18% | -25% |
+| Joël Drommel | 84 | Eredivisie | 54k coins | +11.5% | +32.9% |
+| Jaap Stam | 91 | Eredivisie | 609k coins | +9.2% | -26.5% |
+| Melle Meulensteen | 84 | Eredivisie | 45k coins | +7.1% | -4.3% |
 
 
 ### Análise das altas
@@ -58,36 +61,36 @@ O mercado do **EA FC** abre **27/07/2026** no Console (PS) com mercado **em alta
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Josip Šutalo (90)** subiu **+41.8%** em 24h, a **50k coins** (faixa do dia: 25k–75k). Está -22% abaixo da média de 7 dias (descontada).
+- **Givairo Read (86)** subiu **+51.5%** em 24h, a **49k coins** (faixa do dia: 16.750–55k). Está +113% acima da média de 7 dias (aquecida).
 
-- **Dennis Man (86)** subiu **+36.9%** em 24h, a **29k coins** (faixa do dia: 13.500–30k). Está em linha com a média de 7 dias (+0%).
+- **Lewis Holtby (86)** subiu **+48.1%** em 24h, a **40k coins** (faixa do dia: 33k–55k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Youri Baas (84)** subiu **+25.2%** em 24h, a **50k coins** (faixa do dia: 38k–65k). Está em linha com a média de 7 dias (+7%).
+- **Jorthy Mokio (84)** subiu **+29.4%** em 24h, a **55k coins** (faixa do dia: 38k–55k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tjaronn Chery | 85 | Eredivisie | 29k coins | -22% | -11.4% |
-| Troy Parrott | 84 | Eredivisie | 46k coins | -16.4% | -1.1% |
-| Steven Berghuis | 86 | Eredivisie | 42k coins | -9.7% | -4.5% |
+| Steven Berghuis | 86 | Eredivisie | 34k coins | -48.5% | -13.6% |
+| Ricardo Pepi | 87 | Eredivisie | 22k coins | -45% | -31.2% |
+| Ayase Ueda | 84 | Eredivisie | 35k coins | -22.2% | -12.5% |
 
 
 ### Análise das baixas
 
-- **Tjaronn Chery (85)** caiu **-22%** em 24h, a **29k coins** (faixa do dia: 28k–38k). Está -9% abaixo da média de 7 dias (descontada).
+- **Steven Berghuis (86)** caiu **-48.5%** em 24h, a **34k coins** (faixa do dia: 23k–69k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Troy Parrott (84)** caiu **-16.4%** em 24h, a **46k coins** (faixa do dia: 40k–55k). Está em linha com a média de 7 dias (+6%).
+- **Ricardo Pepi (87)** caiu **-45%** em 24h, a **22k coins** (faixa do dia: 11.000–22k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Steven Berghuis (86)** caiu **-9.7%** em 24h, a **42k coins** (faixa do dia: 23k–69k). Está em linha com a média de 7 dias (+3%).
+- **Ayase Ueda (84)** caiu **-22.2%** em 24h, a **35k coins** (faixa do dia: 35k–45k). Está -11% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Josip Šutalo já avançou 41.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Givairo Read já avançou 51.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tjaronn Chery recuou -22%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Steven Berghuis recuou -48.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +112,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Josip Šutalo (90, Eredivisie), com +41.8% em 24h, a 50k coins no Console (PS).
+Givairo Read (86, Eredivisie), com +51.5% em 24h, a 49k coins no Console (PS).
 
 **E a maior queda do dia?**
-Tjaronn Chery (85), -22% em 24h, a 29k coins.
+Steven Berghuis (86), -48.5% em 24h, a 34k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 21 cartas em alta contra 9 em queda (média 17.87%).
+Hoje o mercado está em alta — predominam as valorizações, com 16 cartas em alta contra 12 em queda (média 2.38%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

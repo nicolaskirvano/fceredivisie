@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:36:08.000Z
+pubDatetime: 2026-07-27T01:36:08.000Z
 title: "Mercado EA FC em 26/07: Eredivisie — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Josip Šutalo (90, Eredivisie), com +42.4% em 24h, a 63k coins no Console (PS)."
+    a: "Mauro Júnior (86, Eredivisie), com +31.7% em 24h, a 54k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Tjaronn Chery (85), -13.3% em 24h, a 31k coins."
+    a: "Sergiño Dest (86), -32.1% em 24h, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 11 cartas em alta contra 10 em queda (média 4.17%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 18 cartas em alta contra 10 em queda (média 6.83%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **11 em alta** e **10 em queda**, média de **4.17%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **18 em alta** e **10 em queda**, média de **6.83%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Josip Šutalo (90) **+42.4%** · 🔴 **Maior baixa:** Tjaronn Chery (85) **-13.3%**
+> 🟢 **Maior alta:** Mauro Júnior (86) **+31.7%** · 🔴 **Maior baixa:** Sergiño Dest (86) **-32.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Eredivisie — Console (PS)](/charts/mercado-ea-fc-2026-07-26-ps.svg)
 
@@ -35,18 +35,23 @@ Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 55.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.4% entre as cartas que se moveram; o universo observado reúne 37 cartas.
-- **Concentração:** Eredivisie aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 63.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 64.3% entre as cartas que se moveram; o universo observado reúne 42 cartas.
+- **Concentração:** Eredivisie aparece em 13 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Josip Šutalo | 90 | Eredivisie | 63k coins | +42.4% | +4.1% |
-| Lewis Holtby | 86 | Eredivisie | 35k coins | +34.7% | +60.6% |
-| Mauro Júnior | 86 | Eredivisie | 54k coins | +30.5% | +26.6% |
-| Ayase Ueda | 84 | Eredivisie | 45k coins | +8.4% | +12.5% |
+| Mauro Júnior | 86 | Eredivisie | 54k coins | +31.7% | +26.3% |
+| Lewis Holtby | 86 | Eredivisie | 34k coins | +20.2% | +41.2% |
+| Kenneth Taylor | 84 | Eredivisie | 30k coins | +20% | -25.9% |
+| Can Bozdoğan | 87 | Eredivisie | 26k coins | +19.3% | +81% |
+| Ayase Ueda | 84 | Eredivisie | 45k coins | +19% | 0% |
+| Kento Shiogai | 83 | Eredivisie | 64k coins | +16.4% | +15.3% |
+| Troy Parrott | 84 | Eredivisie | 45k coins | +12.5% | +11.1% |
+| Jorthy Mokio | 84 | Eredivisie | 54k coins | +8% | -1.8% |
+| Melle Meulensteen | 84 | Eredivisie | 42k coins | +4.7% | +13.2% |
 
 
 ### Análise das altas
@@ -55,37 +60,37 @@ Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Josip Šutalo (90)** subiu **+42.4%** em 24h, a **63k coins** (faixa do dia: 25k–64k). Está em linha com a média de 7 dias (-2%).
+- **Mauro Júnior (86)** subiu **+31.7%** em 24h, a **54k coins** (faixa do dia: 40k–54k). Está +27% acima da média de 7 dias (aquecida).
 
-- **Lewis Holtby (86)** subiu **+34.7%** em 24h, a **35k coins** (faixa do dia: 20k–55k). Está +9% acima da média de 7 dias (aquecida).
+- **Lewis Holtby (86)** subiu **+20.2%** em 24h, a **34k coins** (faixa do dia: 20k–55k). Está em linha com a média de 7 dias (+4%).
 
-- **Mauro Júnior (86)** subiu **+30.5%** em 24h, a **54k coins** (faixa do dia: 39k–54k). Está +27% acima da média de 7 dias (aquecida).
+- **Kenneth Taylor (84)** subiu **+20%** em 24h, a **30k coins** (faixa do dia: 13.000–30k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tjaronn Chery | 85 | Eredivisie | 31k coins | -13.3% | -11.6% |
-| Melle Meulensteen | 84 | Eredivisie | 42k coins | -7% | +6.7% |
-| Jordan Ayew | 80 | Eredivisie | 38k coins | -5% | -20% |
-| Youri Baas | 84 | Eredivisie | 65k coins | -4.8% | +25% |
+| Sergiño Dest | 86 | Eredivisie | 22k coins | -32.1% | +6% |
+| Tjaronn Chery | 85 | Eredivisie | 29k coins | -20.7% | -19% |
+| Jordan Ayew | 80 | Eredivisie | 48k coins | -20% | -20% |
+| Wout Weghorst | 85 | Eredivisie | 80k coins | -19.8% | -8.8% |
 
 
 ### Análise das baixas
 
-- **Tjaronn Chery (85)** caiu **-13.3%** em 24h, a **31k coins** (faixa do dia: 28k–38k). Está em linha com a média de 7 dias (-4%).
+- **Sergiño Dest (86)** caiu **-32.1%** em 24h, a **22k coins** (faixa do dia: 15.500–34k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Melle Meulensteen (84)** caiu **-7%** em 24h, a **42k coins** (faixa do dia: 36k–48k). Está em linha com a média de 7 dias (+1%).
+- **Tjaronn Chery (85)** caiu **-20.7%** em 24h, a **29k coins** (faixa do dia: 28k–38k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Jordan Ayew (80)** caiu **-5%** em 24h, a **38k coins** (faixa do dia: 38k–48k). Está -12% abaixo da média de 7 dias (descontada).
+- **Jordan Ayew (80)** caiu **-20%** em 24h, a **48k coins** (faixa do dia: 38k–48k). Está +10% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Josip Šutalo já avançou 42.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Mauro Júnior já avançou 31.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tjaronn Chery recuou -13.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Sergiño Dest recuou -32.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -97,13 +102,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Josip Šutalo (90, Eredivisie), com +42.4% em 24h, a 63k coins no Console (PS).
+Mauro Júnior (86, Eredivisie), com +31.7% em 24h, a 54k coins no Console (PS).
 
 **E a maior queda do dia?**
-Tjaronn Chery (85), -13.3% em 24h, a 31k coins.
+Sergiño Dest (86), -32.1% em 24h, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 11 cartas em alta contra 10 em queda (média 4.17%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 18 cartas em alta contra 10 em queda (média 6.83%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -119,5 +124,6 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Eredivisie em 26/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-26-ps/)
+- [Investimentos EA FC: Eredivisie em 26/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-26-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:36:11.000Z
+pubDatetime: 2026-07-27T01:36:11.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 12.650 coins.
-- **Posição mais frequente:** CAM, com 2 cartas.
-- **Faixa real:** 11.250 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 12.875 coins.
+- **Posição mais frequente:** LW, com 2 cartas.
+- **Faixa real:** 11.250 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,9 +42,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Jari Litmanen | 90 | CAM | Eredivisie | 12.750 coins | 0% |
-| Ko Itakura | 88 | CB | Eredivisie | 11.250 coins | 0% |
-| Ahmetcan Kaplan | 88 | CB | Eredivisie | 14.750 coins | +14.5% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 13.250 coins | +34.1% |
+| Mika Godts | 87 | LW | Eredivisie | 13.500 coins | +1.9% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 14.000 coins | +27.3% |
 
 
 ## 📈 Destaques
@@ -53,16 +52,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Jari Litmanen (90, CAM)** da Eredivisie, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ko Itakura (88, CB)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mika Godts (87, LW)** da Eredivisie, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ahmetcan Kaplan (88, CB)** da Eredivisie, a apenas **14.750 coins**
-
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **13.250 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **14.000 coins** A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
-
-- **Defesa:** Ko Itakura (88, CB) por 11.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Jari Litmanen (90, CAM) por 12.750 coins é a referência de rating deste recorte.
 
@@ -103,6 +98,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Eredivisie em 26/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-26-ps/)
 - [Mercado EA FC em 26/07: Eredivisie — Console (PS)](/posts/mercado-ea-fc-2026-07-26-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:36:21.000Z
+pubDatetime: 2026-07-28T01:36:20.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 27/07 — PC"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 12.542 coins.
+- **Preço médio das 7 opções:** 12.321 coins.
 - **Posição mais frequente:** CAM, com 4 cartas.
 - **Faixa real:** 11.000 a 14.250 coins; nenhuma carta custa 15 mil.
 
@@ -42,10 +42,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 13.500 coins | +2% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 12.750 coins | -7.4% |
 | Dirk Kuyt | 86 | CAM | Eredivisie | 11.000 coins | +2.3% |
-| Kees Smit | 86 | CAM | Eredivisie | 14.000 coins | -1.8% |
-| Ivan Perišić | 86 | RW | Eredivisie | 14.250 coins | +3.6% |
+| Givairo Read | 86 | RB | Eredivisie | 11.500 coins | -9.8% |
+| Kees Smit | 86 | CAM | Eredivisie | 14.250 coins | -10.9% |
+| Ivan Perišić | 86 | RW | Eredivisie | 14.250 coins | -6.7% |
 
 
 ## 📈 Destaques
@@ -54,14 +55,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **13.500 coins**
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12.750 coins**
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11.000 coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Givairo Read (86, RB)** da Eredivisie, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
+
+- **Defesa:** Givairo Read (86, RB) por 11.500 coins é a referência de rating deste recorte.
 
 - **Meio:** Jari Litmanen (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 
@@ -82,7 +85,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Eredivisie em 27/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-27-pc/)
 - [Mercado EA FC em 27/07: Eredivisie — PC](/posts/mercado-ea-fc-2026-07-27-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

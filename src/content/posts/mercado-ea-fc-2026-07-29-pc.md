@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:36:17.000Z
+pubDatetime: 2026-07-29T16:36:18.000Z
 title: "Mercado EA FC em 29/07: Eredivisie — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Wout Weghorst (85, Eredivisie), com +53.4% em 24h, a 72k coins no PC."
+    a: "Park Ji Sung (91, Eredivisie), com +12.8% em 24h, a 102k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Anis Hadj-Moussa (86), -28.2% em 24h, a 52k coins."
+    a: "Sergiño Dest (86), -12.7% em 24h, a 89k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 12 cartas em alta contra 18 em queda (média 7.73%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 9 cartas em alta contra 11 em queda (média -1.44%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**29/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **12 subiram**, **18 caíram** (80+ e 5k+ coins), média de **7.73%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**29/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **9 subiram**, **11 caíram** (80+ e 5k+ coins), média de **-1.44%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Wout Weghorst (85) **+53.4%** · 🔴 **Maior baixa:** Anis Hadj-Moussa (86) **-28.2%**
+> 🟢 **Maior alta:** Park Ji Sung (91) **+12.8%** · 🔴 **Maior baixa:** Sergiño Dest (86) **-12.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Eredivisie — PC](/charts/mercado-ea-fc-2026-07-29-pc.svg)
 
@@ -35,20 +35,18 @@ Hoje (**29/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 81.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.0% entre as cartas que se moveram; o universo observado reúne 49 cartas.
-- **Concentração:** Eredivisie aparece em 14 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 25.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.0% entre as cartas que se moveram; o universo observado reúne 38 cartas.
+- **Concentração:** Eredivisie aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wout Weghorst | 85 | Eredivisie | 72k coins | +53.4% | -14.7% |
-| Ahmetcan Kaplan | 88 | Eredivisie | 31k coins | +41.2% | +22.4% |
-| Jaap Stam | 91 | Eredivisie | 1.76M coins | +20% | +20% |
-| Park Ji Sung | 91 | Eredivisie | 98k coins | +18.9% | -2% |
-| Paul Wanner | 84 | Eredivisie | 46k coins | +16.5% | +4.5% |
-| Noah Naujoks | 83 | Eredivisie | 51k coins | +11.5% | 0% |
+| Park Ji Sung | 91 | Eredivisie | 102k coins | +12.8% | -8.3% |
+| Couhaib Driouech | 86 | Eredivisie | 96k coins | +6% | +7.8% |
+| Victor Edvardsen | 84 | Eredivisie | 28k coins | +5.8% | +52.8% |
+| Can Bozdoğan | 87 | Eredivisie | 26k coins | +5.1% | +35.5% |
 
 
 ### Análise das altas
@@ -57,41 +55,38 @@ Hoje (**29/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Wout Weghorst (85)** subiu **+53.4%** em 24h, a **72k coins** (faixa do dia: 47k–84k). Está em linha com a média de 7 dias (+1%).
+- **Park Ji Sung (91)** subiu **+12.8%** em 24h, a **102k coins** (faixa do dia: 98k–110k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Ahmetcan Kaplan (88)** subiu **+41.2%** em 24h, a **31k coins** (faixa do dia: 16.000–31k). Está +22% acima da média de 7 dias (aquecida).
+- **Couhaib Driouech (86)** subiu **+6%** em 24h, a **96k coins** (faixa do dia: 91k–96k). Está em linha com a média de 7 dias (+4%).
 
-- **Jaap Stam (91)** subiu **+20%** em 24h, a **1.76M coins** (faixa do dia: 1.01M–1.80M). Está +47% acima da média de 7 dias (aquecida).
+- **Victor Edvardsen (84)** subiu **+5.8%** em 24h, a **28k coins** (faixa do dia: 26k–28k). Está +16% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anis Hadj-Moussa | 86 | Eredivisie | 52k coins | -28.2% | -2.7% |
-| Kenneth Taylor | 84 | Eredivisie | 30k coins | -25.4% | +74.6% |
-| Jorthy Mokio | 84 | Eredivisie | 43k coins | -21.4% | -16.8% |
-| Joël Drommel | 84 | Eredivisie | 40k coins | -15.3% | -15.8% |
-| Victor Edvardsen | 84 | Eredivisie | 26k coins | -10.3% | +60% |
-| Steven Berghuis | 86 | Eredivisie | 40k coins | -10% | +5.2% |
-| Quinten Timber | 85 | Eredivisie | 25k coins | -9.8% | -32.2% |
-| Can Bozdoğan | 87 | Eredivisie | 26k coins | -7.8% | +35.9% |
+| Sergiño Dest | 86 | Eredivisie | 89k coins | -12.7% | -40.7% |
+| Tjaronn Chery | 85 | Eredivisie | 40k coins | -11.1% | +73.9% |
+| Kento Shiogai | 83 | Eredivisie | 99k coins | -10% | +8.2% |
+| Ismael Saibari | 84 | Eredivisie | 35k coins | -7.3% | -6.7% |
+| Patrick van Aanholt | 85 | Eredivisie | 29k coins | -6.5% | -17.7% |
 
 
 ### Análise das baixas
 
-- **Anis Hadj-Moussa (86)** caiu **-28.2%** em 24h, a **52k coins** (faixa do dia: 40k–74k). Está -35% abaixo da média de 7 dias (descontada).
+- **Sergiño Dest (86)** caiu **-12.7%** em 24h, a **89k coins** (faixa do dia: 89k–102k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Kenneth Taylor (84)** caiu **-25.4%** em 24h, a **30k coins** (faixa do dia: 22k–34k). Está +10% acima da média de 7 dias (aquecida).
+- **Tjaronn Chery (85)** caiu **-11.1%** em 24h, a **40k coins** (faixa do dia: 40k–45k). Está em linha com a média de 7 dias (-2%).
 
-- **Jorthy Mokio (84)** caiu **-21.4%** em 24h, a **43k coins** (faixa do dia: 38k–55k). Está -11% abaixo da média de 7 dias (descontada).
+- **Kento Shiogai (83)** caiu **-10%** em 24h, a **99k coins** (faixa do dia: 99k–110k). Está em linha com a média de 7 dias (+7%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Wout Weghorst já avançou 53.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Park Ji Sung já avançou 12.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Anis Hadj-Moussa recuou -28.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Sergiño Dest recuou -12.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -103,13 +98,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Wout Weghorst (85, Eredivisie), com +53.4% em 24h, a 72k coins no PC.
+Park Ji Sung (91, Eredivisie), com +12.8% em 24h, a 102k coins no PC.
 
 **E a maior queda do dia?**
-Anis Hadj-Moussa (86), -28.2% em 24h, a 52k coins.
+Sergiño Dest (86), -12.7% em 24h, a 89k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 12 cartas em alta contra 18 em queda (média 7.73%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 9 cartas em alta contra 11 em queda (média -1.44%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -125,5 +120,6 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Eredivisie em 29/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-29-pc/)
+- [Investimentos EA FC: Eredivisie em 29/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-29-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:36:11.000Z
+pubDatetime: 2026-07-29T16:36:11.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 29/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 12.250 coins.
+- **Preço médio das 5 opções:** 11.950 coins.
 - **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 11.250 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.250 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,10 +40,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | -11.8% |
+| Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 14.000 coins | +31.8% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.500 coins | -3.6% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 14.500 coins | +17.3% |
+| Kees Smit | 86 | CAM | Eredivisie | 11.250 coins | +4.3% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | -9.8% |
 
 
 ## 📈 Destaques
@@ -52,9 +53,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.500 coins**
+- **Kees Smit (86, CAM)** da Eredivisie, a apenas **11.250 coins**
+
+- **Ivan Perišić (86, RW)** da Eredivisie, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T10:36:22.000Z
+pubDatetime: 2026-07-29T13:36:20.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 29/07 — PC"
 draft: false
 featured: false

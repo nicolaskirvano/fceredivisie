@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:36:18.000Z
+pubDatetime: 2026-07-29T19:36:19.000Z
 title: "Mercado EA FC em 29/07: Eredivisie — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Park Ji Sung (91, Eredivisie), com +12.8% em 24h, a 102k coins no PC."
+    a: "Joël Drommel (84, Eredivisie), com +18.8% em 24h, a 48k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Sergiño Dest (86), -12.7% em 24h, a 89k coins."
+    a: "Dennis Man (86), -27.6% em 24h, a 49k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 9 cartas em alta contra 11 em queda (média -1.44%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 12 cartas em alta contra 12 em queda (média 9.48%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**29/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **9 subiram**, **11 caíram** (80+ e 5k+ coins), média de **-1.44%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**29/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **12 subiram**, **12 caíram** (80+ e 5k+ coins), média de **9.48%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Park Ji Sung (91) **+12.8%** · 🔴 **Maior baixa:** Sergiño Dest (86) **-12.7%**
+> 🟢 **Maior alta:** Joël Drommel (84) **+18.8%** · 🔴 **Maior baixa:** Dennis Man (86) **-27.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Eredivisie — PC](/charts/mercado-ea-fc-2026-07-29-pc.svg)
 
@@ -35,18 +35,17 @@ Hoje (**29/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem te
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 25.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.0% entre as cartas que se moveram; o universo observado reúne 38 cartas.
-- **Concentração:** Eredivisie aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 46.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 42 cartas.
+- **Concentração:** Eredivisie aparece em 10 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Park Ji Sung | 91 | Eredivisie | 102k coins | +12.8% | -8.3% |
-| Couhaib Driouech | 86 | Eredivisie | 96k coins | +6% | +7.8% |
-| Victor Edvardsen | 84 | Eredivisie | 28k coins | +5.8% | +52.8% |
-| Can Bozdoğan | 87 | Eredivisie | 26k coins | +5.1% | +35.5% |
+| Joël Drommel | 84 | Eredivisie | 48k coins | +18.8% | +33.8% |
+| Jorthy Mokio | 84 | Eredivisie | 54k coins | +16.8% | +7.4% |
+| Couhaib Driouech | 86 | Eredivisie | 95k coins | +4.4% | +3.8% |
 
 
 ### Análise das altas
@@ -55,38 +54,40 @@ Hoje (**29/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem te
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Park Ji Sung (91)** subiu **+12.8%** em 24h, a **102k coins** (faixa do dia: 98k–110k). Está +10% acima da média de 7 dias (aquecida).
+- **Joël Drommel (84)** subiu **+18.8%** em 24h, a **48k coins** (faixa do dia: 40k–48k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Couhaib Driouech (86)** subiu **+6%** em 24h, a **96k coins** (faixa do dia: 91k–96k). Está em linha com a média de 7 dias (+4%).
+- **Jorthy Mokio (84)** subiu **+16.8%** em 24h, a **54k coins** (faixa do dia: 43k–54k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Victor Edvardsen (84)** subiu **+5.8%** em 24h, a **28k coins** (faixa do dia: 26k–28k). Está +16% acima da média de 7 dias (aquecida).
+- **Couhaib Driouech (86)** subiu **+4.4%** em 24h, a **95k coins** (faixa do dia: 91k–96k). Está em linha com a média de 7 dias (+2%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Dennis Man | 86 | Eredivisie | 49k coins | -27.6% | +23.5% |
+| Troy Parrott | 84 | Eredivisie | 48k coins | -15.3% | -9% |
+| Steven Berghuis | 86 | Eredivisie | 38k coins | -15% | +7% |
 | Sergiño Dest | 86 | Eredivisie | 89k coins | -12.7% | -40.7% |
-| Tjaronn Chery | 85 | Eredivisie | 40k coins | -11.1% | +73.9% |
-| Kento Shiogai | 83 | Eredivisie | 99k coins | -10% | +8.2% |
-| Ismael Saibari | 84 | Eredivisie | 35k coins | -7.3% | -6.7% |
+| Kenneth Taylor | 84 | Eredivisie | 30k coins | -8.4% | +49.3% |
+| Jaap Stam | 91 | Eredivisie | 1.65M coins | -6.5% | +66% |
 | Patrick van Aanholt | 85 | Eredivisie | 29k coins | -6.5% | -17.7% |
 
 
 ### Análise das baixas
 
-- **Sergiño Dest (86)** caiu **-12.7%** em 24h, a **89k coins** (faixa do dia: 89k–102k). Está -12% abaixo da média de 7 dias (descontada).
+- **Dennis Man (86)** caiu **-27.6%** em 24h, a **49k coins** (faixa do dia: 49k–72k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Tjaronn Chery (85)** caiu **-11.1%** em 24h, a **40k coins** (faixa do dia: 40k–45k). Está em linha com a média de 7 dias (-2%).
+- **Troy Parrott (84)** caiu **-15.3%** em 24h, a **48k coins** (faixa do dia: 40k–48k). Está em linha com a média de 7 dias (+5%).
 
-- **Kento Shiogai (83)** caiu **-10%** em 24h, a **99k coins** (faixa do dia: 99k–110k). Está em linha com a média de 7 dias (+7%).
+- **Steven Berghuis (86)** caiu **-15%** em 24h, a **38k coins** (faixa do dia: 34k–45k). Está -24% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Park Ji Sung já avançou 12.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Joël Drommel já avançou 18.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Sergiño Dest recuou -12.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Dennis Man recuou -27.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -98,13 +99,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Park Ji Sung (91, Eredivisie), com +12.8% em 24h, a 102k coins no PC.
+Joël Drommel (84, Eredivisie), com +18.8% em 24h, a 48k coins no PC.
 
 **E a maior queda do dia?**
-Sergiño Dest (86), -12.7% em 24h, a 89k coins.
+Dennis Man (86), -27.6% em 24h, a 49k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 9 cartas em alta contra 11 em queda (média -1.44%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 12 cartas em alta contra 12 em queda (média 9.48%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

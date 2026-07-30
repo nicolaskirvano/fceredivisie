@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:36:11.000Z
+pubDatetime: 2026-07-30T16:36:12.000Z
 title: "Investimentos EA FC: Eredivisie em 30/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Joël Drommel (84, Eredivisie) lidera, com +42% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Troy Parrott (84, Eredivisie) lidera, com +40.9% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Joël Drommel (84) acumula **+42% em 7 dias** a 55k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Troy Parrott (84) acumula **+40.9% em 7 dias** a 52k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 30/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-30-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.6% em 24h** e **+28.0% em 7 dias**.
-- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.8% em 24h** e **+19.4% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Joël Drommel | 84 | Eredivisie | 55k coins | +23.7% | +42% | Esticada |
-| Mohamed Ihattaren | 84 | Eredivisie | 52k coins | +5.1% | +32.1% | Momentum moderado |
-| Troy Parrott | 84 | Eredivisie | 49k coins | +4.3% | +31.5% | Momentum moderado |
-| Lewis Holtby | 86 | Eredivisie | 29k coins | +19% | +29.3% | Momentum moderado |
-| Ricardo Pepi | 87 | Eredivisie | 27k coins | +38% | +26.7% | Esticada |
-| Melle Meulensteen | 84 | Eredivisie | 48k coins | +13.1% | +19.5% | Momentum moderado |
-| Mauro Júnior | 86 | Eredivisie | 52k coins | +14.3% | +15.6% | Momentum moderado |
-| Kees Smit | 86 | Eredivisie | 15.000 coins | +25% | +7.1% | Esticada |
+| Troy Parrott | 84 | Eredivisie | 52k coins | +11.7% | +40.9% | Momentum moderado |
+| Kenneth Taylor | 84 | Eredivisie | 17.500 coins | +16% | +38.1% | Momentum moderado |
+| Jorthy Mokio | 84 | Eredivisie | 50k coins | +2% | +20.5% | Entrada a observar |
+| Melle Meulensteen | 84 | Eredivisie | 47k coins | +8% | +18.2% | Momentum moderado |
+| Ricardo Pepi | 87 | Eredivisie | 24k coins | +22.5% | +14% | Esticada |
+| Lewis Holtby | 86 | Eredivisie | 27k coins | +2.1% | +7.6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Joël Drommel (84)** — 55k coins, **+42% em 7 dias** (+23.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Troy Parrott (84)** — 52k coins, **+40.9% em 7 dias** (+11.7% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohamed Ihattaren (84)** — 52k coins, **+32.1% em 7 dias** (+5.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kenneth Taylor (84)** — 17.500 coins, **+38.1% em 7 dias** (+16% em 24h). Preço -36% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Troy Parrott (84)** — 49k coins, **+31.5% em 7 dias** (+4.3% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jorthy Mokio (84)** — 50k coins, **+20.5% em 7 dias** (+2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lewis Holtby (86)** — 29k coins, **+29.3% em 7 dias** (+19% em 24h). Preço -25% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Melle Meulensteen (84)** — 47k coins, **+18.2% em 7 dias** (+8% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ricardo Pepi (87)** — 27k coins, **+26.7% em 7 dias** (+38% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ricardo Pepi (87)** — 24k coins, **+14% em 7 dias** (+22.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +79,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Joël Drommel (84, Eredivisie) lidera, com +42% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Troy Parrott (84, Eredivisie) lidera, com +40.9% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -99,6 +97,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Eredivisie em 30/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-30-ps/)
 - [Mercado EA FC em 30/07: Eredivisie — Console (PS)](/posts/mercado-ea-fc-2026-07-30-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:36:10.000Z
+pubDatetime: 2026-07-30T22:36:12.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 12.929 coins.
+- **Preço médio das 7 opções:** 12.964 coins.
 - **Posição mais frequente:** CAM, com 4 cartas.
 - **Faixa real:** 11.250 a 14.750 coins; nenhuma carta custa 15 mil.
 
@@ -42,11 +42,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 14.250 coins | +11.5% |
-| Mika Godts | 87 | LW | Eredivisie | 14.750 coins | -10.6% |
-| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | -2.2% |
-| Kees Smit | 86 | CAM | Eredivisie | 12.750 coins | +8% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 14.750 coins | +11.3% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 14.250 coins | +14% |
+| Mika Godts | 87 | LW | Eredivisie | 14.750 coins | -7.8% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | 0% |
+| Kees Smit | 86 | CAM | Eredivisie | 13.500 coins | +14% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 14.250 coins | +11.8% |
 
 
 ## 📈 Destaques

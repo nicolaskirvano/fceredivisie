@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:36:11.000Z
+pubDatetime: 2026-07-30T01:36:09.000Z
 title: "Mercado EA FC em 29/07: Eredivisie — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Park Ji Sung (91, Eredivisie), com +43% em 24h, a 68k coins no Console (PS)."
+    a: "Anis Hadj-Moussa (86, Eredivisie), com +28.4% em 24h, a 113k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Dennis Man (86), -41.6% em 24h, a 30k coins."
+    a: "Jorthy Mokio (86), -33.8% em 24h, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 17 cartas em alta contra 12 em queda (média 1.67%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 14 cartas em alta contra 17 em queda (média -2.56%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**29/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as altas dominam o dia — **17 subiram**, **12 caíram** (80+ e 5k+ coins), média de **1.67%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**29/07/2026**, Console (PS)) o Ultimate Team está **pressionado** — as quedas dominam o dia — **14 subiram**, **17 caíram** (80+ e 5k+ coins), média de **-2.56%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Park Ji Sung (91) **+43%** · 🔴 **Maior baixa:** Dennis Man (86) **-41.6%**
+> 🟢 **Maior alta:** Anis Hadj-Moussa (86) **+28.4%** · 🔴 **Maior baixa:** Jorthy Mokio (86) **-33.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Eredivisie — Console (PS)](/charts/mercado-ea-fc-2026-07-29-ps.svg)
 
@@ -35,24 +35,22 @@ Hoje (**29/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as al
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 84.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.6% entre as cartas que se moveram; o universo observado reúne 43 cartas.
-- **Concentração:** Eredivisie aparece em 14 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 62.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.2% entre as cartas que se moveram; o universo observado reúne 44 cartas.
+- **Concentração:** Eredivisie aparece em 18 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Park Ji Sung | 91 | Eredivisie | 68k coins | +43% | -12.8% |
-| Sergiño Dest | 86 | Eredivisie | 73k coins | +38% | +181.1% |
-| Jorthy Mokio | 84 | Eredivisie | 55k coins | +13.4% | +7.8% |
-| Josip Šutalo | 90 | Eredivisie | 49k coins | +12.6% | -37.2% |
-| Joël Drommel | 84 | Eredivisie | 60k coins | +11.1% | +41.2% |
-| Jordan Ayew | 80 | Eredivisie | 48k coins | +10.5% | +1.1% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 113k coins | +28.4% | +65% |
+| Jaap Stam | 91 | Eredivisie | 655k coins | +14.8% | -5.7% |
+| Jorthy Mokio | 84 | Eredivisie | 55k coins | +13.4% | +14% |
+| Josip Šutalo | 90 | Eredivisie | 48k coins | +10.9% | -39.7% |
+| Jordan Ayew | 80 | Eredivisie | 48k coins | +10.5% | +8% |
+| Mats Deijl | 88 | Eredivisie | 22k coins | +7.5% | +14.7% |
 | Melle Meulensteen | 84 | Eredivisie | 48k coins | +5.6% | +19.5% |
-| Mauro Júnior | 86 | Eredivisie | 53k coins | +5.3% | +37.9% |
-| Ricardo Pepi | 87 | Eredivisie | 21k coins | +4.7% | +14.1% |
-| Youri Baas | 84 | Eredivisie | 60k coins | +4.3% | +42% |
+| Mauro Júnior | 86 | Eredivisie | 48k coins | +3.7% | +29.6% |
 
 
 ### Análise das altas
@@ -61,9 +59,9 @@ Hoje (**29/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as al
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Park Ji Sung (91)** subiu **+43%** em 24h, a **68k coins** (faixa do dia: 50k–76k). Está em linha com a média de 7 dias (-0%).
+- **Anis Hadj-Moussa (86)** subiu **+28.4%** em 24h, a **113k coins** (faixa do dia: 80k–117k). Está +51% acima da média de 7 dias (aquecida).
 
-- **Sergiño Dest (86)** subiu **+38%** em 24h, a **73k coins** (faixa do dia: 54k–109k). Está +114% acima da média de 7 dias (aquecida).
+- **Jaap Stam (91)** subiu **+14.8%** em 24h, a **655k coins** (faixa do dia: 549k–698k). Está em linha com a média de 7 dias (+0%).
 
 - **Jorthy Mokio (84)** subiu **+13.4%** em 24h, a **55k coins** (faixa do dia: 46k–55k). Está +17% acima da média de 7 dias (aquecida).
 
@@ -72,26 +70,32 @@ Hoje (**29/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as al
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dennis Man | 86 | Eredivisie | 30k coins | -41.6% | -47.7% |
-| Kenneth Taylor | 84 | Eredivisie | 29k coins | -20.1% | +38.6% |
-| Troy Parrott | 84 | Eredivisie | 47k coins | -13.2% | +28.2% |
-| Ayase Ueda | 80 | Eredivisie | 42k coins | -5.3% | 0% |
+| Jorthy Mokio | 86 | Eredivisie | 22k coins | -33.8% | -8.5% |
+| Tjaronn Chery | 85 | Eredivisie | 29k coins | -22.8% | -15.4% |
+| Ahmetcan Kaplan | 88 | Eredivisie | 23k coins | -17.9% | +17.9% |
+| Kento Shiogai | 83 | Eredivisie | 50k coins | -16% | -1% |
+| Wout Weghorst | 85 | Eredivisie | 42k coins | -15.6% | -50.6% |
+| Luciano Valente | 87 | Eredivisie | 25k coins | -14.5% | +61.3% |
+| Ayase Ueda | 80 | Eredivisie | 42k coins | -10.5% | -5.6% |
+| Quinten Timber | 85 | Eredivisie | 27k coins | -9.2% | -12.9% |
+| Joël Drommel | 84 | Eredivisie | 50k coins | -7.4% | +17.6% |
+| Youri Baas | 84 | Eredivisie | 47k coins | -3.5% | +31.4% |
 
 
 ### Análise das baixas
 
-- **Dennis Man (86)** caiu **-41.6%** em 24h, a **30k coins** (faixa do dia: 18.500–45k). Está +10% acima da média de 7 dias (aquecida).
+- **Jorthy Mokio (86)** caiu **-33.8%** em 24h, a **22k coins** (faixa do dia: 22k–32k). Está -28% abaixo da média de 7 dias (descontada).
 
-- **Kenneth Taylor (84)** caiu **-20.1%** em 24h, a **29k coins** (faixa do dia: 17.000–38k). Está +9% acima da média de 7 dias (aquecida).
+- **Tjaronn Chery (85)** caiu **-22.8%** em 24h, a **29k coins** (faixa do dia: 20k–37k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Troy Parrott (84)** caiu **-13.2%** em 24h, a **47k coins** (faixa do dia: 47k–55k). Está em linha com a média de 7 dias (-0%).
+- **Ahmetcan Kaplan (88)** caiu **-17.9%** em 24h, a **23k coins** (faixa do dia: 15.500–30k). Está em linha com a média de 7 dias (+4%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Park Ji Sung já avançou 43% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Anis Hadj-Moussa já avançou 28.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Dennis Man recuou -41.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jorthy Mokio recuou -33.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -103,13 +107,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Park Ji Sung (91, Eredivisie), com +43% em 24h, a 68k coins no Console (PS).
+Anis Hadj-Moussa (86, Eredivisie), com +28.4% em 24h, a 113k coins no Console (PS).
 
 **E a maior queda do dia?**
-Dennis Man (86), -41.6% em 24h, a 30k coins.
+Jorthy Mokio (86), -33.8% em 24h, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 17 cartas em alta contra 12 em queda (média 1.67%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 14 cartas em alta contra 17 em queda (média -2.56%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

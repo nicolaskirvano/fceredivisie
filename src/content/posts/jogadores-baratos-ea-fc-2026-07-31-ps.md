@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:36:11.000Z
+pubDatetime: 2026-07-31T22:36:11.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 11.688 coins.
-- **Posição mais frequente:** CAM, com 2 cartas.
-- **Faixa real:** 11.250 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 12.750 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
+- **Faixa real:** 11.250 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,8 +42,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 12.750 coins | -10.5% |
-| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | 0% |
+| Mats Deijl | 88 | RB | Eredivisie | 13.500 coins | +3.8% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 14.500 coins | +1.8% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.250 coins | -2.2% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 13.500 coins | 0% |
+| Jorthy Mokio | 86 | CDM | Eredivisie | 14.000 coins | +3.4% |
 
 
 ## 📈 Destaques
@@ -52,12 +55,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins**
 
-- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12.750 coins**
+- **Mats Deijl (88, RB)** da Eredivisie, a apenas **13.500 coins**
 
-- **Ivan Perišić (86, RW)** da Eredivisie, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **14.500 coins**
+
+- **Ivan Perišić (86, RW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
+
+- **Defesa:** Mats Deijl (88, RB) por 13.500 coins é a referência de rating deste recorte.
 
 - **Meio:** Jari Litmanen (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 

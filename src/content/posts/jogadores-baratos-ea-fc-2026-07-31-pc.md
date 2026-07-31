@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:36:20.000Z
+pubDatetime: 2026-07-31T22:36:20.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 11.400 coins.
+- **Preço médio das 5 opções:** 11.850 coins.
 - **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 11.000 a 12.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,9 +42,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 11.250 coins | -10% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 14.000 coins | -10% |
 | Kees Smit | 86 | CAM | Eredivisie | 11.000 coins | -13.7% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.250 coins | +14% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11.750 coins | +14% |
 
 
 ## 📈 Destaques
@@ -53,11 +53,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins**
 
-- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Kees Smit (86, CAM)** da Eredivisie, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca

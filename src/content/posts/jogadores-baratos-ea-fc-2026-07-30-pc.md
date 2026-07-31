@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:36:22.000Z
+pubDatetime: 2026-07-31T01:36:20.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 11.500 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 10.750 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 10.121 coins.
+- **Posição mais frequente:** CAM, com 4 cartas.
+- **Faixa real:** 1.600 a 12.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,9 +42,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 10.750 coins | -8.5% |
-| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | -8% |
-| Kees Smit | 86 | CAM | Eredivisie | 12.750 coins | 0% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 12.750 coins | 0% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 10.750 coins | -12.2% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | -6.1% |
+| Kees Smit | 86 | CAM | Eredivisie | 11.750 coins | -13% |
+| Dávid Hancko | 83 | CB | Eredivisie | 1.600 coins | 0% |
 
 
 ## 📈 Destaques
@@ -53,14 +55,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12.750 coins**
+
 - **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **10.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ivan Perišić (86, RW)** da Eredivisie, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 
 ## Como distribuir a banca
+
+- **Defesa:** Dávid Hancko (83, CB) por 1.600 coins é a referência de rating deste recorte.
 
 - **Meio:** Jari Litmanen (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 

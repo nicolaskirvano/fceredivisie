@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:36:19.000Z
+pubDatetime: 2026-07-31T01:36:17.000Z
 title: "Mercado EA FC em 30/07: Eredivisie — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
     a: "Ahmetcan Kaplan (88, Eredivisie), com +33.9% em 24h, a 38k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Anis Hadj-Moussa (86), -45% em 24h, a 52k coins."
+    a: "Jaap Stam (91), -45% em 24h, a 880k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 11 cartas em alta contra 16 em queda (média 0.02%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 14 cartas em alta contra 17 em queda (média -2.36%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **11 subiram** e **16 caíram**, com variação média de **0.02%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **14 subiram** e **17 caíram**, com variação média de **-2.36%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Ahmetcan Kaplan (88) **+33.9%** · 🔴 **Maior baixa:** Anis Hadj-Moussa (86) **-45%**
+> 🟢 **Maior alta:** Ahmetcan Kaplan (88) **+33.9%** · 🔴 **Maior baixa:** Jaap Stam (91) **-45%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Eredivisie — PC](/charts/mercado-ea-fc-2026-07-30-pc.svg)
 
@@ -36,19 +36,23 @@ Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **latera
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 78.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.7% entre as cartas que se moveram; o universo observado reúne 49 cartas.
-- **Concentração:** Eredivisie aparece em 10 dos 20 maiores movimentos listados.
+- **Participação das altas:** 45.2% entre as cartas que se moveram; o universo observado reúne 52 cartas.
+- **Concentração:** Eredivisie aparece em 16 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ahmetcan Kaplan | 88 | Eredivisie | 38k coins | +33.9% | +38.9% |
-| Can Bozdoğan | 87 | Eredivisie | 23k coins | +31.9% | -36.8% |
-| Givairo Read | 86 | Eredivisie | 28k coins | +14.3% | +37.9% |
-| Mohamed Ihattaren | 84 | Eredivisie | 42k coins | +13.1% | +13.8% |
-| Couhaib Driouech | 86 | Eredivisie | 100k coins | +5.3% | +2% |
-| Victor Edvardsen | 84 | Eredivisie | 27k coins | +5% | +6% |
+| Ahmetcan Kaplan | 88 | Eredivisie | 38k coins | +33.9% | +33.9% |
+| Can Bozdoğan | 87 | Eredivisie | 21k coins | +27.7% | -43.2% |
+| Steven Berghuis | 86 | Eredivisie | 40k coins | +16.8% | -33.3% |
+| Sergiño Dest | 86 | Eredivisie | 108k coins | +12.5% | +66.2% |
+| Park Ji Sung | 91 | Eredivisie | 109k coins | +12.4% | -8.4% |
+| Givairo Read | 86 | Eredivisie | 26k coins | +10% | +31% |
+| Mauro Júnior | 86 | Eredivisie | 40k coins | +8.9% | +20.4% |
+| Mohamed Ihattaren | 84 | Eredivisie | 45k coins | +6.5% | +7.2% |
+| Noah Naujoks | 83 | Eredivisie | 51k coins | +5.8% | -0.9% |
+| Couhaib Driouech | 86 | Eredivisie | 100k coins | +5.3% | +4.2% |
 
 
 ### Análise das altas
@@ -57,37 +61,39 @@ Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **latera
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ahmetcan Kaplan (88)** subiu **+33.9%** em 24h, a **38k coins** (faixa do dia: 16.000–38k). Está +45% acima da média de 7 dias (aquecida).
+- **Ahmetcan Kaplan (88)** subiu **+33.9%** em 24h, a **38k coins** (faixa do dia: 16.000–38k). Está +43% acima da média de 7 dias (aquecida).
 
-- **Can Bozdoğan (87)** subiu **+31.9%** em 24h, a **23k coins** (faixa do dia: 11.000–37k). Está -15% abaixo da média de 7 dias (descontada).
+- **Can Bozdoğan (87)** subiu **+27.7%** em 24h, a **21k coins** (faixa do dia: 11.000–36k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Givairo Read (86)** subiu **+14.3%** em 24h, a **28k coins** (faixa do dia: 13.000–34k). Está +45% acima da média de 7 dias (aquecida).
+- **Steven Berghuis (86)** subiu **+16.8%** em 24h, a **40k coins** (faixa do dia: 32k–40k). Está -14% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anis Hadj-Moussa | 86 | Eredivisie | 52k coins | -45% | -38.2% |
-| Dennis Man | 86 | Eredivisie | 34k coins | -30.1% | -42.8% |
+| Jaap Stam | 91 | Eredivisie | 880k coins | -45% | -20.4% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 48k coins | -42.5% | -41.5% |
+| Patrick van Aanholt | 85 | Eredivisie | 25k coins | -28.4% | -40.7% |
+| Josip Šutalo | 90 | Eredivisie | 59k coins | -24.7% | +10.9% |
+| Ricardo Pepi | 87 | Eredivisie | 34k coins | -22.2% | +34.6% |
 | Jordan Ayew | 80 | Eredivisie | 39k coins | -17.4% | -17.4% |
-| Patrick van Aanholt | 85 | Eredivisie | 25k coins | -13.8% | -29.1% |
 
 
 ### Análise das baixas
 
-- **Anis Hadj-Moussa (86)** caiu **-45%** em 24h, a **52k coins** (faixa do dia: 50k–88k). Está -16% abaixo da média de 7 dias (descontada).
+- **Jaap Stam (91)** caiu **-45%** em 24h, a **880k coins** (faixa do dia: 850k–1.80M). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Dennis Man (86)** caiu **-30.1%** em 24h, a **34k coins** (faixa do dia: 31k–74k). Está -39% abaixo da média de 7 dias (descontada).
+- **Anis Hadj-Moussa (86)** caiu **-42.5%** em 24h, a **48k coins** (faixa do dia: 48k–84k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Jordan Ayew (80)** caiu **-17.4%** em 24h, a **39k coins** (faixa do dia: 39k–48k). Está -14% abaixo da média de 7 dias (descontada).
+- **Patrick van Aanholt (85)** caiu **-28.4%** em 24h, a **25k coins** (faixa do dia: 21k–29k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Ahmetcan Kaplan já avançou 33.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Anis Hadj-Moussa recuou -45%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jaap Stam recuou -45%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -102,10 +108,10 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 Ahmetcan Kaplan (88, Eredivisie), com +33.9% em 24h, a 38k coins no PC.
 
 **E a maior queda do dia?**
-Anis Hadj-Moussa (86), -45% em 24h, a 52k coins.
+Jaap Stam (91), -45% em 24h, a 880k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 11 cartas em alta contra 16 em queda (média 0.02%).
+Hoje o mercado está em baixa — predominam as quedas, com 14 cartas em alta contra 17 em queda (média -2.36%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

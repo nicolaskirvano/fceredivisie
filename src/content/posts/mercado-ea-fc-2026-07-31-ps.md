@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:36:08.000Z
+pubDatetime: 2026-07-31T16:36:08.000Z
 title: "Mercado EA FC em 31/07: Eredivisie — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Jorthy Mokio (86, Eredivisie), com +51.2% em 24h, a 30k coins no Console (PS)."
+    a: "Kenneth Taylor (84, Eredivisie), com +36.2% em 24h, a 32k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Sergiño Dest (86), -41.9% em 24h, a 25k coins."
+    a: "Couhaib Driouech (86), -19.1% em 24h, a 44k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 14 cartas em alta contra 13 em queda (média 0.04%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 12 cartas em alta contra 10 em queda (média 1.79%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **31/07/2026** (Console (PS)): mercado **de lado** — altas e quedas se equilibram. Entre as cartas relevantes (80+ e acima de 5k coins), foram **14 em alta** e **13 em queda**, média de **0.04%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **31/07/2026** (Console (PS)): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **12 em alta** e **10 em queda**, média de **1.79%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Jorthy Mokio (86) **+51.2%** · 🔴 **Maior baixa:** Sergiño Dest (86) **-41.9%**
+> 🟢 **Maior alta:** Kenneth Taylor (84) **+36.2%** · 🔴 **Maior baixa:** Couhaib Driouech (86) **-19.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Eredivisie — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,24 +35,23 @@ Panorama de **31/07/2026** (Console (PS)): mercado **de lado** — altas e queda
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 93.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.9% entre as cartas que se moveram; o universo observado reúne 44 cartas.
-- **Concentração:** Eredivisie aparece em 18 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 55.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.5% entre as cartas que se moveram; o universo observado reúne 40 cartas.
+- **Concentração:** Eredivisie aparece em 13 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jorthy Mokio | 86 | Eredivisie | 30k coins | +51.2% | -6.9% |
-| Quinten Timber | 85 | Eredivisie | 28k coins | +41.1% | +33.7% |
-| Tjaronn Chery | 85 | Eredivisie | 38k coins | +30.7% | +40.6% |
-| Ahmetcan Kaplan | 88 | Eredivisie | 38k coins | +29.3% | +108.3% |
-| Jorthy Mokio | 84 | Eredivisie | 55k coins | +19.6% | +12.8% |
-| Kenneth Taylor | 84 | Eredivisie | 32k coins | +17.4% | +36.2% |
-| Josip Šutalo | 90 | Eredivisie | 34k coins | +16.5% | -59.4% |
+| Kenneth Taylor | 84 | Eredivisie | 32k coins | +36.2% | +36.2% |
+| Victor Edvardsen | 84 | Eredivisie | 25k coins | +30.3% | +8.8% |
+| Jaap Stam | 91 | Eredivisie | 737k coins | +28.3% | +9.5% |
+| Ahmetcan Kaplan | 88 | Eredivisie | 38k coins | +26.1% | +108.3% |
 | Ayase Ueda | 80 | Eredivisie | 48k coins | +11.8% | +2.2% |
-| Mohamed Ihattaren | 84 | Eredivisie | 50k coins | +9% | +37.1% |
-| Paul Wanner | 84 | Eredivisie | 50k coins | +6.5% | +13.1% |
+| Mauro Júnior | 86 | Eredivisie | 55k coins | +10% | +22.2% |
+| Jorthy Mokio | 84 | Eredivisie | 55k coins | +10% | +19.6% |
+| Lewis Holtby | 86 | Eredivisie | 24k coins | +5.5% | -47.2% |
+| Josip Šutalo | 90 | Eredivisie | 30k coins | +4.3% | -62% |
 
 
 ### Análise das altas
@@ -61,41 +60,37 @@ Panorama de **31/07/2026** (Console (PS)): mercado **de lado** — altas e queda
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jorthy Mokio (86)** subiu **+51.2%** em 24h, a **30k coins** (faixa do dia: 14.500–32k). Está em linha com a média de 7 dias (+3%).
+- **Kenneth Taylor (84)** subiu **+36.2%** em 24h, a **32k coins** (faixa do dia: 19.750–36k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Quinten Timber (85)** subiu **+41.1%** em 24h, a **28k coins** (faixa do dia: 22k–36k). Está em linha com a média de 7 dias (+2%).
+- **Victor Edvardsen (84)** subiu **+30.3%** em 24h, a **25k coins** (faixa do dia: 16.750–45k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Tjaronn Chery (85)** subiu **+30.7%** em 24h, a **38k coins** (faixa do dia: 25k–38k). Está +19% acima da média de 7 dias (aquecida).
+- **Jaap Stam (91)** subiu **+28.3%** em 24h, a **737k coins** (faixa do dia: 536k–737k). Está +18% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sergiño Dest | 86 | Eredivisie | 25k coins | -41.9% | -9.1% |
-| Luciano Valente | 87 | Eredivisie | 24k coins | -21% | +3.2% |
-| Park Ji Sung | 91 | Eredivisie | 50k coins | -20.7% | -46.5% |
-| Couhaib Driouech | 86 | Eredivisie | 46k coins | -20.2% | -27.5% |
-| Lewis Holtby | 86 | Eredivisie | 25k coins | -12.1% | -53.2% |
-| Kento Shiogai | 83 | Eredivisie | 54k coins | -9.2% | +21.8% |
-| Joël Drommel | 84 | Eredivisie | 50k coins | -5.8% | +25.6% |
-| Dennis Man | 86 | Eredivisie | 21k coins | -4.3% | -3.3% |
+| Couhaib Driouech | 86 | Eredivisie | 44k coins | -19.1% | -31.5% |
+| Kento Shiogai | 83 | Eredivisie | 52k coins | -17.2% | +15.8% |
+| Jorthy Mokio | 86 | Eredivisie | 32k coins | -6.9% | -6.9% |
+| Paul Wanner | 84 | Eredivisie | 48k coins | -5.8% | +10.9% |
 
 
 ### Análise das baixas
 
-- **Sergiño Dest (86)** caiu **-41.9%** em 24h, a **25k coins** (faixa do dia: 25k–50k). Está -36% abaixo da média de 7 dias (descontada).
+- **Couhaib Driouech (86)** caiu **-19.1%** em 24h, a **44k coins** (faixa do dia: 37k–78k). Está em linha com a média de 7 dias (-1%).
 
-- **Luciano Valente (87)** caiu **-21%** em 24h, a **24k coins** (faixa do dia: 11.000–34k). Está +14% acima da média de 7 dias (aquecida).
+- **Kento Shiogai (83)** caiu **-17.2%** em 24h, a **52k coins** (faixa do dia: 52k–70k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Park Ji Sung (91)** caiu **-20.7%** em 24h, a **50k coins** (faixa do dia: 45k–70k). Está -19% abaixo da média de 7 dias (descontada).
+- **Jorthy Mokio (86)** caiu **-6.9%** em 24h, a **32k coins** (faixa do dia: 14.500–32k). Está +11% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jorthy Mokio já avançou 51.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Kenneth Taylor já avançou 36.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Sergiño Dest recuou -41.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Couhaib Driouech recuou -19.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -107,13 +102,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Jorthy Mokio (86, Eredivisie), com +51.2% em 24h, a 30k coins no Console (PS).
+Kenneth Taylor (84, Eredivisie), com +36.2% em 24h, a 32k coins no Console (PS).
 
 **E a maior queda do dia?**
-Sergiño Dest (86), -41.9% em 24h, a 25k coins.
+Couhaib Driouech (86), -19.1% em 24h, a 44k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 14 cartas em alta contra 13 em queda (média 0.04%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 12 cartas em alta contra 10 em queda (média 1.79%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

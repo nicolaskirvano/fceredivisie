@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:36:11.000Z
+pubDatetime: 2026-07-31T16:36:11.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 12.786 coins.
-- **Posição mais frequente:** CAM, com 4 cartas.
+- **Preço médio das 5 opções:** 12.550 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
 - **Faixa real:** 11.250 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -42,11 +42,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Mats Deijl | 88 | RB | Eredivisie | 14.000 coins | 0% |
 | Jari Litmanen | 88 | CAM | Eredivisie | 14.750 coins | +1.7% |
-| Ivan Perišić | 86 | RW | Eredivisie | 11.250 coins | 0% |
-| Kees Smit | 86 | CAM | Eredivisie | 12.500 coins | -11.7% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 14.500 coins | -5.4% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.250 coins | -2.2% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 14.250 coins | -10% |
 
 
 ## 📈 Destaques
@@ -55,16 +53,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mats Deijl (88, RB)** da Eredivisie, a apenas **14.000 coins**
-
 - **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Ivan Perišić (86, RW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **14.250 coins**
+
 
 ## Como distribuir a banca
-
-- **Defesa:** Mats Deijl (88, RB) por 14.000 coins é a referência de rating deste recorte.
 
 - **Meio:** Jari Litmanen (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 

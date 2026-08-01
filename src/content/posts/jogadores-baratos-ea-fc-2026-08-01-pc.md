@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:36:20.000Z
+pubDatetime: 2026-08-01T16:36:23.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 12.050 coins.
-- **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 11.250 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 11.812 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
+- **Faixa real:** 11.250 a 12.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,9 +42,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 11.500 coins | +9.1% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.750 coins | +8.7% |
-| Kees Smit | 86 | CAM | Eredivisie | 13.500 coins | +14.9% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 12.250 coins | +11.4% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12.500 coins | +8.7% |
 
 
 ## 📈 Destaques
@@ -53,11 +52,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins**
 
-- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **11.500 coins**
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **12.250 coins**
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.750 coins**
-
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.500 coins**
 
 
 ## Como distribuir a banca
@@ -81,7 +78,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Eredivisie em 01/08 — PC](/posts/melhores-investimentos-ea-fc-2026-08-01-pc/)
 - [Mercado EA FC em 01/08: Eredivisie — PC](/posts/mercado-ea-fc-2026-08-01-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

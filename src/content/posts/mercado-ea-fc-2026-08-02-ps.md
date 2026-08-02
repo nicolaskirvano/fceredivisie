@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:36:09.000Z
+pubDatetime: 2026-08-02T22:36:09.000Z
 title: "Mercado EA FC em 02/08: Eredivisie — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Couhaib Driouech (86, Eredivisie), com +41.4% em 24h, a 103k coins no Console (PS)."
+    a: "Dennis Man (86, Eredivisie), com +25.2% em 24h, a 45k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Tjaronn Chery (85), -25.3% em 24h, a 28k coins."
+    a: "Mats Deijl (88), -36.5% em 24h, a 20k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 15 cartas em alta contra 12 em queda (média 8.23%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 14 cartas em alta contra 13 em queda (média 2.66%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **02/08/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **15 valorizações** contra **12 quedas** entre as cartas relevantes, com média de **8.23%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **02/08/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **14 valorizações** contra **13 quedas** entre as cartas relevantes, com média de **2.66%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Couhaib Driouech (86) **+41.4%** · 🔴 **Maior baixa:** Tjaronn Chery (85) **-25.3%**
+> 🟢 **Maior alta:** Dennis Man (86) **+25.2%** · 🔴 **Maior baixa:** Mats Deijl (88) **-36.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Eredivisie — Console (PS)](/charts/mercado-ea-fc-2026-08-02-ps.svg)
 
@@ -35,23 +35,23 @@ Resumo de **02/08/2026** no Console (PS): mercado **em alta** — predominam as 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 66.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 55.6% entre as cartas que se moveram; o universo observado reúne 42 cartas.
-- **Concentração:** Eredivisie aparece em 15 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 61.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.9% entre as cartas que se moveram; o universo observado reúne 41 cartas.
+- **Concentração:** Eredivisie aparece em 18 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Couhaib Driouech | 86 | Eredivisie | 103k coins | +41.4% | +277.1% |
-| Mats Deijl | 88 | Eredivisie | 21k coins | +29.1% | +94.7% |
-| Park Ji Sung | 91 | Eredivisie | 74k coins | +18.5% | +24.2% |
-| Youri Baas | 84 | Eredivisie | 50k coins | +10% | +22.9% |
-| Luciano Valente | 87 | Eredivisie | 30k coins | +8.6% | +29.4% |
-| Jorthy Mokio | 86 | Eredivisie | 32k coins | +8.3% | 0% |
+| Dennis Man | 86 | Eredivisie | 45k coins | +25.2% | +113.1% |
+| Luciano Valente | 87 | Eredivisie | 24k coins | +21.5% | +52.4% |
+| Patrick van Aanholt | 85 | Eredivisie | 66k coins | +12.3% | +28% |
+| Youri Baas | 84 | Eredivisie | 55k coins | +10% | +17% |
+| Jorthy Mokio | 86 | Eredivisie | 32k coins | +9.2% | 0% |
+| Mohamed Ihattaren | 84 | Eredivisie | 48k coins | +7.2% | +17.7% |
 | Jizz Hornkamp | 83 | Eredivisie | 30k coins | +7.1% | 0% |
-| Josip Šutalo | 90 | Eredivisie | 42k coins | +5.6% | -29.2% |
-| Mohamed Ihattaren | 84 | Eredivisie | 44k coins | +5.6% | +15.9% |
+| Melle Meulensteen | 84 | Eredivisie | 48k coins | +5.6% | +8.6% |
+| Ayase Ueda | 80 | Eredivisie | 47k coins | +4.4% | -1.1% |
 
 
 ### Análise das altas
@@ -60,39 +60,42 @@ Resumo de **02/08/2026** no Console (PS): mercado **em alta** — predominam as 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Couhaib Driouech (86)** subiu **+41.4%** em 24h, a **103k coins** (faixa do dia: 54k–122k). Está +101% acima da média de 7 dias (aquecida).
+- **Dennis Man (86)** subiu **+25.2%** em 24h, a **45k coins** (faixa do dia: 33k–79k). Está +39% acima da média de 7 dias (aquecida).
 
-- **Mats Deijl (88)** subiu **+29.1%** em 24h, a **21k coins** (faixa do dia: 13.000–36k). Está +9% acima da média de 7 dias (aquecida).
+- **Luciano Valente (87)** subiu **+21.5%** em 24h, a **24k coins** (faixa do dia: 15.000–39k). Está em linha com a média de 7 dias (+3%).
 
-- **Park Ji Sung (91)** subiu **+18.5%** em 24h, a **74k coins** (faixa do dia: 55k–150k). Está +19% acima da média de 7 dias (aquecida).
+- **Patrick van Aanholt (85)** subiu **+12.3%** em 24h, a **66k coins** (faixa do dia: 50k–100k). Está +17% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tjaronn Chery | 85 | Eredivisie | 28k coins | -25.3% | -12.5% |
-| Kento Shiogai | 83 | Eredivisie | 66k coins | -25% | -20.9% |
-| Givairo Read | 86 | Eredivisie | 25k coins | -15.7% | -26.2% |
-| Troy Parrott | 84 | Eredivisie | 55k coins | -10% | -12.6% |
-| Joël Drommel | 84 | Eredivisie | 48k coins | -9.4% | -3.5% |
-| Mauro Júnior | 86 | Eredivisie | 48k coins | -5.8% | -15.9% |
+| Mats Deijl | 88 | Eredivisie | 20k coins | -36.5% | +35.6% |
+| Park Ji Sung | 91 | Eredivisie | 91k coins | -31.9% | +33.1% |
+| Tjaronn Chery | 85 | Eredivisie | 29k coins | -21.5% | -4.9% |
+| Givairo Read | 86 | Eredivisie | 28k coins | -18.6% | -31.3% |
+| Troy Parrott | 84 | Eredivisie | 45k coins | -17.7% | -2.7% |
+| Lewis Holtby | 86 | Eredivisie | 41k coins | -14.7% | +17.3% |
+| Mauro Júnior | 86 | Eredivisie | 45k coins | -7.7% | -15.9% |
+| Jorthy Mokio | 84 | Eredivisie | 45k coins | -4.8% | +5.9% |
+| Steven Berghuis | 86 | Eredivisie | 48k coins | -4% | +29.7% |
 
 
 ### Análise das baixas
 
-- **Tjaronn Chery (85)** caiu **-25.3%** em 24h, a **28k coins** (faixa do dia: 24k–38k). Está -10% abaixo da média de 7 dias (descontada).
+- **Mats Deijl (88)** caiu **-36.5%** em 24h, a **20k coins** (faixa do dia: 16.750–36k). Está em linha com a média de 7 dias (+4%).
 
-- **Kento Shiogai (83)** caiu **-25%** em 24h, a **66k coins** (faixa do dia: 45k–68k). Está em linha com a média de 7 dias (+8%).
+- **Park Ji Sung (91)** caiu **-31.9%** em 24h, a **91k coins** (faixa do dia: 69k–144k). Está +47% acima da média de 7 dias (aquecida).
 
-- **Givairo Read (86)** caiu **-15.7%** em 24h, a **25k coins** (faixa do dia: 11.750–44k). Está -28% abaixo da média de 7 dias (descontada).
+- **Tjaronn Chery (85)** caiu **-21.5%** em 24h, a **29k coins** (faixa do dia: 24k–38k). Está em linha com a média de 7 dias (-6%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Couhaib Driouech já avançou 41.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Dennis Man já avançou 25.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tjaronn Chery recuou -25.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Mats Deijl recuou -36.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -104,13 +107,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Couhaib Driouech (86, Eredivisie), com +41.4% em 24h, a 103k coins no Console (PS).
+Dennis Man (86, Eredivisie), com +25.2% em 24h, a 45k coins no Console (PS).
 
 **E a maior queda do dia?**
-Tjaronn Chery (85), -25.3% em 24h, a 28k coins.
+Mats Deijl (88), -36.5% em 24h, a 20k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 15 cartas em alta contra 12 em queda (média 8.23%).
+Hoje o mercado está em alta — predominam as valorizações, com 14 cartas em alta contra 13 em queda (média 2.66%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

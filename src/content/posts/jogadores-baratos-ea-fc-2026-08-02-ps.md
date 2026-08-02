@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:36:12.000Z
+pubDatetime: 2026-08-02T22:36:12.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 11.150 coins.
+- **Preço médio das 6 opções:** 11.833 coins.
 - **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 10.750 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.250 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,9 +42,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 11.000 coins | -12% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 10.750 coins | -8.5% |
-| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | 0% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 11.250 coins | -8.2% |
+| Ricardo Pepi | 87 | ST | Eredivisie | 13.250 coins | -3% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.750 coins | +2.2% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12.250 coins | +11.4% |
 
 
 ## 📈 Destaques
@@ -53,11 +54,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins**
 
-- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **10.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ricardo Pepi (87, ST)** da Eredivisie, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ivan Perišić (86, RW)** da Eredivisie, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ivan Perišić (86, RW)** da Eredivisie, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca

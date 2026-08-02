@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:36:17.000Z
+pubDatetime: 2026-08-02T19:36:19.000Z
 title: "Mercado EA FC em 02/08: Eredivisie — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Luciano Valente (87, Eredivisie), com +56.2% em 24h, a 28k coins no PC."
+    a: "Ricardo Pepi (87, Eredivisie), com +33.6% em 24h, a 36k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Anis Hadj-Moussa (86), -34.5% em 24h, a 42k coins."
+    a: "Josip Šutalo (90), -47.9% em 24h, a 32k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 20 cartas em alta contra 9 em queda (média 12.17%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 17 cartas em alta contra 7 em queda (média 11.67%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **02/08/2026** no PC: mercado **em alta** — predominam as valorizações. **20 valorizações** contra **9 quedas** entre as cartas relevantes, com média de **12.17%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **02/08/2026** no PC: mercado **em alta** — predominam as valorizações. **17 valorizações** contra **7 quedas** entre as cartas relevantes, com média de **11.67%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Luciano Valente (87) **+56.2%** · 🔴 **Maior baixa:** Anis Hadj-Moussa (86) **-34.5%**
+> 🟢 **Maior alta:** Ricardo Pepi (87) **+33.6%** · 🔴 **Maior baixa:** Josip Šutalo (90) **-47.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Eredivisie — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **02/08/2026** no PC: mercado **em alta** — predominam as valorizaç
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 69.0% entre as cartas que se moveram; o universo observado reúne 46 cartas.
-- **Concentração:** Eredivisie aparece em 17 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 81.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 70.8% entre as cartas que se moveram; o universo observado reúne 42 cartas.
+- **Concentração:** Eredivisie aparece em 14 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Luciano Valente | 87 | Eredivisie | 28k coins | +56.2% | +62.9% |
-| Park Ji Sung | 91 | Eredivisie | 98k coins | +46% | +38.9% |
-| Ko Itakura | 88 | Eredivisie | 42k coins | +41.7% | +157.6% |
-| Dennis Man | 86 | Eredivisie | 50k coins | +26.1% | +33.3% |
-| Youri Baas | 84 | Eredivisie | 42k coins | +25% | +11.1% |
+| Ricardo Pepi | 87 | Eredivisie | 36k coins | +33.6% | -14.9% |
 | Kento Shiogai | 83 | Eredivisie | 109k coins | +21.1% | -0.9% |
-| Mohamed Ihattaren | 84 | Eredivisie | 48k coins | +19.1% | +16.9% |
+| Jorthy Mokio | 84 | Eredivisie | 52k coins | +17% | 0% |
 | Ayase Ueda | 84 | Eredivisie | 40k coins | +15.1% | -5.3% |
-| Melle Meulensteen | 84 | Eredivisie | 47k coins | +10.2% | -6.4% |
-| Victor Edvardsen | 84 | Eredivisie | 28k coins | +7.8% | +27.9% |
+| Finn Azaz | 83 | Eredivisie | 32k coins | +10.2% | +10.2% |
+| Dennis Man | 86 | Eredivisie | 47k coins | +6.7% | +10.3% |
+| Steven Berghuis | 86 | Eredivisie | 62k coins | +6.5% | +19.8% |
+| Victor Edvardsen | 84 | Eredivisie | 27k coins | +5.9% | +25.6% |
+| Givairo Read | 86 | Eredivisie | 23k coins | +5.8% | +13.8% |
+| Ahmetcan Kaplan | 88 | Eredivisie | 38k coins | +4.9% | +134.4% |
 
 
 ### Análise das altas
@@ -61,40 +61,37 @@ Resumo de **02/08/2026** no PC: mercado **em alta** — predominam as valorizaç
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Luciano Valente (87)** subiu **+56.2%** em 24h, a **28k coins** (faixa do dia: 15.500–35k). Está +72% acima da média de 7 dias (aquecida).
+- **Ricardo Pepi (87)** subiu **+33.6%** em 24h, a **36k coins** (faixa do dia: 16.000–42k). Está +25% acima da média de 7 dias (aquecida).
 
-- **Park Ji Sung (91)** subiu **+46%** em 24h, a **98k coins** (faixa do dia: 62k–109k). Está +10% acima da média de 7 dias (aquecida).
+- **Kento Shiogai (83)** subiu **+21.1%** em 24h, a **109k coins** (faixa do dia: 109k–109k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Ko Itakura (88)** subiu **+41.7%** em 24h, a **42k coins** (faixa do dia: 17.500–42k). Está +98% acima da média de 7 dias (aquecida).
+- **Jorthy Mokio (84)** subiu **+17%** em 24h, a **52k coins** (faixa do dia: 35k–55k). Está em linha com a média de 7 dias (+6%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anis Hadj-Moussa | 86 | Eredivisie | 42k coins | -34.5% | -11.8% |
-| Josip Šutalo | 90 | Eredivisie | 48k coins | -33.8% | -2% |
-| Quinten Timber | 85 | Eredivisie | 33k coins | -31.5% | +20.5% |
-| Givairo Read | 86 | Eredivisie | 23k coins | -10.8% | +13.8% |
-| Ismael Saibari | 84 | Eredivisie | 38k coins | -9.5% | -10.7% |
-| Ayase Ueda | 80 | Eredivisie | 44k coins | -6.8% | -6.3% |
-| Mauro Júnior | 86 | Eredivisie | 47k coins | -4% | +12.9% |
+| Josip Šutalo | 90 | Eredivisie | 32k coins | -47.9% | +150% |
+| Jorthy Mokio | 86 | Eredivisie | 33k coins | -16.1% | -10.6% |
+| Ayase Ueda | 80 | Eredivisie | 44k coins | -8.4% | -7.9% |
+| Melle Meulensteen | 84 | Eredivisie | 40k coins | -7.5% | -21.4% |
 
 
 ### Análise das baixas
 
-- **Anis Hadj-Moussa (86)** caiu **-34.5%** em 24h, a **42k coins** (faixa do dia: 40k–73k). Está -26% abaixo da média de 7 dias (descontada).
+- **Josip Šutalo (90)** caiu **-47.9%** em 24h, a **32k coins** (faixa do dia: 32k–85k). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Josip Šutalo (90)** caiu **-33.8%** em 24h, a **48k coins** (faixa do dia: 48k–85k). Está -20% abaixo da média de 7 dias (descontada).
+- **Jorthy Mokio (86)** caiu **-16.1%** em 24h, a **33k coins** (faixa do dia: 28k–40k). Está em linha com a média de 7 dias (-6%).
 
-- **Quinten Timber (85)** caiu **-31.5%** em 24h, a **33k coins** (faixa do dia: 33k–55k). Está em linha com a média de 7 dias (+7%).
+- **Ayase Ueda (80)** caiu **-8.4%** em 24h, a **44k coins** (faixa do dia: 40k–48k). Está em linha com a média de 7 dias (+5%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Luciano Valente já avançou 56.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Ricardo Pepi já avançou 33.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Anis Hadj-Moussa recuou -34.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Josip Šutalo recuou -47.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -106,13 +103,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Luciano Valente (87, Eredivisie), com +56.2% em 24h, a 28k coins no PC.
+Ricardo Pepi (87, Eredivisie), com +33.6% em 24h, a 36k coins no PC.
 
 **E a maior queda do dia?**
-Anis Hadj-Moussa (86), -34.5% em 24h, a 42k coins.
+Josip Šutalo (90), -47.9% em 24h, a 32k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 20 cartas em alta contra 9 em queda (média 12.17%).
+Hoje o mercado está em alta — predominam as valorizações, com 17 cartas em alta contra 7 em queda (média 11.67%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

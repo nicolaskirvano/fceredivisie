@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:36:09.000Z
+pubDatetime: 2026-08-02T19:36:10.000Z
 title: "Investimentos EA FC: Eredivisie em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Ko Itakura (88, Eredivisie) lidera, com +62.3% em 7 dias a 27k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ko Itakura (88, Eredivisie) lidera, com +43.3% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ko Itakura (88) acumula **+62.3% em 7 dias** a 27k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ko Itakura (88) acumula **+43.3% em 7 dias** a 42k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.4% em 24h** e **+17.9% em 7 dias**.
-- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.0% em 24h** e **+24.2% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ko Itakura | 88 | Eredivisie | 27k coins | +38.3% | +62.3% | Esticada |
-| Youri Baas | 84 | Eredivisie | 56k coins | +4.7% | +24.7% | Entrada a observar |
-| Mohamed Ihattaren | 84 | Eredivisie | 54k coins | +5.9% | +11.1% | Momentum moderado |
-| Troy Parrott | 84 | Eredivisie | 40k coins | +31% | +6.8% | Esticada |
+| Ko Itakura | 88 | Eredivisie | 42k coins | +28% | +43.3% | Esticada |
+| Luciano Valente | 87 | Eredivisie | 30k coins | +8.6% | +29.4% | Momentum moderado |
+| Park Ji Sung | 91 | Eredivisie | 74k coins | +18.5% | +24.2% | Momentum moderado |
+| Youri Baas | 84 | Eredivisie | 50k coins | +10% | +22.9% | Momentum moderado |
+| Mohamed Ihattaren | 84 | Eredivisie | 44k coins | +5.6% | +15.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ko Itakura (88)** — 27k coins, **+62.3% em 7 dias** (+38.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ko Itakura (88)** — 42k coins, **+43.3% em 7 dias** (+28% em 24h). Preço +89% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Youri Baas (84)** — 56k coins, **+24.7% em 7 dias** (+4.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luciano Valente (87)** — 30k coins, **+29.4% em 7 dias** (+8.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohamed Ihattaren (84)** — 54k coins, **+11.1% em 7 dias** (+5.9% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Park Ji Sung (91)** — 74k coins, **+24.2% em 7 dias** (+18.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Troy Parrott (84)** — 40k coins, **+6.8% em 7 dias** (+31% em 24h). Preço -20% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Youri Baas (84)** — 50k coins, **+22.9% em 7 dias** (+10% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Mohamed Ihattaren (84)** — 44k coins, **+15.9% em 7 dias** (+5.6% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +78,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Ko Itakura (88, Eredivisie) lidera, com +62.3% em 7 dias a 27k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ko Itakura (88, Eredivisie) lidera, com +43.3% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

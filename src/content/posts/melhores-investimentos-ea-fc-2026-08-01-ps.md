@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:36:09.000Z
+pubDatetime: 2026-08-02T01:36:11.000Z
 title: "Investimentos EA FC: Eredivisie em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.0% em 24h** e **+30.4% em 7 dias**.
-- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+12.0% em 24h** e **+37.5% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Eredivisie** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,23 +44,23 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Quinten Timber | 85 | Eredivisie | 33k coins | +12% | +79.5% | Esticada |
-| Mika Godts | 87 | Eredivisie | 48k coins | +36.1% | +78.2% | Esticada |
-| Paul Wanner | 84 | Eredivisie | 55k coins | +24.2% | +30.4% | Esticada |
-| Joël Drommel | 84 | Eredivisie | 52k coins | +10.5% | +9.4% | Momentum moderado |
-| Troy Parrott | 84 | Eredivisie | 49k coins | +8.3% | +8.3% | Momentum moderado |
+| Ricardo Pepi | 87 | Eredivisie | 20k coins | +8% | +50% | Momentum moderado |
+| Paul Wanner | 84 | Eredivisie | 55k coins | +14.6% | +37.5% | Momentum moderado |
+| Mauro Júnior | 86 | Eredivisie | 45k coins | +13% | +22% | Momentum moderado |
+| Jorthy Mokio | 84 | Eredivisie | 48k coins | +5.8% | +13.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Quinten Timber (85)** — 33k coins, **+79.5% em 7 dias** (+12% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quinten Timber (85)** — 33k coins, **+79.5% em 7 dias** (+12% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mika Godts (87)** — 48k coins, **+78.2% em 7 dias** (+36.1% em 24h). Preço +120% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ricardo Pepi (87)** — 20k coins, **+50% em 7 dias** (+8% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paul Wanner (84)** — 55k coins, **+30.4% em 7 dias** (+24.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paul Wanner (84)** — 55k coins, **+37.5% em 7 dias** (+14.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Joël Drommel (84)** — 52k coins, **+9.4% em 7 dias** (+10.5% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mauro Júnior (86)** — 45k coins, **+22% em 7 dias** (+13% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Troy Parrott (84)** — 49k coins, **+8.3% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jorthy Mokio (84)** — 48k coins, **+13.6% em 7 dias** (+5.8% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -76,7 +76,6 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Eredivisie em 01/08 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-08-01-ps/)
 - [Mercado EA FC em 01/08: Eredivisie — Console (PS)](/posts/mercado-ea-fc-2026-08-01-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

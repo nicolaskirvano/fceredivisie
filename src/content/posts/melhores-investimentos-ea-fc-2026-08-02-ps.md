@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:22:47.000Z
+pubDatetime: 2026-08-02T10:36:09.000Z
 title: "Investimentos EA FC: Eredivisie em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.3% em 24h** e **+24.9% em 7 dias**.
-- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+5.4% em 24h** e **+32.9% em 7 dias**.
+- **3 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 10 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,12 +44,14 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Lewis Holtby | 86 | Eredivisie | 50k coins | +14.4% | +77.6% | Esticada |
-| Couhaib Driouech | 86 | Eredivisie | 54k coins | +34.6% | +63.9% | Esticada |
+| Dirk Kuyt | 88 | Eredivisie | 35k coins | +4.2% | +63.9% | Esticada |
+| Couhaib Driouech | 86 | Eredivisie | 66k coins | +38% | +63.9% | Esticada |
+| Quinten Timber | 85 | Eredivisie | 38k coins | +3.1% | +52.3% | Momentum moderado |
 | Steven Berghuis | 86 | Eredivisie | 60k coins | +10.1% | +39.5% | Momentum moderado |
 | Paul Wanner | 84 | Eredivisie | 50k coins | +5.2% | +26.2% | Momentum moderado |
 | Jorthy Mokio | 84 | Eredivisie | 55k coins | +2.9% | +23.5% | Entrada a observar |
-| Ayase Ueda | 84 | Eredivisie | 45k coins | +4.7% | +20% | Entrada a observar |
-| Youri Baas | 84 | Eredivisie | 54k coins | +7% | +18.9% | Momentum moderado |
+| Ayase Ueda | 84 | Eredivisie | 45k coins | +1.7% | +20% | Entrada a observar |
+| Youri Baas | 84 | Eredivisie | 54k coins | +7% | +13.8% | Momentum moderado |
 | Melle Meulensteen | 84 | Eredivisie | 48k coins | +5.6% | +10.5% | Momentum moderado |
 
 
@@ -57,13 +59,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Lewis Holtby (86)** — 50k coins, **+77.6% em 7 dias** (+14.4% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Couhaib Driouech (86)** — 54k coins, **+63.9% em 7 dias** (+34.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dirk Kuyt (88)** — 35k coins, **+63.9% em 7 dias** (+4.2% em 24h). Preço +91% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Couhaib Driouech (86)** — 66k coins, **+63.9% em 7 dias** (+38% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Quinten Timber (85)** — 38k coins, **+52.3% em 7 dias** (+3.1% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Steven Berghuis (86)** — 60k coins, **+39.5% em 7 dias** (+10.1% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Paul Wanner (84)** — 50k coins, **+26.2% em 7 dias** (+5.2% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Jorthy Mokio (84)** — 55k coins, **+23.5% em 7 dias** (+2.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

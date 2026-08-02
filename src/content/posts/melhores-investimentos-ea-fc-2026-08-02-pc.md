@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:22:57.000Z
+pubDatetime: 2026-08-02T10:36:19.000Z
 title: "Investimentos EA FC: Eredivisie em 02/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+27.5% em 7 dias**.
-- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.3% em 24h** e **+20.7% em 7 dias**.
+- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,9 +45,10 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Wout Weghorst | 85 | Eredivisie | 81k coins | +20.9% | +71.4% | Esticada |
 | Victor Edvardsen | 84 | Eredivisie | 28k coins | +7.8% | +27.9% | Momentum moderado |
-| Steven Berghuis | 86 | Eredivisie | 65k coins | +11.1% | +27.5% | Momentum moderado |
+| Steven Berghuis | 86 | Eredivisie | 65k coins | +11.1% | +22.6% | Momentum moderado |
 | Mohamed Ihattaren | 84 | Eredivisie | 48k coins | +19.5% | +18.8% | Momentum moderado |
-| Mauro Júnior | 86 | Eredivisie | 50k coins | +1% | +9.9% | Entrada a observar |
+| Youri Baas | 84 | Eredivisie | 48k coins | +25% | +11.1% | Esticada |
+| Mauro Júnior | 86 | Eredivisie | 50k coins | +2.6% | +9.9% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
@@ -56,11 +57,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Victor Edvardsen (84)** — 28k coins, **+27.9% em 7 dias** (+7.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Berghuis (86)** — 65k coins, **+27.5% em 7 dias** (+11.1% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Berghuis (86)** — 65k coins, **+22.6% em 7 dias** (+11.1% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Mohamed Ihattaren (84)** — 48k coins, **+18.8% em 7 dias** (+19.5% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mauro Júnior (86)** — 50k coins, **+9.9% em 7 dias** (+1% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Youri Baas (84)** — 48k coins, **+11.1% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

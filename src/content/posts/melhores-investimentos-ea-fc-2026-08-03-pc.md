@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T16:36:19.000Z
+pubDatetime: 2026-08-03T19:36:18.000Z
 title: "Investimentos EA FC: Eredivisie em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Quinten Timber (85, Eredivisie) lidera, com +57.4% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ricardo Pepi (87, Eredivisie) lidera, com +48.5% em 7 dias a 36k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Quinten Timber (85) acumula **+57.4% em 7 dias** a 42k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ricardo Pepi (87) acumula **+48.5% em 7 dias** a 36k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.3% em 24h** e **+47.3% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+6.9% em 24h** e **+19.6% em 7 dias**.
+- **0 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Eredivisie** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Quinten Timber | 85 | Eredivisie | 42k coins | +29.8% | +57.4% | Esticada |
-| Jorthy Mokio | 86 | Eredivisie | 38k coins | +20% | +52.8% | Esticada |
-| Ricardo Pepi | 87 | Eredivisie | 42k coins | +13.3% | +47.3% | Momentum moderado |
-| Melle Meulensteen | 84 | Eredivisie | 52k coins | +12.3% | +22.8% | Momentum moderado |
-| Couhaib Driouech | 86 | Eredivisie | 120k coins | +12.4% | +6.7% | Momentum moderado |
+| Ricardo Pepi | 87 | Eredivisie | 36k coins | +4.9% | +48.5% | Momentum moderado |
+| Jorthy Mokio | 86 | Eredivisie | 35k coins | +6.9% | +30.8% | Momentum moderado |
+| Ivan Perišić | 86 | Eredivisie | 16.750 coins | +11.7% | +19.6% | Momentum moderado |
+| Melle Meulensteen | 84 | Eredivisie | 47k coins | +8.1% | +10% | Momentum moderado |
+| Tjaronn Chery | 85 | Eredivisie | 48k coins | +6.7% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Quinten Timber (85)** — 42k coins, **+57.4% em 7 dias** (+29.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ricardo Pepi (87)** — 36k coins, **+48.5% em 7 dias** (+4.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jorthy Mokio (86)** — 38k coins, **+52.8% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jorthy Mokio (86)** — 35k coins, **+30.8% em 7 dias** (+6.9% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ricardo Pepi (87)** — 42k coins, **+47.3% em 7 dias** (+13.3% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Perišić (86)** — 16.750 coins, **+19.6% em 7 dias** (+11.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Melle Meulensteen (84)** — 52k coins, **+22.8% em 7 dias** (+12.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Melle Meulensteen (84)** — 47k coins, **+10% em 7 dias** (+8.1% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Couhaib Driouech (86)** — 120k coins, **+6.7% em 7 dias** (+12.4% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tjaronn Chery (85)** — 48k coins, **+5.6% em 7 dias** (+6.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Quinten Timber (85, Eredivisie) lidera, com +57.4% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ricardo Pepi (87, Eredivisie) lidera, com +48.5% em 7 dias a 36k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

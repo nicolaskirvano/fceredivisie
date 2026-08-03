@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:23:44.000Z
+pubDatetime: 2026-08-03T10:36:10.000Z
 title: "Investimentos EA FC: Eredivisie em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Victor Edvardsen (84, Eredivisie) lidera, com +87.5% em 7 dias a 15.500 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Steven Berghuis (86, Eredivisie) lidera, com +70.3% em 7 dias a 63k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Victor Edvardsen (84) acumula **+87.5% em 7 dias** a 15.500 coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Steven Berghuis (86) acumula **+70.3% em 7 dias** a 63k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+24.3% em 24h** e **+31.7% em 7 dias**.
-- **7 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+21.5% em 24h** e **+18.2% em 7 dias**.
+- **4 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Victor Edvardsen | 84 | Eredivisie | 15.500 coins | +11.1% | +87.5% | Esticada |
-| Steven Berghuis | 86 | Eredivisie | 63k coins | +5% | +72.6% | Esticada |
-| Dennis Man | 86 | Eredivisie | 76k coins | +29.3% | +68.7% | Esticada |
-| Mohamed Ihattaren | 84 | Eredivisie | 55k coins | +30.2% | +34.1% | Esticada |
-| Tjaronn Chery | 85 | Eredivisie | 38k coins | +27.1% | +29.3% | Esticada |
-| Youri Baas | 84 | Eredivisie | 65k coins | +21.5% | +18.2% | Esticada |
+| Steven Berghuis | 86 | Eredivisie | 63k coins | +5% | +70.3% | Esticada |
+| Mohamed Ihattaren | 84 | Eredivisie | 50k coins | +30.2% | +29.4% | Esticada |
+| Youri Baas | 84 | Eredivisie | 59k coins | +21.5% | +18.2% | Esticada |
 | Joël Drommel | 84 | Eredivisie | 60k coins | +37.1% | +10.1% | Esticada |
 | Melle Meulensteen | 84 | Eredivisie | 48k coins | +5.6% | +8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Victor Edvardsen (84)** — 15.500 coins, **+87.5% em 7 dias** (+11.1% em 24h). Preço -41% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Berghuis (86)** — 63k coins, **+70.3% em 7 dias** (+5% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Berghuis (86)** — 63k coins, **+72.6% em 7 dias** (+5% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mohamed Ihattaren (84)** — 50k coins, **+29.4% em 7 dias** (+30.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dennis Man (86)** — 76k coins, **+68.7% em 7 dias** (+29.3% em 24h). Preço +118% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Youri Baas (84)** — 59k coins, **+18.2% em 7 dias** (+21.5% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohamed Ihattaren (84)** — 55k coins, **+34.1% em 7 dias** (+30.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joël Drommel (84)** — 60k coins, **+10.1% em 7 dias** (+37.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tjaronn Chery (85)** — 38k coins, **+29.3% em 7 dias** (+27.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Melle Meulensteen (84)** — 48k coins, **+8% em 7 dias** (+5.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Victor Edvardsen (84, Eredivisie) lidera, com +87.5% em 7 dias a 15.500 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Steven Berghuis (86, Eredivisie) lidera, com +70.3% em 7 dias a 63k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

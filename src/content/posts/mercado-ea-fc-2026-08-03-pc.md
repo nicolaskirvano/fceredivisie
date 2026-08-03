@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:23:53.000Z
+pubDatetime: 2026-08-03T10:36:19.000Z
 title: "Mercado EA FC em 03/08: Eredivisie — PC"
 draft: false
 featured: true
@@ -13,18 +13,18 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Luciano Valente (87, Eredivisie), com +55.3% em 24h, a 28k coins no PC."
+    a: "Luciano Valente (87, Eredivisie), com +55.3% em 24h, a 30k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Wout Weghorst (85), -36.4% em 24h, a 52k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 15 cartas em alta contra 13 em queda (média 6.68%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 15 cartas em alta contra 15 em queda (média 4.49%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**03/08/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **15 subiram**, **13 caíram** (80+ e 5k+ coins), média de **6.68%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**03/08/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **15 subiram**, **15 caíram** (80+ e 5k+ coins), média de **4.49%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Luciano Valente (87) **+55.3%** · 🔴 **Maior baixa:** Wout Weghorst (85) **-36.4%**
 
@@ -36,22 +36,23 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 91.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.6% entre as cartas que se moveram; o universo observado reúne 49 cartas.
-- **Concentração:** Eredivisie aparece em 14 dos 20 maiores movimentos listados.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 52 cartas.
+- **Concentração:** Eredivisie aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Luciano Valente | 87 | Eredivisie | 28k coins | +55.3% | +81.5% |
+| Luciano Valente | 87 | Eredivisie | 30k coins | +55.3% | +84.4% |
 | Ko Itakura | 88 | Eredivisie | 33k coins | +42.7% | +136.2% |
 | Melle Meulensteen | 84 | Eredivisie | 47k coins | +33.6% | +9.4% |
 | Quinten Timber | 85 | Eredivisie | 48k coins | +28.5% | +76.4% |
+| Paul Wanner | 84 | Eredivisie | 48k coins | +20% | +0.6% |
 | Ricardo Pepi | 87 | Eredivisie | 40k coins | +18.1% | +35.8% |
 | Ismael Saibari | 84 | Eredivisie | 38k coins | +11.9% | 0% |
+| Couhaib Driouech | 86 | Eredivisie | 99k coins | +9.4% | +1.5% |
 | Noah Naujoks | 83 | Eredivisie | 55k coins | +7.8% | +20.2% |
 | Jorthy Mokio | 86 | Eredivisie | 42k coins | +5.6% | +70% |
-| Ayase Ueda | 80 | Eredivisie | 48k coins | +4.4% | +0.5% |
 
 
 ### Análise das altas
@@ -60,9 +61,9 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Luciano Valente (87)** subiu **+55.3%** em 24h, a **28k coins** (faixa do dia: 17.000–34k). Está +60% acima da média de 7 dias (aquecida).
+- **Luciano Valente (87)** subiu **+55.3%** em 24h, a **30k coins** (faixa do dia: 17.000–34k). Está +65% acima da média de 7 dias (aquecida).
 
-- **Ko Itakura (88)** subiu **+42.7%** em 24h, a **33k coins** (faixa do dia: 17.500–42k). Está +41% acima da média de 7 dias (aquecida).
+- **Ko Itakura (88)** subiu **+42.7%** em 24h, a **33k coins** (faixa do dia: 17.500–42k). Está +40% acima da média de 7 dias (aquecida).
 
 - **Melle Meulensteen (84)** subiu **+33.6%** em 24h, a **47k coins** (faixa do dia: 35k–52k). Está em linha com a média de 7 dias (+0%).
 
@@ -72,19 +73,24 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Wout Weghorst | 85 | Eredivisie | 52k coins | -36.4% | -23.1% |
+| Sergiño Dest | 86 | Eredivisie | 150k coins | -16.7% | -11.8% |
+| Mohamed Ihattaren | 84 | Eredivisie | 39k coins | -16.3% | -15.9% |
 | Givairo Read | 86 | Eredivisie | 20k coins | -12.1% | +56.9% |
 | Anis Hadj-Moussa | 86 | Eredivisie | 38k coins | -6.5% | -30.3% |
 | Victor Edvardsen | 84 | Eredivisie | 26k coins | -5.5% | -7.1% |
+| Tjaronn Chery | 85 | Eredivisie | 42k coins | -5.1% | -6.1% |
 | Mauro Júnior | 86 | Eredivisie | 48k coins | -4.5% | +2.7% |
+| Park Ji Sung | 91 | Eredivisie | 104k coins | -3.7% | +39.6% |
+| Steven Berghuis | 86 | Eredivisie | 61k coins | -3.1% | +40% |
 
 
 ### Análise das baixas
 
 - **Wout Weghorst (85)** caiu **-36.4%** em 24h, a **52k coins** (faixa do dia: 52k–81k). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Givairo Read (86)** caiu **-12.1%** em 24h, a **20k coins** (faixa do dia: 16.500–35k). Está em linha com a média de 7 dias (-2%).
+- **Sergiño Dest (86)** caiu **-16.7%** em 24h, a **150k coins** (faixa do dia: 68k–150k). Está +38% acima da média de 7 dias (aquecida).
 
-- **Anis Hadj-Moussa (86)** caiu **-6.5%** em 24h, a **38k coins** (faixa do dia: 14.750–48k). Está -30% abaixo da média de 7 dias (descontada).
+- **Mohamed Ihattaren (84)** caiu **-16.3%** em 24h, a **39k coins** (faixa do dia: 32k–48k). Está -14% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -103,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Luciano Valente (87, Eredivisie), com +55.3% em 24h, a 28k coins no PC.
+Luciano Valente (87, Eredivisie), com +55.3% em 24h, a 30k coins no PC.
 
 **E a maior queda do dia?**
 Wout Weghorst (85), -36.4% em 24h, a 52k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 15 cartas em alta contra 13 em queda (média 6.68%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 15 cartas em alta contra 15 em queda (média 4.49%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

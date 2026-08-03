@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:23:55.000Z
+pubDatetime: 2026-08-03T10:36:20.000Z
 title: "Investimentos EA FC: Eredivisie em 03/08 — PC"
 draft: false
 featured: true

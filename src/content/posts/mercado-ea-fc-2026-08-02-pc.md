@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:36:18.000Z
+pubDatetime: 2026-08-03T01:36:19.000Z
 title: "Mercado EA FC em 02/08: Eredivisie — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Dirk Kuyt (88, Eredivisie), com +30.9% em 24h, a 29k coins no PC."
+    a: "Park Ji Sung (91, Eredivisie), com +54.4% em 24h, a 105k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Mauro Júnior (86), -14% em 24h, a 43k coins."
+    a: "Dennis Man (86), -16.5% em 24h, a 58k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 16 cartas em alta contra 10 em queda (média 4.43%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 14 cartas em alta contra 8 em queda (média 5.31%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **02/08/2026** no PC: mercado **em alta** — predominam as valorizações. **16 valorizações** contra **10 quedas** entre as cartas relevantes, com média de **4.43%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **02/08/2026** no PC: mercado **em alta** — predominam as valorizações. **14 valorizações** contra **8 quedas** entre as cartas relevantes, com média de **5.31%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Dirk Kuyt (88) **+30.9%** · 🔴 **Maior baixa:** Mauro Júnior (86) **-14%**
+> 🟢 **Maior alta:** Park Ji Sung (91) **+54.4%** · 🔴 **Maior baixa:** Dennis Man (86) **-16.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Eredivisie — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,21 @@ Resumo de **02/08/2026** no PC: mercado **em alta** — predominam as valorizaç
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 44.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 61.5% entre as cartas que se moveram; o universo observado reúne 44 cartas.
+- **Amplitude do dia:** 70.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 63.6% entre as cartas que se moveram; o universo observado reúne 48 cartas.
 - **Concentração:** Eredivisie aparece em 12 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dirk Kuyt | 88 | Eredivisie | 29k coins | +30.9% | +78.3% |
-| Ricardo Pepi | 87 | Eredivisie | 32k coins | +21.5% | -20.2% |
-| Ayase Ueda | 80 | Eredivisie | 48k coins | +20.3% | +0.5% |
-| Ayase Ueda | 84 | Eredivisie | 40k coins | +15.1% | -5.9% |
-| Steven Berghuis | 86 | Eredivisie | 51k coins | +10.2% | +30.1% |
-| Finn Azaz | 83 | Eredivisie | 32k coins | +10.2% | +10.2% |
-| Quinten Timber | 85 | Eredivisie | 54k coins | +8.5% | +92.9% |
-| Tjaronn Chery | 85 | Eredivisie | 48k coins | +6% | -2% |
-| Sergiño Dest | 86 | Eredivisie | 110k coins | +6% | -13.7% |
-| Victor Edvardsen | 84 | Eredivisie | 26k coins | +5.9% | +25.6% |
+| Park Ji Sung | 91 | Eredivisie | 105k coins | +54.4% | +48.9% |
+| Ko Itakura | 88 | Eredivisie | 42k coins | +41.7% | +157.6% |
+| Dirk Kuyt | 88 | Eredivisie | 27k coins | +30.2% | +62.3% |
+| Quinten Timber | 85 | Eredivisie | 55k coins | +17.6% | +96.4% |
+| Melle Meulensteen | 84 | Eredivisie | 47k coins | +6.2% | +9.4% |
+| Victor Edvardsen | 84 | Eredivisie | 27k coins | +5.9% | -3.6% |
+| Jorthy Mokio | 86 | Eredivisie | 42k coins | +5.6% | +21.4% |
 
 
 ### Análise das altas
@@ -61,33 +58,38 @@ Resumo de **02/08/2026** no PC: mercado **em alta** — predominam as valorizaç
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Dirk Kuyt (88)** subiu **+30.9%** em 24h, a **29k coins** (faixa do dia: 11.000–35k). Está +19% acima da média de 7 dias (aquecida).
+- **Park Ji Sung (91)** subiu **+54.4%** em 24h, a **105k coins** (faixa do dia: 71k–109k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Ricardo Pepi (87)** subiu **+21.5%** em 24h, a **32k coins** (faixa do dia: 16.000–42k). Está +11% acima da média de 7 dias (aquecida).
+- **Ko Itakura (88)** subiu **+41.7%** em 24h, a **42k coins** (faixa do dia: 17.500–42k). Está +89% acima da média de 7 dias (aquecida).
 
-- **Ayase Ueda (80)** subiu **+20.3%** em 24h, a **48k coins** (faixa do dia: 40k–48k). Está +15% acima da média de 7 dias (aquecida).
+- **Dirk Kuyt (88)** subiu **+30.2%** em 24h, a **27k coins** (faixa do dia: 18.500–35k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Dennis Man | 86 | Eredivisie | 58k coins | -16.5% | +51.6% |
 | Mauro Júnior | 86 | Eredivisie | 43k coins | -14% | +1.2% |
-| Couhaib Driouech | 86 | Eredivisie | 99k coins | -4% | -2.6% |
+| Steven Berghuis | 86 | Eredivisie | 56k coins | -10.8% | +28.9% |
+| Ricardo Pepi | 87 | Eredivisie | 39k coins | -6.5% | +3.9% |
+| Tjaronn Chery | 85 | Eredivisie | 44k coins | -3.3% | -10.7% |
 
 
 ### Análise das baixas
 
+- **Dennis Man (86)** caiu **-16.5%** em 24h, a **58k coins** (faixa do dia: 47k–74k). Está em linha com a média de 7 dias (-0%).
+
 - **Mauro Júnior (86)** caiu **-14%** em 24h, a **43k coins** (faixa do dia: 43k–50k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Couhaib Driouech (86)** caiu **-4%** em 24h, a **99k coins** (faixa do dia: 84k–99k). Está em linha com a média de 7 dias (+2%).
+- **Steven Berghuis (86)** caiu **-10.8%** em 24h, a **56k coins** (faixa do dia: 31k–65k). Está +21% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Dirk Kuyt já avançou 30.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Park Ji Sung já avançou 54.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Mauro Júnior recuou -14%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Dennis Man recuou -16.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -99,13 +101,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Dirk Kuyt (88, Eredivisie), com +30.9% em 24h, a 29k coins no PC.
+Park Ji Sung (91, Eredivisie), com +54.4% em 24h, a 105k coins no PC.
 
 **E a maior queda do dia?**
-Mauro Júnior (86), -14% em 24h, a 43k coins.
+Dennis Man (86), -16.5% em 24h, a 58k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 16 cartas em alta contra 10 em queda (média 4.43%).
+Hoje o mercado está em alta — predominam as valorizações, com 14 cartas em alta contra 8 em queda (média 5.31%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

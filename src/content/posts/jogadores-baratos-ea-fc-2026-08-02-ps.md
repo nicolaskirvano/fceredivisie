@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:36:12.000Z
+pubDatetime: 2026-08-03T01:36:12.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 11.833 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 11.250 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 11.875 coins.
+- **Posição mais frequente:** CAM, com 4 cartas.
+- **Faixa real:** 11.250 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,10 +42,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 11.250 coins | -8.2% |
-| Ricardo Pepi | 87 | ST | Eredivisie | 13.250 coins | -3% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 11.250 coins | +2.3% |
 | Ivan Perišić | 86 | RW | Eredivisie | 11.750 coins | +2.2% |
 | Dirk Kuyt | 86 | CAM | Eredivisie | 12.250 coins | +11.4% |
+| Kees Smit | 86 | CAM | Eredivisie | 13.500 coins | -3.6% |
 
 
 ## 📈 Destaques
@@ -56,9 +56,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ricardo Pepi (87, ST)** da Eredivisie, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Ivan Perišić (86, RW)** da Eredivisie, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -102,7 +102,6 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Eredivisie em 02/08 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-08-02-ps/)
 - [Mercado EA FC em 02/08: Eredivisie — Console (PS)](/posts/mercado-ea-fc-2026-08-02-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

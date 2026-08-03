@@ -1,22 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="405" viewBox="0 0 900 405" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="463" viewBox="0 0 900 463" role="img" aria-labelledby="title desc">
 <title id="title">Variação em 7 dias: Investimentos EA FC: Eredivisie em 03/08 — Console (PS)</title>
 <desc id="desc">Gráfico gerado a partir da tabela publicada neste artigo.</desc>
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Steven Berghuis</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ko Itakura</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.3%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.5%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mohamed Ihattaren</text>
-<rect x="285" y="153" width="201" height="28" rx="7" fill="#22c55e"/>
-<text x="496" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Youri Baas</text>
-<rect x="285" y="211" width="124" height="28" rx="7" fill="#22c55e"/>
-<text x="419" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.2%</text>
+<rect x="285" y="153" width="104" height="28" rx="7" fill="#22c55e"/>
+<text x="399" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jorthy Mokio</text>
+<rect x="285" y="211" width="78" height="28" rx="7" fill="#22c55e"/>
+<text x="373" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.3%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joël Drommel</text>
-<rect x="285" y="269" width="69" height="28" rx="7" fill="#22c55e"/>
-<text x="364" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Melle Meulensteen</text>
-<rect x="285" y="327" width="55" height="28" rx="7" fill="#22c55e"/>
-<text x="350" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+8.0%</text>
+<rect x="285" y="269" width="55" height="28" rx="7" fill="#22c55e"/>
+<text x="350" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Youri Baas</text>
+<rect x="285" y="327" width="40" height="28" rx="7" fill="#22c55e"/>
+<text x="335" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Melle Meulensteen</text>
+<rect x="285" y="385" width="37" height="28" rx="7" fill="#22c55e"/>
+<text x="332" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.7%</text>
 </svg>

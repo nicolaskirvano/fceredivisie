@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:36:11.000Z
+pubDatetime: 2026-08-04T01:36:11.000Z
 title: "Jogadores baratos EA FC: Eredivisie em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 11.450 coins.
+- **Preço médio das 5 opções:** 11.400 coins.
 - **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 11.250 a 12.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.250 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,9 +42,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jari Litmanen | 90 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 11.250 coins | +4.4% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 11.250 coins | 0% |
 | Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | -2.1% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.000 coins | -2% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11.750 coins | -4.1% |
 
 
 ## 📈 Destaques
@@ -57,7 +57,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (86, RW)** da Eredivisie, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca

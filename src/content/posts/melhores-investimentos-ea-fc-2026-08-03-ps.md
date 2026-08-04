@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:36:10.000Z
+pubDatetime: 2026-08-04T01:36:10.000Z
 title: "Investimentos EA FC: Eredivisie em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Dennis Man (86, Eredivisie) lidera, com +56.3% em 7 dias a 49k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Quinten Timber (85, Eredivisie) lidera, com +26.1% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Dennis Man (86) acumula **+56.3% em 7 dias** a 49k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Quinten Timber (85) acumula **+26.1% em 7 dias** a 38k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Eredivisie em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.8% em 24h** e **+25.2% em 7 dias**.
-- **0 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.5% em 24h** e **+10.6% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dennis Man | 86 | Eredivisie | 49k coins | +3.3% | +56.3% | Momentum moderado |
-| Paul Wanner | 84 | Eredivisie | 58k coins | +7.3% | +30% | Momentum moderado |
-| Tjaronn Chery | 85 | Eredivisie | 32k coins | +14% | +20.4% | Momentum moderado |
-| Mauro Júnior | 86 | Eredivisie | 49k coins | +4.2% | +5.3% | Entrada a observar |
+| Quinten Timber | 85 | Eredivisie | 38k coins | +14.5% | +26.1% | Momentum moderado |
+| Tjaronn Chery | 85 | Eredivisie | 27k coins | +6% | +14.8% | Momentum moderado |
+| Jorthy Mokio | 84 | Eredivisie | 55k coins | +22.2% | +10.6% | Esticada |
+| Melle Meulensteen | 84 | Eredivisie | 48k coins | +18.8% | +6.7% | Momentum moderado |
+| Mauro Júnior | 86 | Eredivisie | 50k coins | +5.3% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Dennis Man (86)** — 49k coins, **+56.3% em 7 dias** (+3.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quinten Timber (85)** — 38k coins, **+26.1% em 7 dias** (+14.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paul Wanner (84)** — 58k coins, **+30% em 7 dias** (+7.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tjaronn Chery (85)** — 27k coins, **+14.8% em 7 dias** (+6% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tjaronn Chery (85)** — 32k coins, **+20.4% em 7 dias** (+14% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jorthy Mokio (84)** — 55k coins, **+10.6% em 7 dias** (+22.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mauro Júnior (86)** — 49k coins, **+5.3% em 7 dias** (+4.2% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Melle Meulensteen (84)** — 48k coins, **+6.7% em 7 dias** (+18.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Mauro Júnior (86)** — 50k coins, **+5.3% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Dennis Man (86, Eredivisie) lidera, com +56.3% em 7 dias a 49k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Quinten Timber (85, Eredivisie) lidera, com +26.1% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

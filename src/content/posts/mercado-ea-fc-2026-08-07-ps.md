@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T16:36:10.000Z
+pubDatetime: 2026-08-07T19:36:08.000Z
 title: "Mercado EA FC em 07/08: Eredivisie — Console (PS)"
 draft: false
 featured: true
